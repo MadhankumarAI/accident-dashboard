@@ -1,0 +1,1003 @@
+Accident_ID,Date,Time,City,State,Country,Accident Type,Cause of Accident,Severity,Number of Vehicles Involved,Number of Casualties,Number of Injuries,Weather Condition,Road Condition,Police Report Filed,Emergency Services Response Time (min),Hospital Admitted To
+ACC00000,2025-01-12,15:52:12,Delhi,Delhi,India,Vehicle Collision,Poor Lighting,Severe,2,1,2,Clear,Under Construction,Yes,28.6,Apollo Hospitals
+ACC00001,2025-02-25,05:42:37,Mumbai,Maharashtra,India,Pedestrian Involved,Drunk Driving,Moderate,5,0,5,Rainy,Under Construction,No,13.8,Max Healthcare
+ACC00002,2025-03-17,00:47:59,Ahmedabad,Gujarat,India,Vehicle Collision,Road Conditions,Moderate,4,2,3,Rainy,Wet,No,9.1,Manipal Hospital
+ACC00003,2025-02-07,05:35:53,Delhi,Delhi,India,Train,Road Conditions,Severe,5,2,1,Stormy,Under Construction,Yes,43.9,Manipal Hospital
+ACC00004,2025-01-25,23:40:34,Delhi,Delhi,India,Bus,Road Conditions,Severe,5,1,6,Clear,Dry,Yes,35.9,Apollo Hospitals
+ACC00005,2025-02-21,21:26:16,Hyderabad,Telangana,India,Pedestrian Involved,Brake Failure,Severe,4,2,2,Foggy,Gravel,Yes,31.8,Apollo Hospitals
+ACC00006,2025-02-28,14:56:34,Lucknow,Uttar Pradesh,India,Two-Wheeler,Human Error,Moderate,2,3,4,Foggy,Under Construction,Yes,32.4,Apollo Hospitals
+ACC00007,2025-03-07,19:41:34,Hyderabad,Telangana,India,Vehicle Collision,Road Conditions,Severe,4,2,1,Rainy,Under Construction,No,13.5,Manipal Hospital
+ACC00008,2025-03-22,19:57:59,Kolkata,West Bengal,India,Slip & Fall,Drunk Driving,Severe,2,1,6,Foggy,Under Construction,No,40.9,Manipal Hospital
+ACC00009,2025-02-16,18:53:12,Chennai,Tamil Nadu,India,Truck,Drunk Driving,Fatal,1,0,1,Rainy,Wet,No,28.9,Manipal Hospital
+ACC00010,2025-02-13,17:15:44,Kolkata,West Bengal,India,Slip & Fall,Human Error,Severe,5,0,6,Clear,Under Construction,No,35.7,AIIMS
+ACC00011,2025-01-14,18:27:11,Delhi,Delhi,India,Bus,Brake Failure,Moderate,4,0,6,Foggy,Under Construction,Yes,25.3,Apollo Hospitals
+ACC00012,2025-03-29,06:55:22,Ahmedabad,Gujarat,India,Truck,Drunk Driving,Severe,2,0,5,Foggy,Potholes,Yes,9.5,AIIMS
+ACC00013,2025-02-12,17:04:36,Ahmedabad,Gujarat,India,Truck,Over Speeding,Moderate,5,0,1,Stormy,Dry,Yes,10.1,Manipal Hospital
+ACC00014,2025-03-05,06:41:21,Jaipur,Rajasthan,India,Two-Wheeler,Weather Conditions,Fatal,2,1,6,Foggy,Potholes,No,22.5,Max Healthcare
+ACC00015,2025-02-09,05:38:27,Pune,Maharashtra,India,Pedestrian Involved,Drunk Driving,Moderate,1,2,1,Rainy,Under Construction,Yes,5.3,Apollo Hospitals
+ACC00015,2024-02-09,05:38:27,Pune,Maharashtra,India,Pedestrian Involved,Drunk Driving,Moderate,1,2,1,Rainy,Under Construction,Yes,5.3,Apollo Hospitals
+ACC00016,2025-05-06,23:33:01,Hyderabad,Telangana,India,Pedestrian Involved,Over Speeding,Severe,1,1,3,Stormy,Wet,Yes,33.9,Max Healthcare
+ACC00616,2024-05-06,23:33:01,Hyderabad,Telangana,India,Pedestrian Involved,Over Speeding,Severe,1,1,3,Stormy,Wet,Yes,33.9,Max Healthcare
+ACC00017,2025-03-15,01:30:36,Lucknow,Uttar Pradesh,India,Slip & Fall,Drunk Driving,Fatal,4,1,1,Clear,Potholes,No,21.9,Manipal Hospital
+ACC00018,2025-05-03,10:04:31,Mumbai,Maharashtra,India,Pedestrian Involved,Over Speeding,Fatal,3,0,2,Rainy,Wet,No,10.6,Fortis Healthcare
+ACC00019,2025-01-09,19:00:40,Ahmedabad,Gujarat,India,Slip & Fall,Drunk Driving,Minor,4,0,1,Clear,Dry,Yes,11.7,Manipal Hospital
+ACC00020,2025-04-29,19:28:52,Pune,Maharashtra,India,Truck,Road Conditions,Fatal,1,1,4,Clear,Potholes,No,42.1,Manipal Hospital
+ACC00021,2025-05-08,11:29:14,Ahmedabad,Gujarat,India,Fire Accident,Poor Lighting,Fatal,2,1,3,Rainy,Dry,Yes,34.9,Apollo Hospitals
+ACC00022,2025-04-04,02:35:06,Mumbai,Maharashtra,India,Slip & Fall,Human Error,Moderate,1,0,2,Clear,Under Construction,Yes,32.0,Fortis Healthcare
+ACC00023,2025-04-08,18:01:54,Kolkata,West Bengal,India,Pedestrian Involved,Human Error,Moderate,5,0,5,Clear,Potholes,No,42.4,Fortis Healthcare
+ACC00024,2025-03-04,07:28:20,Chennai,Tamil Nadu,India,Truck,Weather Conditions,Fatal,2,2,4,Foggy,Dry,Yes,23.3,Max Healthcare
+ACC00025,2025-03-01,09:03:16,Delhi,Delhi,India,Pedestrian Involved,Human Error,Moderate,5,2,2,Foggy,Dry,Yes,19.8,Fortis Healthcare
+ACC00026,2025-04-13,10:32:10,Pune,Maharashtra,India,Bus,Human Error,Minor,5,2,6,Clear,Wet,No,9.6,Apollo Hospitals
+ACC00027,2025-04-20,14:39:32,Jaipur,Rajasthan,India,Two-Wheeler,Weather Conditions,Severe,5,1,6,Foggy,Wet,No,25.2,AIIMS
+ACC00028,2025-04-05,21:28:44,Mumbai,Maharashtra,India,Pedestrian Involved,Poor Lighting,Fatal,3,0,1,Foggy,Wet,No,11.5,Manipal Hospital
+ACC00029,2025-03-11,05:19:01,Jaipur,Rajasthan,India,Fire Accident,Human Error,Minor,1,0,6,Rainy,Under Construction,Yes,38.4,Max Healthcare
+ACC00030,2025-01-18,04:28:11,Jaipur,Rajasthan,India,Two-Wheeler,Brake Failure,Moderate,1,2,3,Clear,Gravel,Yes,32.3,Apollo Hospitals
+ACC00031,2025-01-25,13:46:57,Chennai,Tamil Nadu,India,Fire Accident,Human Error,Moderate,2,1,2,Stormy,Dry,Yes,34.5,AIIMS
+ACC00032,2025-03-19,00:20:50,Kolkata,West Bengal,India,Truck,Weather Conditions,Moderate,1,3,1,Stormy,Wet,Yes,37.7,Manipal Hospital
+ACC00033,2025-02-15,04:59:38,Chennai,Tamil Nadu,India,Bus,Road Conditions,Moderate,2,0,6,Rainy,Potholes,No,16.1,Apollo Hospitals
+ACC00034,2025-03-01,13:10:40,Ahmedabad,Gujarat,India,Train,Poor Lighting,Fatal,5,2,1,Clear,Gravel,Yes,28.2,AIIMS
+ACC00035,2025-01-14,19:15:30,Mumbai,Maharashtra,India,Pedestrian Involved,Human Error,Fatal,3,2,4,Clear,Potholes,Yes,15.2,Manipal Hospital
+ACC00036,2025-02-14,08:30:30,Mumbai,Maharashtra,India,Truck,Weather Conditions,Fatal,1,2,5,Foggy,Dry,No,25.3,Manipal Hospital
+ACC00037,2025-03-24,12:38:22,Chennai,Tamil Nadu,India,Fire Accident,Poor Lighting,Severe,5,1,2,Stormy,Potholes,Yes,29.6,AIIMS
+ACC00038,2025-03-24,17:05:08,Kolkata,West Bengal,India,Vehicle Collision,Weather Conditions,Severe,2,3,5,Foggy,Potholes,No,22.7,Fortis Healthcare
+ACC00039,2025-01-15,05:44:50,Jaipur,Rajasthan,India,Slip & Fall,Road Conditions,Moderate,1,2,5,Foggy,Dry,Yes,31.9,Fortis Healthcare
+ACC00040,2025-02-09,22:34:44,Hyderabad,Telangana,India,Two-Wheeler,Over Speeding,Minor,2,3,5,Clear,Potholes,No,40.4,Max Healthcare
+ACC00041,2025-01-05,08:29:03,Hyderabad,Telangana,India,Fire Accident,Brake Failure,Fatal,2,1,6,Clear,Dry,No,13.8,Max Healthcare
+ACC00042,2025-04-22,10:36:56,Pune,Maharashtra,India,Vehicle Collision,Human Error,Moderate,1,3,2,Stormy,Under Construction,No,43.0,Manipal Hospital
+ACC00043,2025-02-26,23:56:54,Lucknow,Uttar Pradesh,India,Fire Accident,Road Conditions,Fatal,2,3,4,Foggy,Wet,No,35.6,Max Healthcare
+ACC00044,2025-03-29,12:45:47,Pune,Maharashtra,India,Truck,Weather Conditions,Fatal,1,2,2,Foggy,Gravel,No,40.7,Apollo Hospitals
+ACC00045,2025-01-15,18:41:53,Bengaluru,Karnataka,India,Two-Wheeler,Drunk Driving,Fatal,2,1,1,Stormy,Potholes,No,26.7,Manipal Hospital
+ACC00046,2025-03-15,09:59:54,Mumbai,Maharashtra,India,Truck,Road Conditions,Fatal,4,0,5,Stormy,Potholes,Yes,42.7,AIIMS
+ACC00047,2025-01-23,11:49:32,Kolkata,West Bengal,India,Fire Accident,Human Error,Moderate,4,1,3,Stormy,Potholes,Yes,20.6,Manipal Hospital
+ACC00048,2025-03-06,17:45:19,Bengaluru,Karnataka,India,Slip & Fall,Drunk Driving,Minor,4,0,1,Stormy,Wet,No,12.3,AIIMS
+ACC00049,2025-04-12,09:51:12,Kolkata,West Bengal,India,Train,Drunk Driving,Fatal,3,2,4,Foggy,Potholes,No,38.4,Manipal Hospital
+ACC00050,2025-04-25,07:55:21,Mumbai,Maharashtra,India,Vehicle Collision,Weather Conditions,Moderate,1,0,1,Rainy,Wet,Yes,29.9,Fortis Healthcare
+ACC00051,2025-02-22,18:53:30,Bengaluru,Karnataka,India,Slip & Fall,Poor Lighting,Minor,5,1,4,Foggy,Gravel,Yes,29.2,Apollo Hospitals
+ACC00052,2025-02-01,20:41:03,Bengaluru,Karnataka,India,Bus,Over Speeding,Minor,3,3,4,Rainy,Dry,Yes,9.1,AIIMS
+ACC00053,2025-01-16,16:39:48,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Road Conditions,Minor,3,3,6,Foggy,Dry,No,5.5,Manipal Hospital
+ACC00054,2025-01-21,12:41:58,Pune,Maharashtra,India,Pedestrian Involved,Brake Failure,Severe,4,1,4,Rainy,Under Construction,No,29.6,Max Healthcare
+ACC00055,2025-04-09,23:57:05,Pune,Maharashtra,India,Slip & Fall,Brake Failure,Severe,3,1,1,Foggy,Potholes,Yes,35.0,Max Healthcare
+ACC00056,2025-04-26,12:02:52,Lucknow,Uttar Pradesh,India,Fire Accident,Weather Conditions,Minor,4,2,2,Stormy,Wet,No,36.9,AIIMS
+ACC00057,2025-02-18,09:28:38,Ahmedabad,Gujarat,India,Bus,Human Error,Minor,5,1,1,Rainy,Potholes,No,27.2,Fortis Healthcare
+ACC00058,2025-02-08,00:59:01,Pune,Maharashtra,India,Slip & Fall,Brake Failure,Minor,1,2,2,Stormy,Wet,No,31.6,AIIMS
+ACC00059,2025-04-23,16:33:54,Pune,Maharashtra,India,Train,Brake Failure,Severe,3,3,3,Foggy,Gravel,Yes,9.8,Fortis Healthcare
+ACC00060,2025-02-08,23:29:34,Chennai,Tamil Nadu,India,Pedestrian Involved,Poor Lighting,Moderate,2,1,6,Stormy,Gravel,No,44.2,Fortis Healthcare
+ACC00061,2025-03-23,08:36:46,Ahmedabad,Gujarat,India,Truck,Weather Conditions,Moderate,3,0,6,Rainy,Gravel,Yes,44.0,Max Healthcare
+ACC00062,2025-01-13,16:43:27,Ahmedabad,Gujarat,India,Two-Wheeler,Poor Lighting,Fatal,1,0,5,Foggy,Potholes,No,22.6,Fortis Healthcare
+ACC00063,2025-03-18,13:26:22,Mumbai,Maharashtra,India,Bus,Road Conditions,Fatal,1,0,4,Stormy,Dry,Yes,11.1,Max Healthcare
+ACC00064,2025-01-24,23:56:38,Ahmedabad,Gujarat,India,Pedestrian Involved,Drunk Driving,Minor,5,3,5,Rainy,Under Construction,No,23.0,Manipal Hospital
+ACC00065,2025-03-19,05:12:21,Ahmedabad,Gujarat,India,Fire Accident,Weather Conditions,Minor,5,0,2,Rainy,Gravel,Yes,11.3,Fortis Healthcare
+ACC00066,2025-02-02,15:17:33,Jaipur,Rajasthan,India,Pedestrian Involved,Drunk Driving,Minor,4,3,6,Stormy,Gravel,Yes,14.3,AIIMS
+ACC00067,2025-05-01,02:34:12,Pune,Maharashtra,India,Pedestrian Involved,Poor Lighting,Moderate,3,1,4,Clear,Under Construction,Yes,30.9,AIIMS
+ACC00068,2025-03-01,13:13:12,Bengaluru,Karnataka,India,Pedestrian Involved,Over Speeding,Moderate,3,2,4,Clear,Potholes,No,33.0,AIIMS
+ACC00069,2025-01-11,14:12:24,Jaipur,Rajasthan,India,Slip & Fall,Brake Failure,Minor,5,0,4,Foggy,Under Construction,No,6.0,Fortis Healthcare
+ACC00070,2025-02-08,01:46:46,Lucknow,Uttar Pradesh,India,Vehicle Collision,Road Conditions,Severe,5,0,2,Stormy,Under Construction,No,41.6,Fortis Healthcare
+ACC00071,2025-02-10,06:20:28,Lucknow,Uttar Pradesh,India,Fire Accident,Poor Lighting,Fatal,1,3,3,Stormy,Gravel,No,31.8,Fortis Healthcare
+ACC00072,2025-03-26,10:13:29,Chennai,Tamil Nadu,India,Fire Accident,Poor Lighting,Fatal,3,3,5,Clear,Potholes,Yes,17.6,AIIMS
+ACC00073,2025-03-15,20:58:00,Delhi,Delhi,India,Fire Accident,Road Conditions,Minor,5,3,4,Clear,Wet,No,29.9,Manipal Hospital
+ACC00074,2025-04-22,06:22:34,Pune,Maharashtra,India,Vehicle Collision,Drunk Driving,Severe,5,1,3,Stormy,Potholes,Yes,6.2,Max Healthcare
+ACC00075,2025-04-28,07:28:07,Hyderabad,Telangana,India,Two-Wheeler,Weather Conditions,Minor,5,3,1,Rainy,Dry,No,42.9,Fortis Healthcare
+ACC00076,2025-03-29,12:49:04,Pune,Maharashtra,India,Bus,Human Error,Severe,4,3,4,Rainy,Potholes,Yes,20.3,Max Healthcare
+ACC00077,2025-03-13,12:00:43,Jaipur,Rajasthan,India,Two-Wheeler,Road Conditions,Minor,3,3,3,Foggy,Dry,No,34.0,Max Healthcare
+ACC00078,2025-02-12,23:39:22,Lucknow,Uttar Pradesh,India,Slip & Fall,Road Conditions,Moderate,4,3,3,Foggy,Under Construction,No,23.2,AIIMS
+ACC00079,2025-04-04,07:32:09,Hyderabad,Telangana,India,Truck,Human Error,Fatal,2,3,1,Foggy,Potholes,No,20.4,Fortis Healthcare
+ACC00080,2025-04-12,13:07:28,Pune,Maharashtra,India,Vehicle Collision,Drunk Driving,Severe,1,3,1,Stormy,Dry,Yes,21.4,Fortis Healthcare
+ACC00081,2025-02-21,04:59:59,Delhi,Delhi,India,Slip & Fall,Road Conditions,Severe,3,3,6,Clear,Gravel,No,43.2,Manipal Hospital
+ACC00082,2025-01-14,17:05:44,Jaipur,Rajasthan,India,Vehicle Collision,Human Error,Minor,2,2,2,Clear,Potholes,Yes,35.4,Apollo Hospitals
+ACC00083,2025-01-18,02:43:41,Pune,Maharashtra,India,Two-Wheeler,Poor Lighting,Severe,1,0,3,Clear,Gravel,No,20.0,Fortis Healthcare
+ACC00084,2025-01-13,00:47:09,Hyderabad,Telangana,India,Fire Accident,Human Error,Moderate,2,1,1,Stormy,Under Construction,Yes,24.9,Max Healthcare
+ACC00085,2025-04-17,12:07:28,Bengaluru,Karnataka,India,Truck,Brake Failure,Severe,4,2,6,Clear,Potholes,No,32.1,Fortis Healthcare
+ACC00086,2025-03-13,06:57:06,Delhi,Delhi,India,Slip & Fall,Weather Conditions,Severe,4,2,4,Foggy,Wet,No,39.1,Apollo Hospitals
+ACC00087,2025-02-17,13:00:54,Hyderabad,Telangana,India,Fire Accident,Human Error,Severe,5,2,6,Foggy,Dry,No,16.0,Max Healthcare
+ACC00088,2025-02-08,21:36:56,Mumbai,Maharashtra,India,Slip & Fall,Road Conditions,Severe,2,2,2,Rainy,Under Construction,No,32.1,Fortis Healthcare
+ACC00089,2025-01-17,20:26:01,Delhi,Delhi,India,Vehicle Collision,Weather Conditions,Fatal,1,2,6,Rainy,Dry,No,18.1,Manipal Hospital
+ACC00090,2025-03-15,07:47:17,Bengaluru,Karnataka,India,Truck,Drunk Driving,Severe,5,2,2,Foggy,Potholes,No,34.9,AIIMS
+ACC00091,2025-04-13,10:04:13,Delhi,Delhi,India,Slip & Fall,Over Speeding,Moderate,2,3,5,Foggy,Dry,No,5.6,Max Healthcare
+ACC00092,2025-05-06,11:20:21,Delhi,Delhi,India,Slip & Fall,Weather Conditions,Severe,5,3,6,Foggy,Dry,Yes,23.9,Max Healthcare
+ACC00093,2025-04-25,20:34:18,Jaipur,Rajasthan,India,Train,Human Error,Moderate,1,3,6,Foggy,Potholes,Yes,10.6,Apollo Hospitals
+ACC00094,2025-03-01,06:37:31,Ahmedabad,Gujarat,India,Slip & Fall,Over Speeding,Minor,2,1,4,Stormy,Gravel,No,28.5,Fortis Healthcare
+ACC00095,2025-02-14,00:15:36,Kolkata,West Bengal,India,Pedestrian Involved,Road Conditions,Fatal,5,3,3,Clear,Gravel,Yes,22.7,Fortis Healthcare
+ACC00096,2025-03-23,15:49:46,Chennai,Tamil Nadu,India,Pedestrian Involved,Poor Lighting,Severe,5,2,1,Stormy,Gravel,Yes,43.7,Manipal Hospital
+ACC00097,2025-04-16,23:51:51,Delhi,Delhi,India,Truck,Poor Lighting,Minor,1,2,2,Rainy,Under Construction,Yes,7.7,Max Healthcare
+ACC00098,2025-02-06,21:47:44,Hyderabad,Telangana,India,Truck,Road Conditions,Moderate,3,1,5,Clear,Gravel,Yes,44.5,Max Healthcare
+ACC00099,2025-03-21,02:34:32,Ahmedabad,Gujarat,India,Two-Wheeler,Over Speeding,Minor,2,0,3,Rainy,Under Construction,No,5.6,AIIMS
+ACC00100,2025-02-03,10:56:09,Mumbai,Maharashtra,India,Two-Wheeler,Poor Lighting,Fatal,5,0,6,Clear,Potholes,No,36.1,Max Healthcare
+ACC00101,2025-04-11,16:00:24,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Brake Failure,Moderate,5,0,6,Foggy,Potholes,Yes,7.4,Manipal Hospital
+ACC00102,2025-03-02,09:16:26,Kolkata,West Bengal,India,Fire Accident,Poor Lighting,Minor,4,3,1,Clear,Gravel,Yes,7.6,AIIMS
+ACC00103,2025-03-17,15:56:38,Lucknow,Uttar Pradesh,India,Train,Brake Failure,Severe,4,3,1,Clear,Under Construction,Yes,22.2,Fortis Healthcare
+ACC00104,2025-03-20,04:34:34,Kolkata,West Bengal,India,Train,Road Conditions,Fatal,4,3,6,Clear,Gravel,No,17.5,AIIMS
+ACC00105,2025-03-11,12:22:15,Chennai,Tamil Nadu,India,Two-Wheeler,Poor Lighting,Fatal,1,0,1,Clear,Potholes,Yes,34.8,AIIMS
+ACC00106,2025-05-02,17:08:23,Bengaluru,Karnataka,India,Vehicle Collision,Human Error,Severe,1,3,3,Stormy,Dry,No,29.0,AIIMS
+ACC00107,2025-01-11,14:30:10,Delhi,Delhi,India,Truck,Drunk Driving,Fatal,2,0,3,Foggy,Dry,No,28.0,Manipal Hospital
+ACC00108,2025-02-28,17:06:24,Jaipur,Rajasthan,India,Vehicle Collision,Human Error,Severe,1,1,3,Foggy,Gravel,No,5.2,Fortis Healthcare
+ACC00109,2025-03-12,03:23:30,Lucknow,Uttar Pradesh,India,Fire Accident,Over Speeding,Moderate,1,0,6,Rainy,Potholes,No,23.1,Fortis Healthcare
+ACC00110,2025-02-06,06:53:24,Chennai,Tamil Nadu,India,Bus,Poor Lighting,Severe,5,0,1,Rainy,Wet,Yes,32.0,AIIMS
+ACC00111,2025-04-10,23:12:47,Pune,Maharashtra,India,Fire Accident,Brake Failure,Fatal,4,2,2,Clear,Gravel,No,9.4,Max Healthcare
+ACC00112,2025-04-20,13:15:17,Pune,Maharashtra,India,Bus,Over Speeding,Moderate,4,0,1,Rainy,Gravel,Yes,35.7,AIIMS
+ACC00113,2025-04-18,00:07:39,Ahmedabad,Gujarat,India,Train,Over Speeding,Minor,4,3,2,Rainy,Potholes,Yes,25.0,AIIMS
+ACC00114,2025-04-17,04:01:54,Delhi,Delhi,India,Fire Accident,Road Conditions,Minor,4,0,4,Clear,Gravel,No,27.9,Manipal Hospital
+ACC00115,2025-03-09,06:21:31,Ahmedabad,Gujarat,India,Pedestrian Involved,Brake Failure,Minor,3,1,5,Stormy,Gravel,Yes,22.5,Apollo Hospitals
+ACC00116,2025-03-19,05:58:30,Hyderabad,Telangana,India,Fire Accident,Human Error,Fatal,5,0,4,Foggy,Gravel,Yes,18.3,Fortis Healthcare
+ACC00117,2025-03-24,02:25:04,Delhi,Delhi,India,Pedestrian Involved,Human Error,Moderate,3,2,6,Rainy,Wet,Yes,10.9,Fortis Healthcare
+ACC00118,2025-04-15,16:51:40,Bengaluru,Karnataka,India,Two-Wheeler,Road Conditions,Minor,2,3,4,Stormy,Under Construction,No,39.6,AIIMS
+ACC00119,2025-02-15,16:48:43,Bengaluru,Karnataka,India,Slip & Fall,Over Speeding,Fatal,4,2,3,Clear,Gravel,Yes,17.4,Manipal Hospital
+ACC00120,2025-01-08,18:49:27,Mumbai,Maharashtra,India,Vehicle Collision,Weather Conditions,Severe,1,0,5,Stormy,Potholes,Yes,23.0,Max Healthcare
+ACC00121,2025-04-11,17:50:43,Hyderabad,Telangana,India,Train,Human Error,Fatal,5,1,1,Stormy,Dry,No,44.3,Apollo Hospitals
+ACC00122,2025-01-31,01:57:22,Jaipur,Rajasthan,India,Two-Wheeler,Over Speeding,Moderate,4,3,5,Rainy,Gravel,No,41.7,Manipal Hospital
+ACC00123,2025-01-28,05:17:29,Kolkata,West Bengal,India,Train,Poor Lighting,Minor,3,0,3,Clear,Under Construction,No,16.4,Max Healthcare
+ACC00124,2025-02-12,18:47:58,Bengaluru,Karnataka,India,Train,Over Speeding,Moderate,3,2,6,Stormy,Wet,Yes,17.4,Manipal Hospital
+ACC00125,2025-02-28,21:43:01,Chennai,Tamil Nadu,India,Two-Wheeler,Poor Lighting,Minor,4,2,1,Foggy,Gravel,Yes,43.0,AIIMS
+ACC00126,2025-01-13,02:58:15,Pune,Maharashtra,India,Truck,Drunk Driving,Moderate,2,0,3,Clear,Under Construction,Yes,31.5,Max Healthcare
+ACC00127,2025-04-12,17:35:31,Bengaluru,Karnataka,India,Fire Accident,Drunk Driving,Moderate,2,1,6,Stormy,Dry,No,19.6,Fortis Healthcare
+ACC00128,2025-01-31,06:02:50,Pune,Maharashtra,India,Bus,Road Conditions,Fatal,2,1,3,Stormy,Wet,No,32.1,Max Healthcare
+ACC00129,2025-02-16,09:37:24,Pune,Maharashtra,India,Slip & Fall,Road Conditions,Severe,4,3,2,Rainy,Under Construction,Yes,39.9,Apollo Hospitals
+ACC00130,2025-01-14,08:51:06,Pune,Maharashtra,India,Train,Human Error,Minor,5,0,3,Clear,Wet,No,23.0,Max Healthcare
+ACC00131,2025-03-13,15:31:10,Bengaluru,Karnataka,India,Fire Accident,Over Speeding,Moderate,4,2,1,Stormy,Dry,No,25.1,Fortis Healthcare
+ACC00132,2025-04-04,13:04:24,Kolkata,West Bengal,India,Pedestrian Involved,Weather Conditions,Moderate,1,2,1,Foggy,Wet,Yes,6.5,Manipal Hospital
+ACC00133,2025-04-06,23:46:56,Bengaluru,Karnataka,India,Slip & Fall,Brake Failure,Minor,1,0,3,Rainy,Wet,No,9.4,AIIMS
+ACC00134,2025-04-04,08:34:30,Hyderabad,Telangana,India,Bus,Over Speeding,Minor,2,3,6,Stormy,Dry,Yes,38.5,Manipal Hospital
+ACC00135,2025-01-21,21:42:25,Lucknow,Uttar Pradesh,India,Vehicle Collision,Poor Lighting,Moderate,2,2,4,Clear,Under Construction,No,14.6,Manipal Hospital
+ACC00136,2025-03-08,01:31:48,Bengaluru,Karnataka,India,Pedestrian Involved,Human Error,Severe,1,0,4,Stormy,Dry,No,44.2,AIIMS
+ACC00137,2025-04-25,16:22:44,Mumbai,Maharashtra,India,Train,Road Conditions,Minor,3,1,6,Clear,Under Construction,No,10.3,AIIMS
+ACC00138,2025-05-06,00:57:26,Jaipur,Rajasthan,India,Train,Road Conditions,Moderate,4,3,6,Rainy,Wet,Yes,33.6,Manipal Hospital
+ACC00139,2025-01-13,23:13:19,Mumbai,Maharashtra,India,Bus,Drunk Driving,Minor,2,0,3,Foggy,Under Construction,No,44.6,Max Healthcare
+ACC00140,2025-01-21,06:18:50,Pune,Maharashtra,India,Bus,Over Speeding,Moderate,3,2,1,Foggy,Gravel,Yes,37.0,Manipal Hospital
+ACC00141,2025-02-15,04:01:12,Kolkata,West Bengal,India,Slip & Fall,Brake Failure,Severe,2,3,6,Stormy,Gravel,No,37.0,Manipal Hospital
+ACC00142,2025-02-20,19:19:01,Delhi,Delhi,India,Fire Accident,Human Error,Moderate,5,2,3,Clear,Dry,No,31.4,AIIMS
+ACC00143,2025-03-26,21:27:07,Pune,Maharashtra,India,Fire Accident,Drunk Driving,Fatal,3,3,1,Foggy,Under Construction,No,16.0,Apollo Hospitals
+ACC00144,2025-03-08,22:38:43,Delhi,Delhi,India,Fire Accident,Weather Conditions,Moderate,1,1,5,Stormy,Dry,Yes,7.7,AIIMS
+ACC00145,2025-04-13,06:55:19,Chennai,Tamil Nadu,India,Fire Accident,Human Error,Minor,5,1,6,Stormy,Gravel,No,22.8,Apollo Hospitals
+ACC00146,2025-01-30,01:34:55,Lucknow,Uttar Pradesh,India,Two-Wheeler,Human Error,Severe,4,2,6,Foggy,Wet,Yes,6.0,Fortis Healthcare
+ACC00147,2025-01-20,10:13:49,Pune,Maharashtra,India,Fire Accident,Human Error,Minor,3,2,6,Stormy,Wet,No,32.8,Manipal Hospital
+ACC00148,2025-02-03,15:25:32,Hyderabad,Telangana,India,Pedestrian Involved,Drunk Driving,Minor,4,1,6,Stormy,Dry,No,31.7,Apollo Hospitals
+ACC00149,2025-03-22,11:21:56,Jaipur,Rajasthan,India,Bus,Weather Conditions,Moderate,2,2,5,Rainy,Dry,Yes,36.7,Fortis Healthcare
+ACC00150,2025-04-27,07:17:29,Pune,Maharashtra,India,Vehicle Collision,Weather Conditions,Severe,4,1,5,Clear,Dry,No,20.9,Manipal Hospital
+ACC00151,2025-04-04,10:01:26,Jaipur,Rajasthan,India,Fire Accident,Road Conditions,Fatal,5,0,2,Foggy,Dry,No,23.6,Max Healthcare
+ACC00152,2025-01-01,21:30:26,Chennai,Tamil Nadu,India,Two-Wheeler,Road Conditions,Moderate,2,3,5,Clear,Dry,Yes,17.2,Fortis Healthcare
+ACC00153,2025-04-01,08:21:48,Chennai,Tamil Nadu,India,Truck,Weather Conditions,Severe,1,2,2,Foggy,Wet,No,29.6,Apollo Hospitals
+ACC00154,2025-04-16,11:22:46,Jaipur,Rajasthan,India,Two-Wheeler,Human Error,Moderate,2,2,5,Clear,Dry,Yes,6.8,Max Healthcare
+ACC00155,2025-04-02,14:26:46,Ahmedabad,Gujarat,India,Truck,Road Conditions,Fatal,5,0,4,Foggy,Gravel,No,14.8,Manipal Hospital
+ACC00156,2025-01-24,18:00:55,Ahmedabad,Gujarat,India,Slip & Fall,Over Speeding,Minor,2,3,4,Stormy,Potholes,Yes,18.6,Fortis Healthcare
+ACC00157,2025-01-23,23:19:00,Chennai,Tamil Nadu,India,Train,Poor Lighting,Severe,4,1,3,Clear,Gravel,Yes,23.7,AIIMS
+ACC00158,2025-04-05,00:56:39,Pune,Maharashtra,India,Truck,Drunk Driving,Minor,1,2,4,Stormy,Wet,Yes,37.5,Max Healthcare
+ACC00159,2025-03-13,20:22:50,Chennai,Tamil Nadu,India,Truck,Road Conditions,Moderate,4,3,4,Foggy,Potholes,Yes,8.6,Manipal Hospital
+ACC00160,2025-01-05,16:04:24,Jaipur,Rajasthan,India,Slip & Fall,Drunk Driving,Moderate,5,2,1,Clear,Gravel,No,28.9,Manipal Hospital
+ACC00161,2025-04-17,09:59:30,Ahmedabad,Gujarat,India,Vehicle Collision,Road Conditions,Minor,4,1,3,Foggy,Potholes,No,6.8,Apollo Hospitals
+ACC00162,2025-03-26,18:15:08,Lucknow,Uttar Pradesh,India,Truck,Weather Conditions,Severe,1,3,5,Stormy,Under Construction,No,38.0,Max Healthcare
+ACC00163,2025-01-18,17:58:16,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Drunk Driving,Minor,4,2,3,Foggy,Wet,Yes,29.1,Manipal Hospital
+ACC00164,2025-02-15,09:24:57,Jaipur,Rajasthan,India,Vehicle Collision,Over Speeding,Minor,2,2,4,Stormy,Wet,Yes,18.1,Max Healthcare
+ACC00165,2025-03-16,08:57:21,Chennai,Tamil Nadu,India,Two-Wheeler,Brake Failure,Severe,5,2,5,Stormy,Under Construction,No,24.0,Apollo Hospitals
+ACC00166,2025-02-03,06:47:32,Chennai,Tamil Nadu,India,Train,Poor Lighting,Minor,4,2,6,Clear,Under Construction,No,15.6,Max Healthcare
+ACC00167,2025-01-02,10:40:20,Lucknow,Uttar Pradesh,India,Truck,Poor Lighting,Minor,5,3,2,Stormy,Wet,Yes,6.3,Apollo Hospitals
+ACC00168,2025-03-08,08:42:00,Hyderabad,Telangana,India,Vehicle Collision,Brake Failure,Severe,4,1,4,Rainy,Potholes,No,39.9,Apollo Hospitals
+ACC00169,2025-01-31,03:11:03,Bengaluru,Karnataka,India,Truck,Human Error,Severe,4,3,3,Rainy,Potholes,No,26.9,AIIMS
+ACC00170,2025-02-21,21:53:19,Lucknow,Uttar Pradesh,India,Slip & Fall,Drunk Driving,Moderate,3,2,2,Foggy,Gravel,Yes,32.6,Manipal Hospital
+ACC00171,2025-01-10,17:43:42,Chennai,Tamil Nadu,India,Slip & Fall,Weather Conditions,Severe,3,0,5,Stormy,Potholes,No,43.2,Fortis Healthcare
+ACC00172,2025-03-15,10:12:32,Ahmedabad,Gujarat,India,Vehicle Collision,Weather Conditions,Minor,3,3,6,Foggy,Potholes,Yes,13.1,Max Healthcare
+ACC00173,2025-03-05,05:37:58,Ahmedabad,Gujarat,India,Bus,Drunk Driving,Minor,5,1,2,Clear,Under Construction,Yes,30.5,Apollo Hospitals
+ACC00174,2025-01-07,11:32:45,Delhi,Delhi,India,Fire Accident,Weather Conditions,Fatal,1,1,1,Rainy,Potholes,No,24.1,Fortis Healthcare
+ACC00175,2025-02-18,11:05:06,Ahmedabad,Gujarat,India,Train,Weather Conditions,Minor,1,1,5,Clear,Wet,No,40.3,Fortis Healthcare
+ACC00176,2025-01-24,21:02:26,Mumbai,Maharashtra,India,Fire Accident,Road Conditions,Fatal,2,2,1,Clear,Gravel,Yes,42.1,AIIMS
+ACC00177,2025-01-17,22:29:30,Ahmedabad,Gujarat,India,Slip & Fall,Poor Lighting,Fatal,2,3,3,Rainy,Dry,No,11.5,Manipal Hospital
+ACC00178,2025-02-20,07:13:16,Ahmedabad,Gujarat,India,Two-Wheeler,Over Speeding,Severe,3,1,2,Stormy,Potholes,No,8.5,Apollo Hospitals
+ACC00179,2025-02-07,13:47:55,Bengaluru,Karnataka,India,Two-Wheeler,Brake Failure,Severe,2,0,3,Stormy,Wet,No,35.2,AIIMS
+ACC00180,2025-01-03,19:27:08,Ahmedabad,Gujarat,India,Vehicle Collision,Weather Conditions,Severe,2,0,6,Clear,Potholes,No,11.4,Max Healthcare
+ACC00181,2025-01-13,20:35:45,Ahmedabad,Gujarat,India,Pedestrian Involved,Poor Lighting,Severe,3,1,2,Rainy,Potholes,Yes,23.2,Max Healthcare
+ACC00182,2025-04-13,12:07:54,Chennai,Tamil Nadu,India,Fire Accident,Poor Lighting,Fatal,5,1,2,Clear,Under Construction,No,26.1,AIIMS
+ACC00183,2025-01-09,06:05:14,Delhi,Delhi,India,Pedestrian Involved,Over Speeding,Moderate,5,1,2,Foggy,Under Construction,No,9.6,Fortis Healthcare
+ACC00184,2025-04-13,15:39:14,Lucknow,Uttar Pradesh,India,Slip & Fall,Over Speeding,Fatal,1,3,2,Stormy,Potholes,Yes,27.4,AIIMS
+ACC00185,2025-03-25,22:30:52,Mumbai,Maharashtra,India,Fire Accident,Weather Conditions,Minor,2,0,1,Stormy,Gravel,Yes,26.6,Apollo Hospitals
+ACC00186,2025-03-20,15:53:07,Delhi,Delhi,India,Slip & Fall,Over Speeding,Severe,4,1,2,Stormy,Gravel,No,22.9,Manipal Hospital
+ACC00187,2025-01-26,15:52:33,Kolkata,West Bengal,India,Pedestrian Involved,Poor Lighting,Moderate,3,0,2,Stormy,Under Construction,Yes,34.1,Fortis Healthcare
+ACC00188,2025-02-09,16:23:26,Mumbai,Maharashtra,India,Vehicle Collision,Weather Conditions,Fatal,5,3,5,Stormy,Wet,Yes,23.4,Fortis Healthcare
+ACC00189,2025-01-19,10:42:54,Ahmedabad,Gujarat,India,Truck,Poor Lighting,Minor,1,3,5,Clear,Wet,Yes,7.7,Max Healthcare
+ACC00190,2025-04-17,07:19:45,Mumbai,Maharashtra,India,Slip & Fall,Human Error,Minor,2,0,4,Stormy,Wet,Yes,35.2,Apollo Hospitals
+ACC00191,2025-04-19,23:25:13,Bengaluru,Karnataka,India,Bus,Drunk Driving,Severe,5,2,2,Foggy,Wet,Yes,21.5,AIIMS
+ACC00192,2025-01-17,13:41:39,Mumbai,Maharashtra,India,Two-Wheeler,Poor Lighting,Fatal,5,3,1,Foggy,Potholes,No,32.9,Manipal Hospital
+ACC00193,2025-02-22,17:53:58,Bengaluru,Karnataka,India,Bus,Brake Failure,Moderate,5,3,2,Rainy,Gravel,Yes,37.2,Apollo Hospitals
+ACC00194,2025-02-06,16:46:17,Jaipur,Rajasthan,India,Fire Accident,Brake Failure,Moderate,4,1,3,Rainy,Gravel,Yes,41.9,AIIMS
+ACC00195,2025-02-27,19:15:30,Delhi,Delhi,India,Truck,Over Speeding,Severe,4,0,1,Rainy,Under Construction,Yes,24.2,AIIMS
+ACC00196,2025-01-17,15:43:41,Ahmedabad,Gujarat,India,Vehicle Collision,Drunk Driving,Moderate,1,3,2,Rainy,Potholes,Yes,27.1,AIIMS
+ACC00197,2025-02-20,16:57:35,Kolkata,West Bengal,India,Slip & Fall,Human Error,Severe,3,2,3,Stormy,Potholes,Yes,37.1,Manipal Hospital
+ACC00198,2025-03-21,04:50:26,Chennai,Tamil Nadu,India,Truck,Weather Conditions,Severe,4,0,5,Rainy,Wet,Yes,15.4,Max Healthcare
+ACC00199,2025-03-11,13:56:40,Lucknow,Uttar Pradesh,India,Fire Accident,Weather Conditions,Moderate,2,2,2,Stormy,Under Construction,Yes,25.0,AIIMS
+ACC00200,2025-01-07,21:34:50,Ahmedabad,Gujarat,India,Slip & Fall,Poor Lighting,Fatal,4,1,6,Foggy,Wet,Yes,33.8,Manipal Hospital
+ACC00201,2025-01-14,22:05:38,Bengaluru,Karnataka,India,Vehicle Collision,Human Error,Minor,1,0,1,Stormy,Wet,Yes,7.7,Fortis Healthcare
+ACC00202,2025-04-26,16:06:29,Mumbai,Maharashtra,India,Truck,Human Error,Fatal,3,0,5,Stormy,Potholes,Yes,5.3,Max Healthcare
+ACC00203,2025-04-26,08:02:29,Kolkata,West Bengal,India,Vehicle Collision,Over Speeding,Severe,5,2,1,Stormy,Wet,Yes,41.7,Max Healthcare
+ACC00204,2025-03-14,14:10:10,Bengaluru,Karnataka,India,Truck,Drunk Driving,Severe,3,2,4,Clear,Gravel,No,23.4,Fortis Healthcare
+ACC00205,2025-04-21,12:00:18,Hyderabad,Telangana,India,Bus,Poor Lighting,Minor,1,0,4,Stormy,Potholes,No,7.2,Apollo Hospitals
+ACC00206,2025-04-25,22:54:55,Bengaluru,Karnataka,India,Pedestrian Involved,Brake Failure,Fatal,3,0,5,Clear,Wet,Yes,41.1,Max Healthcare
+ACC00207,2025-02-28,02:16:17,Pune,Maharashtra,India,Bus,Over Speeding,Minor,3,0,2,Foggy,Dry,Yes,28.5,Manipal Hospital
+ACC00208,2025-04-06,14:25:52,Delhi,Delhi,India,Bus,Drunk Driving,Moderate,5,3,6,Foggy,Potholes,Yes,36.6,Apollo Hospitals
+ACC00209,2025-05-06,21:02:02,Jaipur,Rajasthan,India,Train,Over Speeding,Minor,4,1,1,Foggy,Under Construction,No,43.8,AIIMS
+ACC00210,2025-03-28,03:47:58,Mumbai,Maharashtra,India,Bus,Road Conditions,Fatal,4,1,3,Stormy,Potholes,Yes,32.2,Manipal Hospital
+ACC00211,2025-03-26,23:38:42,Delhi,Delhi,India,Bus,Road Conditions,Moderate,1,0,3,Rainy,Potholes,Yes,34.6,AIIMS
+ACC00212,2025-01-20,14:04:06,Chennai,Tamil Nadu,India,Pedestrian Involved,Over Speeding,Minor,3,3,3,Foggy,Dry,Yes,8.5,Manipal Hospital
+ACC00213,2025-04-16,01:32:03,Pune,Maharashtra,India,Fire Accident,Over Speeding,Minor,1,2,5,Clear,Under Construction,No,39.5,Apollo Hospitals
+ACC00214,2025-05-05,18:24:38,Ahmedabad,Gujarat,India,Fire Accident,Brake Failure,Minor,5,1,5,Rainy,Potholes,Yes,10.6,AIIMS
+ACC00215,2025-02-05,04:33:06,Ahmedabad,Gujarat,India,Slip & Fall,Drunk Driving,Minor,2,3,3,Stormy,Gravel,No,36.3,AIIMS
+ACC00216,2025-02-18,20:09:53,Ahmedabad,Gujarat,India,Truck,Poor Lighting,Fatal,5,1,4,Clear,Wet,No,5.3,Manipal Hospital
+ACC00217,2025-03-07,21:48:43,Chennai,Tamil Nadu,India,Fire Accident,Road Conditions,Severe,4,2,4,Rainy,Gravel,No,29.1,Fortis Healthcare
+ACC00218,2025-04-11,10:43:26,Pune,Maharashtra,India,Train,Drunk Driving,Fatal,3,2,6,Stormy,Under Construction,Yes,18.0,AIIMS
+ACC00219,2025-01-25,14:29:20,Kolkata,West Bengal,India,Train,Over Speeding,Moderate,5,1,6,Clear,Potholes,Yes,22.5,AIIMS
+ACC00220,2025-03-23,08:33:32,Delhi,Delhi,India,Fire Accident,Poor Lighting,Fatal,2,2,2,Foggy,Wet,No,36.6,Apollo Hospitals
+ACC00221,2025-01-15,00:19:07,Pune,Maharashtra,India,Slip & Fall,Human Error,Fatal,5,3,5,Clear,Gravel,Yes,9.4,Fortis Healthcare
+ACC00222,2025-04-05,08:31:56,Chennai,Tamil Nadu,India,Two-Wheeler,Poor Lighting,Minor,5,3,3,Stormy,Dry,Yes,8.9,Fortis Healthcare
+ACC00223,2025-02-12,07:36:32,Jaipur,Rajasthan,India,Truck,Brake Failure,Severe,4,3,6,Rainy,Gravel,Yes,24.3,AIIMS
+ACC00224,2025-03-21,12:44:38,Kolkata,West Bengal,India,Pedestrian Involved,Over Speeding,Moderate,3,2,3,Stormy,Wet,No,18.9,Apollo Hospitals
+ACC00225,2025-02-08,20:06:34,Pune,Maharashtra,India,Slip & Fall,Weather Conditions,Minor,3,0,6,Clear,Dry,No,30.9,Fortis Healthcare
+ACC00226,2025-04-23,14:25:45,Hyderabad,Telangana,India,Two-Wheeler,Human Error,Moderate,3,3,4,Rainy,Potholes,Yes,12.5,Manipal Hospital
+ACC00227,2025-01-16,01:40:46,Kolkata,West Bengal,India,Vehicle Collision,Poor Lighting,Moderate,4,3,4,Clear,Wet,Yes,16.1,Apollo Hospitals
+ACC00228,2025-01-16,01:15:14,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Road Conditions,Moderate,3,2,2,Stormy,Dry,No,31.8,Manipal Hospital
+ACC00229,2025-01-05,12:15:23,Jaipur,Rajasthan,India,Train,Human Error,Fatal,5,3,5,Clear,Gravel,No,38.8,Max Healthcare
+ACC00230,2025-03-16,18:58:51,Bengaluru,Karnataka,India,Bus,Human Error,Minor,2,2,1,Rainy,Gravel,Yes,12.3,Fortis Healthcare
+ACC00231,2025-01-05,07:32:26,Jaipur,Rajasthan,India,Fire Accident,Brake Failure,Moderate,5,3,4,Rainy,Potholes,Yes,27.2,Manipal Hospital
+ACC00232,2025-01-28,02:12:02,Ahmedabad,Gujarat,India,Two-Wheeler,Drunk Driving,Severe,4,0,3,Clear,Potholes,Yes,12.8,Manipal Hospital
+ACC00233,2025-03-23,11:43:07,Jaipur,Rajasthan,India,Slip & Fall,Brake Failure,Fatal,4,3,4,Rainy,Dry,Yes,36.8,Fortis Healthcare
+ACC00234,2025-02-27,10:48:07,Ahmedabad,Gujarat,India,Vehicle Collision,Weather Conditions,Moderate,5,2,2,Stormy,Under Construction,No,27.0,Apollo Hospitals
+ACC00235,2025-02-01,13:44:05,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Weather Conditions,Severe,5,0,6,Stormy,Under Construction,Yes,44.6,Apollo Hospitals
+ACC00236,2025-01-08,03:00:00,Hyderabad,Telangana,India,Bus,Road Conditions,Minor,4,2,3,Clear,Potholes,Yes,36.0,Fortis Healthcare
+ACC00237,2025-03-12,08:42:08,Hyderabad,Telangana,India,Train,Road Conditions,Fatal,2,1,2,Rainy,Dry,No,26.3,Max Healthcare
+ACC00238,2025-03-09,08:47:22,Jaipur,Rajasthan,India,Two-Wheeler,Weather Conditions,Severe,3,2,5,Clear,Wet,No,41.8,AIIMS
+ACC00239,2025-03-28,21:16:19,Bengaluru,Karnataka,India,Two-Wheeler,Drunk Driving,Moderate,3,1,6,Stormy,Potholes,Yes,28.1,AIIMS
+ACC00240,2025-03-28,19:31:13,Kolkata,West Bengal,India,Fire Accident,Brake Failure,Minor,1,3,5,Foggy,Gravel,No,43.0,AIIMS
+ACC00241,2025-04-10,04:14:34,Lucknow,Uttar Pradesh,India,Vehicle Collision,Road Conditions,Minor,4,2,1,Stormy,Wet,No,38.0,Manipal Hospital
+ACC00242,2025-01-02,04:40:46,Ahmedabad,Gujarat,India,Train,Road Conditions,Severe,3,1,5,Stormy,Gravel,Yes,6.8,Manipal Hospital
+ACC00243,2025-01-11,09:51:18,Mumbai,Maharashtra,India,Pedestrian Involved,Road Conditions,Moderate,4,3,1,Stormy,Wet,Yes,40.3,AIIMS
+ACC00244,2025-04-26,05:08:43,Bengaluru,Karnataka,India,Bus,Over Speeding,Severe,3,0,3,Rainy,Dry,No,30.0,Fortis Healthcare
+ACC00245,2025-03-06,02:36:04,Kolkata,West Bengal,India,Pedestrian Involved,Poor Lighting,Minor,1,1,4,Clear,Wet,Yes,25.8,Manipal Hospital
+ACC00246,2025-04-02,20:03:34,Mumbai,Maharashtra,India,Vehicle Collision,Poor Lighting,Severe,1,3,6,Rainy,Potholes,Yes,14.2,Apollo Hospitals
+ACC00247,2025-04-29,13:37:27,Delhi,Delhi,India,Pedestrian Involved,Weather Conditions,Severe,3,1,4,Rainy,Wet,Yes,26.2,Apollo Hospitals
+ACC00248,2025-04-26,00:42:41,Lucknow,Uttar Pradesh,India,Two-Wheeler,Brake Failure,Severe,2,1,4,Stormy,Wet,Yes,40.9,Fortis Healthcare
+ACC00249,2025-01-05,06:55:45,Delhi,Delhi,India,Fire Accident,Weather Conditions,Fatal,3,1,2,Foggy,Dry,Yes,27.1,Max Healthcare
+ACC00250,2025-04-07,16:32:06,Lucknow,Uttar Pradesh,India,Bus,Road Conditions,Minor,3,1,5,Rainy,Potholes,No,30.8,Fortis Healthcare
+ACC00251,2025-01-10,13:11:13,Pune,Maharashtra,India,Fire Accident,Over Speeding,Moderate,4,0,5,Clear,Gravel,No,10.3,Max Healthcare
+ACC00252,2025-01-13,16:42:00,Kolkata,West Bengal,India,Train,Human Error,Moderate,4,0,1,Clear,Dry,No,13.6,Apollo Hospitals
+ACC00253,2025-04-22,20:43:45,Kolkata,West Bengal,India,Bus,Poor Lighting,Fatal,4,3,1,Rainy,Gravel,Yes,17.4,Max Healthcare
+ACC00254,2025-01-06,15:42:17,Hyderabad,Telangana,India,Two-Wheeler,Human Error,Severe,4,0,3,Stormy,Wet,Yes,14.8,Manipal Hospital
+ACC00255,2025-02-17,04:25:27,Delhi,Delhi,India,Slip & Fall,Human Error,Minor,3,1,1,Clear,Wet,Yes,11.6,AIIMS
+ACC00256,2025-03-16,08:19:05,Jaipur,Rajasthan,India,Bus,Drunk Driving,Severe,2,2,6,Clear,Dry,No,37.3,AIIMS
+ACC00257,2025-01-09,15:27:10,Jaipur,Rajasthan,India,Pedestrian Involved,Weather Conditions,Minor,4,3,5,Foggy,Dry,No,39.4,Fortis Healthcare
+ACC00258,2025-01-12,00:07:39,Chennai,Tamil Nadu,India,Two-Wheeler,Weather Conditions,Minor,5,0,2,Clear,Dry,Yes,14.8,Manipal Hospital
+ACC00259,2025-03-10,08:47:03,Chennai,Tamil Nadu,India,Fire Accident,Drunk Driving,Moderate,1,3,2,Foggy,Wet,No,41.6,AIIMS
+ACC00260,2025-01-29,01:38:15,Ahmedabad,Gujarat,India,Pedestrian Involved,Human Error,Severe,1,0,2,Rainy,Under Construction,Yes,43.2,Apollo Hospitals
+ACC00261,2025-02-14,22:27:28,Pune,Maharashtra,India,Bus,Road Conditions,Severe,3,0,5,Stormy,Dry,No,13.0,Max Healthcare
+ACC00262,2025-01-11,00:25:01,Ahmedabad,Gujarat,India,Truck,Brake Failure,Severe,5,3,2,Rainy,Wet,Yes,42.3,Apollo Hospitals
+ACC00263,2025-02-24,11:26:40,Hyderabad,Telangana,India,Train,Poor Lighting,Minor,3,0,6,Stormy,Gravel,Yes,13.2,Fortis Healthcare
+ACC00264,2025-03-09,19:32:32,Kolkata,West Bengal,India,Slip & Fall,Over Speeding,Moderate,3,0,1,Rainy,Under Construction,No,33.0,AIIMS
+ACC00265,2025-04-14,09:52:04,Pune,Maharashtra,India,Pedestrian Involved,Human Error,Minor,5,1,6,Stormy,Dry,Yes,22.4,Fortis Healthcare
+ACC00266,2025-03-28,08:48:50,Hyderabad,Telangana,India,Bus,Weather Conditions,Severe,4,2,3,Stormy,Gravel,Yes,8.0,Fortis Healthcare
+ACC00267,2025-02-19,16:51:49,Bengaluru,Karnataka,India,Pedestrian Involved,Drunk Driving,Minor,2,3,4,Foggy,Potholes,Yes,26.4,Fortis Healthcare
+ACC00268,2025-01-25,12:37:14,Pune,Maharashtra,India,Bus,Brake Failure,Severe,1,0,2,Foggy,Under Construction,Yes,13.6,AIIMS
+ACC00269,2025-03-02,16:36:15,Bengaluru,Karnataka,India,Pedestrian Involved,Poor Lighting,Moderate,3,3,5,Clear,Gravel,No,37.8,Fortis Healthcare
+ACC00270,2025-01-27,13:43:46,Mumbai,Maharashtra,India,Fire Accident,Road Conditions,Fatal,5,1,1,Stormy,Dry,Yes,9.9,Apollo Hospitals
+ACC00271,2025-01-22,06:40:04,Hyderabad,Telangana,India,Two-Wheeler,Drunk Driving,Fatal,3,0,5,Foggy,Dry,Yes,44.9,Fortis Healthcare
+ACC00272,2025-02-04,09:48:45,Pune,Maharashtra,India,Two-Wheeler,Over Speeding,Severe,1,0,4,Clear,Wet,No,37.9,Manipal Hospital
+ACC00273,2025-01-04,10:37:47,Pune,Maharashtra,India,Vehicle Collision,Brake Failure,Fatal,2,2,2,Rainy,Gravel,No,22.8,Fortis Healthcare
+ACC00274,2025-02-11,15:46:59,Mumbai,Maharashtra,India,Truck,Poor Lighting,Severe,4,3,5,Stormy,Dry,Yes,16.2,Fortis Healthcare
+ACC00275,2025-03-09,17:50:16,Kolkata,West Bengal,India,Truck,Poor Lighting,Moderate,5,0,4,Foggy,Potholes,No,18.8,Max Healthcare
+ACC00276,2025-04-27,03:58:32,Jaipur,Rajasthan,India,Train,Brake Failure,Severe,2,0,3,Rainy,Dry,No,7.3,Manipal Hospital
+ACC00277,2025-01-15,08:44:43,Jaipur,Rajasthan,India,Train,Road Conditions,Moderate,2,0,2,Rainy,Gravel,Yes,35.6,Fortis Healthcare
+ACC00278,2025-01-26,23:14:57,Lucknow,Uttar Pradesh,India,Fire Accident,Weather Conditions,Moderate,2,1,5,Foggy,Gravel,Yes,33.1,AIIMS
+ACC00279,2025-02-02,21:18:10,Lucknow,Uttar Pradesh,India,Two-Wheeler,Human Error,Moderate,4,2,2,Stormy,Dry,Yes,7.2,Max Healthcare
+ACC00280,2025-01-29,10:04:42,Hyderabad,Telangana,India,Vehicle Collision,Human Error,Fatal,1,2,5,Rainy,Wet,No,33.7,AIIMS
+ACC00281,2025-04-06,05:24:37,Mumbai,Maharashtra,India,Vehicle Collision,Drunk Driving,Moderate,1,2,1,Foggy,Potholes,Yes,18.5,AIIMS
+ACC00282,2025-02-24,07:55:07,Bengaluru,Karnataka,India,Two-Wheeler,Poor Lighting,Fatal,4,2,2,Foggy,Wet,Yes,20.1,AIIMS
+ACC00283,2025-01-26,13:14:33,Bengaluru,Karnataka,India,Two-Wheeler,Poor Lighting,Minor,5,3,5,Clear,Wet,No,41.8,Max Healthcare
+ACC00284,2025-03-13,15:14:04,Hyderabad,Telangana,India,Pedestrian Involved,Brake Failure,Moderate,3,0,2,Foggy,Gravel,Yes,30.4,Apollo Hospitals
+ACC00285,2025-04-12,07:45:52,Chennai,Tamil Nadu,India,Slip & Fall,Over Speeding,Severe,2,1,6,Clear,Gravel,No,36.5,Apollo Hospitals
+ACC00286,2025-04-09,20:48:04,Mumbai,Maharashtra,India,Fire Accident,Brake Failure,Fatal,2,3,4,Stormy,Gravel,No,9.1,Manipal Hospital
+ACC00287,2025-03-14,21:17:22,Lucknow,Uttar Pradesh,India,Truck,Drunk Driving,Fatal,1,0,3,Clear,Gravel,No,43.1,Apollo Hospitals
+ACC00288,2025-03-25,02:53:09,Chennai,Tamil Nadu,India,Two-Wheeler,Brake Failure,Moderate,1,0,3,Stormy,Dry,No,42.7,Fortis Healthcare
+ACC00289,2025-01-02,03:17:41,Lucknow,Uttar Pradesh,India,Fire Accident,Drunk Driving,Minor,1,2,2,Rainy,Potholes,No,31.4,AIIMS
+ACC00290,2025-02-18,05:20:34,Hyderabad,Telangana,India,Pedestrian Involved,Over Speeding,Fatal,5,3,2,Clear,Gravel,Yes,22.1,AIIMS
+ACC00291,2025-01-06,09:13:42,Lucknow,Uttar Pradesh,India,Slip & Fall,Drunk Driving,Minor,1,1,2,Foggy,Dry,No,38.8,AIIMS
+ACC00292,2025-02-08,09:01:39,Kolkata,West Bengal,India,Slip & Fall,Brake Failure,Severe,1,3,2,Foggy,Potholes,No,12.5,Apollo Hospitals
+ACC00293,2025-03-01,06:41:38,Ahmedabad,Gujarat,India,Slip & Fall,Brake Failure,Severe,2,2,5,Clear,Wet,Yes,8.4,AIIMS
+ACC00294,2025-04-26,12:12:12,Jaipur,Rajasthan,India,Fire Accident,Road Conditions,Moderate,5,0,4,Stormy,Under Construction,No,27.9,Fortis Healthcare
+ACC00295,2025-03-15,14:50:08,Pune,Maharashtra,India,Bus,Over Speeding,Fatal,1,1,1,Stormy,Wet,Yes,43.9,Fortis Healthcare
+ACC00296,2025-02-22,05:14:07,Bengaluru,Karnataka,India,Vehicle Collision,Brake Failure,Minor,4,1,6,Rainy,Under Construction,No,17.8,Apollo Hospitals
+ACC00297,2025-03-09,13:22:13,Delhi,Delhi,India,Fire Accident,Human Error,Fatal,5,2,3,Stormy,Dry,No,9.5,Fortis Healthcare
+ACC00298,2025-03-28,09:27:29,Bengaluru,Karnataka,India,Pedestrian Involved,Over Speeding,Minor,3,2,4,Foggy,Potholes,No,27.9,Manipal Hospital
+ACC00299,2025-01-03,07:30:50,Mumbai,Maharashtra,India,Two-Wheeler,Weather Conditions,Fatal,2,3,1,Stormy,Gravel,Yes,7.0,Manipal Hospital
+ACC00300,2025-01-27,22:45:03,Ahmedabad,Gujarat,India,Train,Over Speeding,Severe,3,2,3,Stormy,Dry,Yes,10.4,Manipal Hospital
+ACC00301,2025-04-15,12:08:15,Chennai,Tamil Nadu,India,Bus,Poor Lighting,Fatal,5,0,2,Stormy,Wet,No,34.6,Max Healthcare
+ACC00302,2025-01-07,00:44:12,Chennai,Tamil Nadu,India,Vehicle Collision,Human Error,Moderate,1,2,6,Stormy,Wet,Yes,11.9,Fortis Healthcare
+ACC00303,2025-04-23,14:17:13,Mumbai,Maharashtra,India,Truck,Over Speeding,Fatal,1,2,6,Rainy,Gravel,No,37.9,Max Healthcare
+ACC00304,2025-01-14,04:02:23,Kolkata,West Bengal,India,Pedestrian Involved,Poor Lighting,Minor,2,2,4,Stormy,Wet,No,28.5,AIIMS
+ACC00305,2025-01-16,23:29:36,Chennai,Tamil Nadu,India,Two-Wheeler,Road Conditions,Severe,1,2,1,Stormy,Dry,Yes,39.2,Fortis Healthcare
+ACC00306,2025-02-21,00:51:07,Hyderabad,Telangana,India,Truck,Poor Lighting,Moderate,3,3,5,Clear,Dry,No,41.5,Fortis Healthcare
+ACC00307,2025-02-08,12:39:06,Lucknow,Uttar Pradesh,India,Vehicle Collision,Drunk Driving,Severe,5,2,6,Foggy,Potholes,No,39.1,Manipal Hospital
+ACC00308,2025-04-26,02:42:39,Ahmedabad,Gujarat,India,Truck,Brake Failure,Severe,5,3,5,Clear,Dry,No,27.5,Max Healthcare
+ACC00309,2025-04-13,21:03:56,Lucknow,Uttar Pradesh,India,Bus,Weather Conditions,Minor,4,0,3,Foggy,Gravel,No,15.4,AIIMS
+ACC00310,2025-01-24,03:39:34,Hyderabad,Telangana,India,Two-Wheeler,Human Error,Moderate,1,3,6,Foggy,Wet,Yes,31.2,AIIMS
+ACC00311,2025-02-20,15:03:27,Ahmedabad,Gujarat,India,Fire Accident,Brake Failure,Fatal,1,1,3,Rainy,Under Construction,No,41.3,AIIMS
+ACC00312,2025-04-25,10:26:17,Jaipur,Rajasthan,India,Bus,Road Conditions,Moderate,5,1,3,Clear,Potholes,Yes,34.6,Max Healthcare
+ACC00313,2025-04-21,04:04:44,Bengaluru,Karnataka,India,Train,Poor Lighting,Minor,2,2,2,Foggy,Potholes,No,19.9,Max Healthcare
+ACC00314,2025-03-09,10:34:14,Ahmedabad,Gujarat,India,Slip & Fall,Road Conditions,Minor,4,0,6,Clear,Potholes,Yes,25.0,Manipal Hospital
+ACC00315,2025-02-28,14:56:01,Jaipur,Rajasthan,India,Bus,Brake Failure,Minor,2,1,2,Foggy,Potholes,No,10.7,Fortis Healthcare
+ACC00316,2025-01-20,02:31:13,Delhi,Delhi,India,Slip & Fall,Weather Conditions,Moderate,3,0,1,Stormy,Gravel,Yes,35.4,Fortis Healthcare
+ACC00317,2025-01-19,18:14:35,Lucknow,Uttar Pradesh,India,Two-Wheeler,Brake Failure,Minor,2,3,6,Stormy,Potholes,No,43.6,Manipal Hospital
+ACC00318,2025-03-31,05:43:46,Mumbai,Maharashtra,India,Vehicle Collision,Human Error,Moderate,3,0,3,Rainy,Dry,Yes,30.1,Fortis Healthcare
+ACC00319,2025-02-10,12:13:09,Hyderabad,Telangana,India,Train,Weather Conditions,Moderate,1,3,5,Foggy,Wet,Yes,38.0,AIIMS
+ACC00320,2025-04-12,12:00:50,Ahmedabad,Gujarat,India,Slip & Fall,Poor Lighting,Severe,4,1,3,Stormy,Gravel,Yes,11.6,Manipal Hospital
+ACC00321,2025-03-15,22:22:21,Mumbai,Maharashtra,India,Truck,Drunk Driving,Moderate,2,0,5,Rainy,Dry,No,33.4,Apollo Hospitals
+ACC00322,2025-02-24,16:03:53,Kolkata,West Bengal,India,Bus,Road Conditions,Minor,5,0,6,Clear,Dry,Yes,32.6,Manipal Hospital
+ACC00323,2025-02-13,02:25:58,Pune,Maharashtra,India,Fire Accident,Over Speeding,Severe,4,1,2,Clear,Gravel,No,31.5,Max Healthcare
+ACC00324,2025-01-03,00:44:18,Ahmedabad,Gujarat,India,Two-Wheeler,Brake Failure,Minor,5,0,3,Clear,Dry,No,12.9,Fortis Healthcare
+ACC00325,2025-03-19,09:08:55,Ahmedabad,Gujarat,India,Truck,Weather Conditions,Fatal,3,1,1,Stormy,Wet,No,18.2,Apollo Hospitals
+ACC00326,2025-03-18,10:09:24,Mumbai,Maharashtra,India,Pedestrian Involved,Over Speeding,Fatal,2,0,5,Clear,Dry,No,30.8,Manipal Hospital
+ACC00327,2025-02-05,19:44:28,Ahmedabad,Gujarat,India,Bus,Brake Failure,Minor,1,1,1,Foggy,Gravel,No,22.0,Apollo Hospitals
+ACC00328,2025-01-29,17:25:12,Delhi,Delhi,India,Vehicle Collision,Over Speeding,Moderate,2,2,3,Stormy,Under Construction,No,40.1,Apollo Hospitals
+ACC00329,2025-04-02,15:53:13,Chennai,Tamil Nadu,India,Train,Drunk Driving,Minor,4,3,4,Foggy,Potholes,No,37.0,Fortis Healthcare
+ACC00330,2025-04-01,11:15:08,Delhi,Delhi,India,Two-Wheeler,Poor Lighting,Minor,2,0,4,Stormy,Under Construction,No,12.3,Manipal Hospital
+ACC00331,2025-05-04,18:36:00,Chennai,Tamil Nadu,India,Vehicle Collision,Road Conditions,Moderate,4,3,1,Stormy,Potholes,Yes,7.5,AIIMS
+ACC00332,2025-02-23,12:30:39,Mumbai,Maharashtra,India,Truck,Poor Lighting,Severe,5,0,4,Rainy,Potholes,No,31.5,Manipal Hospital
+ACC00333,2025-02-13,05:34:30,Bengaluru,Karnataka,India,Vehicle Collision,Over Speeding,Moderate,5,3,4,Rainy,Dry,No,17.8,AIIMS
+ACC00334,2025-02-06,08:56:32,Ahmedabad,Gujarat,India,Vehicle Collision,Human Error,Moderate,5,3,4,Rainy,Dry,No,22.8,Max Healthcare
+ACC00335,2025-03-25,11:17:10,Pune,Maharashtra,India,Pedestrian Involved,Road Conditions,Fatal,4,2,1,Stormy,Dry,Yes,21.1,Apollo Hospitals
+ACC00336,2025-01-25,11:31:06,Jaipur,Rajasthan,India,Vehicle Collision,Road Conditions,Minor,5,2,5,Rainy,Potholes,No,19.5,Apollo Hospitals
+ACC00337,2025-02-12,03:47:55,Hyderabad,Telangana,India,Slip & Fall,Weather Conditions,Fatal,3,3,1,Clear,Wet,Yes,18.7,AIIMS
+ACC00338,2025-03-14,17:25:28,Jaipur,Rajasthan,India,Train,Poor Lighting,Minor,1,1,4,Rainy,Potholes,Yes,15.2,Fortis Healthcare
+ACC00339,2025-05-05,15:43:25,Hyderabad,Telangana,India,Pedestrian Involved,Road Conditions,Fatal,2,3,2,Foggy,Dry,No,6.9,Max Healthcare
+ACC00340,2025-03-30,14:11:26,Delhi,Delhi,India,Slip & Fall,Brake Failure,Moderate,4,0,5,Clear,Under Construction,No,38.6,Manipal Hospital
+ACC00341,2025-02-12,22:59:59,Jaipur,Rajasthan,India,Two-Wheeler,Poor Lighting,Moderate,2,0,4,Foggy,Under Construction,No,21.7,Max Healthcare
+ACC00342,2025-05-06,16:28:38,Hyderabad,Telangana,India,Bus,Brake Failure,Severe,3,3,2,Rainy,Potholes,No,38.7,Max Healthcare
+ACC00343,2025-02-20,12:14:20,Chennai,Tamil Nadu,India,Truck,Drunk Driving,Moderate,5,2,6,Foggy,Wet,Yes,25.2,AIIMS
+ACC00344,2025-04-20,01:00:44,Delhi,Delhi,India,Train,Human Error,Fatal,5,3,6,Foggy,Potholes,Yes,25.9,Apollo Hospitals
+ACC00345,2025-02-13,09:48:24,Kolkata,West Bengal,India,Two-Wheeler,Over Speeding,Minor,2,2,2,Foggy,Gravel,Yes,38.6,AIIMS
+ACC00346,2025-05-08,04:47:38,Hyderabad,Telangana,India,Vehicle Collision,Weather Conditions,Fatal,1,1,6,Stormy,Wet,No,32.7,Apollo Hospitals
+ACC00347,2025-01-25,11:27:29,Kolkata,West Bengal,India,Fire Accident,Brake Failure,Severe,5,0,1,Foggy,Wet,No,38.2,AIIMS
+ACC00348,2025-01-26,02:36:47,Lucknow,Uttar Pradesh,India,Truck,Road Conditions,Moderate,3,3,2,Clear,Wet,Yes,34.4,Apollo Hospitals
+ACC00349,2025-01-22,08:27:57,Kolkata,West Bengal,India,Vehicle Collision,Brake Failure,Severe,5,2,2,Rainy,Under Construction,No,5.2,Manipal Hospital
+ACC00350,2025-04-28,14:29:34,Bengaluru,Karnataka,India,Vehicle Collision,Drunk Driving,Severe,5,0,6,Foggy,Potholes,No,7.9,AIIMS
+ACC00351,2025-02-19,12:55:47,Jaipur,Rajasthan,India,Truck,Drunk Driving,Minor,5,1,4,Stormy,Dry,No,13.8,Fortis Healthcare
+ACC00352,2025-03-28,15:34:22,Chennai,Tamil Nadu,India,Train,Weather Conditions,Severe,2,3,5,Clear,Dry,No,22.8,Max Healthcare
+ACC00353,2025-01-25,04:57:14,Lucknow,Uttar Pradesh,India,Truck,Over Speeding,Severe,4,0,4,Foggy,Under Construction,No,6.0,Max Healthcare
+ACC00354,2025-04-29,15:45:52,Chennai,Tamil Nadu,India,Slip & Fall,Brake Failure,Minor,3,1,3,Clear,Dry,Yes,43.9,Max Healthcare
+ACC00355,2025-04-20,07:44:01,Jaipur,Rajasthan,India,Vehicle Collision,Poor Lighting,Minor,2,1,6,Stormy,Dry,Yes,26.5,Manipal Hospital
+ACC00356,2025-02-25,13:05:48,Delhi,Delhi,India,Two-Wheeler,Over Speeding,Fatal,3,0,1,Clear,Dry,Yes,36.8,Max Healthcare
+ACC00357,2025-04-21,02:56:01,Delhi,Delhi,India,Truck,Weather Conditions,Fatal,4,3,6,Stormy,Potholes,No,5.7,Apollo Hospitals
+ACC00358,2025-03-01,01:16:16,Jaipur,Rajasthan,India,Vehicle Collision,Poor Lighting,Minor,5,0,6,Clear,Gravel,Yes,16.6,AIIMS
+ACC00359,2025-01-17,17:13:47,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Weather Conditions,Fatal,4,3,6,Clear,Potholes,Yes,26.3,Fortis Healthcare
+ACC00360,2025-01-16,16:50:37,Kolkata,West Bengal,India,Bus,Poor Lighting,Moderate,3,2,1,Rainy,Dry,Yes,5.2,Max Healthcare
+ACC00361,2025-01-22,11:03:43,Kolkata,West Bengal,India,Pedestrian Involved,Weather Conditions,Moderate,3,1,4,Rainy,Wet,Yes,13.8,AIIMS
+ACC00362,2025-04-11,23:50:14,Hyderabad,Telangana,India,Pedestrian Involved,Drunk Driving,Minor,5,3,6,Clear,Gravel,Yes,15.0,Fortis Healthcare
+ACC00363,2025-03-27,03:09:06,Lucknow,Uttar Pradesh,India,Slip & Fall,Weather Conditions,Severe,2,1,1,Foggy,Under Construction,Yes,41.0,AIIMS
+ACC00364,2025-04-16,03:02:43,Pune,Maharashtra,India,Slip & Fall,Weather Conditions,Severe,5,1,5,Foggy,Gravel,No,11.7,AIIMS
+ACC00365,2025-04-17,14:01:09,Hyderabad,Telangana,India,Truck,Poor Lighting,Fatal,3,2,2,Foggy,Potholes,No,22.8,AIIMS
+ACC00366,2025-05-05,20:01:49,Pune,Maharashtra,India,Pedestrian Involved,Drunk Driving,Minor,3,1,5,Rainy,Gravel,Yes,34.1,Apollo Hospitals
+ACC00367,2025-02-25,16:07:28,Jaipur,Rajasthan,India,Vehicle Collision,Road Conditions,Fatal,5,1,1,Foggy,Under Construction,No,31.2,Fortis Healthcare
+ACC00368,2025-05-04,11:51:57,Chennai,Tamil Nadu,India,Fire Accident,Drunk Driving,Severe,2,3,5,Clear,Potholes,No,25.1,Fortis Healthcare
+ACC00369,2025-02-11,18:17:25,Lucknow,Uttar Pradesh,India,Two-Wheeler,Road Conditions,Moderate,4,1,2,Rainy,Potholes,No,6.6,Manipal Hospital
+ACC00370,2025-04-16,02:00:17,Hyderabad,Telangana,India,Pedestrian Involved,Weather Conditions,Severe,2,0,6,Rainy,Under Construction,No,20.5,Manipal Hospital
+ACC00371,2025-02-12,11:57:24,Mumbai,Maharashtra,India,Vehicle Collision,Poor Lighting,Severe,1,2,6,Foggy,Under Construction,Yes,20.1,Manipal Hospital
+ACC00372,2025-05-06,07:02:20,Chennai,Tamil Nadu,India,Pedestrian Involved,Human Error,Severe,4,1,5,Stormy,Gravel,No,24.5,Manipal Hospital
+ACC00373,2025-03-20,15:32:51,Lucknow,Uttar Pradesh,India,Vehicle Collision,Human Error,Moderate,4,1,2,Clear,Under Construction,No,13.5,Fortis Healthcare
+ACC00374,2025-01-24,02:15:51,Bengaluru,Karnataka,India,Train,Human Error,Minor,2,3,3,Clear,Potholes,No,24.2,Max Healthcare
+ACC00375,2025-04-11,05:34:35,Bengaluru,Karnataka,India,Fire Accident,Over Speeding,Moderate,1,1,5,Rainy,Wet,Yes,40.6,Fortis Healthcare
+ACC00376,2025-03-28,12:27:26,Mumbai,Maharashtra,India,Two-Wheeler,Weather Conditions,Moderate,5,3,5,Clear,Gravel,Yes,13.7,Max Healthcare
+ACC00377,2025-03-05,07:55:18,Pune,Maharashtra,India,Slip & Fall,Drunk Driving,Moderate,4,1,5,Rainy,Under Construction,No,11.7,AIIMS
+ACC00378,2025-03-22,00:51:02,Pune,Maharashtra,India,Pedestrian Involved,Drunk Driving,Fatal,4,1,1,Clear,Wet,No,38.1,Max Healthcare
+ACC00379,2025-01-27,09:04:32,Delhi,Delhi,India,Two-Wheeler,Brake Failure,Minor,5,0,1,Stormy,Wet,Yes,40.9,Manipal Hospital
+ACC00380,2025-01-05,06:38:41,Jaipur,Rajasthan,India,Fire Accident,Weather Conditions,Minor,5,3,2,Stormy,Potholes,No,28.6,Max Healthcare
+ACC00381,2025-03-31,05:47:39,Delhi,Delhi,India,Fire Accident,Drunk Driving,Severe,4,1,1,Foggy,Under Construction,No,15.3,Apollo Hospitals
+ACC00382,2025-03-07,23:01:33,Mumbai,Maharashtra,India,Pedestrian Involved,Human Error,Minor,4,1,6,Foggy,Potholes,No,9.3,Manipal Hospital
+ACC00383,2025-03-06,09:57:36,Lucknow,Uttar Pradesh,India,Bus,Weather Conditions,Fatal,5,2,5,Foggy,Potholes,Yes,21.5,Max Healthcare
+ACC00384,2025-01-13,04:56:37,Pune,Maharashtra,India,Two-Wheeler,Weather Conditions,Fatal,3,2,5,Foggy,Potholes,Yes,39.2,Apollo Hospitals
+ACC00385,2025-01-22,09:03:58,Hyderabad,Telangana,India,Slip & Fall,Road Conditions,Moderate,1,1,5,Stormy,Gravel,Yes,11.4,Apollo Hospitals
+ACC00386,2025-02-05,14:53:00,Delhi,Delhi,India,Two-Wheeler,Brake Failure,Fatal,1,0,3,Rainy,Gravel,Yes,29.4,Manipal Hospital
+ACC00387,2025-01-14,15:21:27,Kolkata,West Bengal,India,Bus,Poor Lighting,Minor,2,3,4,Clear,Wet,No,12.8,Max Healthcare
+ACC00388,2025-03-08,21:30:18,Jaipur,Rajasthan,India,Truck,Human Error,Moderate,1,2,2,Clear,Wet,Yes,44.9,Manipal Hospital
+ACC00389,2025-02-18,04:11:39,Chennai,Tamil Nadu,India,Fire Accident,Brake Failure,Moderate,5,0,6,Clear,Dry,No,34.0,Max Healthcare
+ACC00390,2025-03-13,19:57:43,Lucknow,Uttar Pradesh,India,Train,Weather Conditions,Severe,2,1,4,Stormy,Under Construction,Yes,15.4,Manipal Hospital
+ACC00391,2025-05-08,07:44:51,Jaipur,Rajasthan,India,Pedestrian Involved,Human Error,Minor,5,2,3,Clear,Under Construction,No,40.0,Max Healthcare
+ACC00392,2025-02-01,17:37:58,Ahmedabad,Gujarat,India,Slip & Fall,Brake Failure,Fatal,2,2,4,Stormy,Under Construction,Yes,24.3,AIIMS
+ACC00393,2025-04-03,08:00:48,Delhi,Delhi,India,Fire Accident,Poor Lighting,Moderate,2,2,4,Foggy,Under Construction,Yes,33.0,AIIMS
+ACC00394,2025-01-15,07:47:50,Hyderabad,Telangana,India,Bus,Over Speeding,Fatal,3,0,5,Rainy,Potholes,No,19.1,Max Healthcare
+ACC00395,2025-04-22,03:17:56,Ahmedabad,Gujarat,India,Two-Wheeler,Poor Lighting,Moderate,4,1,2,Rainy,Gravel,Yes,14.2,Fortis Healthcare
+ACC00396,2025-03-29,12:24:42,Lucknow,Uttar Pradesh,India,Train,Drunk Driving,Minor,1,0,6,Stormy,Under Construction,Yes,35.6,Max Healthcare
+ACC00397,2025-04-20,17:54:55,Mumbai,Maharashtra,India,Slip & Fall,Weather Conditions,Severe,4,2,4,Rainy,Under Construction,No,20.9,Max Healthcare
+ACC00398,2025-02-28,14:11:03,Bengaluru,Karnataka,India,Vehicle Collision,Human Error,Fatal,4,0,5,Foggy,Potholes,Yes,23.3,Apollo Hospitals
+ACC00399,2025-03-08,11:31:30,Jaipur,Rajasthan,India,Slip & Fall,Weather Conditions,Minor,1,1,4,Clear,Gravel,No,29.5,AIIMS
+ACC00400,2025-03-03,00:26:09,Bengaluru,Karnataka,India,Bus,Drunk Driving,Severe,4,2,3,Rainy,Potholes,No,13.4,AIIMS
+ACC00401,2025-01-14,21:56:46,Chennai,Tamil Nadu,India,Fire Accident,Weather Conditions,Fatal,2,1,5,Rainy,Dry,No,37.2,Max Healthcare
+ACC00402,2025-02-22,10:37:10,Kolkata,West Bengal,India,Fire Accident,Drunk Driving,Moderate,2,3,1,Rainy,Potholes,No,10.4,Max Healthcare
+ACC00403,2025-03-12,03:07:55,Jaipur,Rajasthan,India,Train,Road Conditions,Fatal,3,2,5,Clear,Potholes,Yes,32.6,Apollo Hospitals
+ACC00404,2025-02-24,07:14:00,Hyderabad,Telangana,India,Bus,Brake Failure,Minor,4,2,3,Foggy,Gravel,No,18.8,Manipal Hospital
+ACC00405,2025-04-04,05:32:52,Delhi,Delhi,India,Train,Road Conditions,Moderate,5,1,3,Foggy,Gravel,No,36.0,Manipal Hospital
+ACC00406,2025-03-11,04:05:41,Delhi,Delhi,India,Fire Accident,Human Error,Severe,4,1,2,Foggy,Potholes,No,39.0,Apollo Hospitals
+ACC00407,2025-01-11,00:02:04,Delhi,Delhi,India,Two-Wheeler,Weather Conditions,Moderate,3,2,6,Foggy,Gravel,No,15.8,Manipal Hospital
+ACC00408,2025-03-25,17:07:23,Chennai,Tamil Nadu,India,Slip & Fall,Brake Failure,Moderate,2,0,2,Rainy,Gravel,Yes,13.4,Manipal Hospital
+ACC00409,2025-04-17,21:27:28,Delhi,Delhi,India,Pedestrian Involved,Over Speeding,Fatal,5,0,1,Stormy,Under Construction,Yes,9.2,Max Healthcare
+ACC00410,2025-02-15,01:39:15,Bengaluru,Karnataka,India,Pedestrian Involved,Poor Lighting,Fatal,3,1,2,Foggy,Potholes,Yes,10.3,Fortis Healthcare
+ACC00411,2025-03-30,09:31:08,Mumbai,Maharashtra,India,Vehicle Collision,Poor Lighting,Severe,3,3,4,Foggy,Under Construction,No,10.4,Max Healthcare
+ACC00412,2025-01-04,22:56:15,Bengaluru,Karnataka,India,Slip & Fall,Poor Lighting,Fatal,5,2,3,Stormy,Under Construction,Yes,37.2,Manipal Hospital
+ACC00413,2025-02-27,21:38:20,Ahmedabad,Gujarat,India,Train,Brake Failure,Severe,2,2,1,Clear,Under Construction,Yes,18.8,Manipal Hospital
+ACC00414,2025-02-11,15:18:18,Jaipur,Rajasthan,India,Vehicle Collision,Poor Lighting,Fatal,4,2,1,Stormy,Gravel,Yes,36.9,Max Healthcare
+ACC00415,2025-02-19,02:27:11,Chennai,Tamil Nadu,India,Truck,Brake Failure,Fatal,4,1,2,Stormy,Potholes,Yes,15.5,Manipal Hospital
+ACC00416,2025-02-23,02:08:16,Hyderabad,Telangana,India,Bus,Weather Conditions,Severe,4,1,1,Rainy,Wet,No,9.4,Manipal Hospital
+ACC00417,2025-05-01,19:35:59,Lucknow,Uttar Pradesh,India,Slip & Fall,Weather Conditions,Fatal,2,2,1,Rainy,Dry,Yes,12.4,Apollo Hospitals
+ACC00418,2025-02-09,01:36:08,Ahmedabad,Gujarat,India,Bus,Drunk Driving,Fatal,1,1,1,Rainy,Dry,No,13.7,Manipal Hospital
+ACC00419,2025-04-29,12:43:49,Ahmedabad,Gujarat,India,Slip & Fall,Weather Conditions,Fatal,1,2,1,Rainy,Dry,No,36.0,Apollo Hospitals
+ACC00420,2025-01-06,08:15:06,Jaipur,Rajasthan,India,Slip & Fall,Drunk Driving,Moderate,3,3,1,Clear,Wet,No,35.8,Manipal Hospital
+ACC00421,2025-01-14,18:00:40,Hyderabad,Telangana,India,Vehicle Collision,Drunk Driving,Fatal,1,1,4,Stormy,Gravel,No,11.3,Apollo Hospitals
+ACC00422,2025-04-03,08:05:22,Jaipur,Rajasthan,India,Pedestrian Involved,Weather Conditions,Fatal,3,1,3,Clear,Wet,Yes,14.4,Manipal Hospital
+ACC00423,2025-02-14,14:31:35,Chennai,Tamil Nadu,India,Vehicle Collision,Drunk Driving,Severe,5,0,4,Rainy,Dry,Yes,28.2,Manipal Hospital
+ACC00424,2025-04-24,12:32:19,Lucknow,Uttar Pradesh,India,Two-Wheeler,Weather Conditions,Minor,2,1,4,Clear,Under Construction,No,42.2,Apollo Hospitals
+ACC00425,2025-01-06,03:34:56,Mumbai,Maharashtra,India,Train,Poor Lighting,Moderate,5,0,2,Stormy,Wet,No,44.3,AIIMS
+ACC00426,2025-03-28,12:15:53,Pune,Maharashtra,India,Truck,Over Speeding,Fatal,3,1,3,Clear,Potholes,No,27.4,Max Healthcare
+ACC00427,2025-02-14,13:48:29,Pune,Maharashtra,India,Truck,Human Error,Moderate,5,2,3,Stormy,Gravel,Yes,7.8,Fortis Healthcare
+ACC00428,2025-04-17,05:50:46,Pune,Maharashtra,India,Bus,Road Conditions,Severe,5,2,4,Clear,Under Construction,No,34.3,Apollo Hospitals
+ACC00429,2025-01-21,00:48:21,Lucknow,Uttar Pradesh,India,Train,Road Conditions,Moderate,3,0,6,Stormy,Wet,No,35.6,Fortis Healthcare
+ACC00430,2025-01-24,04:50:22,Lucknow,Uttar Pradesh,India,Bus,Weather Conditions,Fatal,3,0,1,Clear,Dry,Yes,12.1,Apollo Hospitals
+ACC00431,2025-03-07,18:58:44,Hyderabad,Telangana,India,Pedestrian Involved,Brake Failure,Moderate,1,0,5,Stormy,Potholes,No,7.0,Fortis Healthcare
+ACC00432,2025-02-17,02:38:55,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Over Speeding,Moderate,4,0,4,Clear,Gravel,No,37.9,Apollo Hospitals
+ACC00433,2025-03-23,18:59:56,Lucknow,Uttar Pradesh,India,Bus,Human Error,Minor,1,2,1,Rainy,Under Construction,Yes,9.0,Fortis Healthcare
+ACC00434,2025-01-16,10:50:23,Jaipur,Rajasthan,India,Fire Accident,Drunk Driving,Moderate,5,1,5,Rainy,Under Construction,No,34.8,Max Healthcare
+ACC00435,2025-02-16,19:09:06,Chennai,Tamil Nadu,India,Slip & Fall,Poor Lighting,Fatal,1,1,2,Stormy,Under Construction,No,31.3,Max Healthcare
+ACC00436,2025-02-04,15:21:11,Lucknow,Uttar Pradesh,India,Slip & Fall,Weather Conditions,Severe,5,2,3,Stormy,Potholes,No,29.3,Max Healthcare
+ACC00437,2025-01-15,00:29:19,Jaipur,Rajasthan,India,Truck,Brake Failure,Severe,3,3,4,Stormy,Dry,Yes,44.3,Max Healthcare
+ACC00438,2025-02-05,09:15:17,Mumbai,Maharashtra,India,Two-Wheeler,Weather Conditions,Minor,3,1,2,Foggy,Dry,No,41.8,Max Healthcare
+ACC00439,2025-01-08,17:26:48,Jaipur,Rajasthan,India,Two-Wheeler,Over Speeding,Minor,4,2,2,Rainy,Gravel,No,40.6,Fortis Healthcare
+ACC00440,2025-04-22,11:04:06,Hyderabad,Telangana,India,Bus,Road Conditions,Severe,1,3,5,Rainy,Dry,No,36.7,Fortis Healthcare
+ACC00441,2025-02-26,01:46:10,Pune,Maharashtra,India,Pedestrian Involved,Human Error,Severe,1,3,1,Clear,Gravel,No,40.2,Manipal Hospital
+ACC00442,2025-01-14,13:02:33,Kolkata,West Bengal,India,Pedestrian Involved,Road Conditions,Moderate,5,0,6,Stormy,Dry,No,26.0,AIIMS
+ACC00443,2025-05-03,03:34:03,Jaipur,Rajasthan,India,Two-Wheeler,Weather Conditions,Moderate,2,0,6,Stormy,Potholes,Yes,13.9,AIIMS
+ACC00444,2025-03-16,16:38:32,Kolkata,West Bengal,India,Two-Wheeler,Drunk Driving,Severe,1,3,5,Clear,Under Construction,No,15.5,Manipal Hospital
+ACC00445,2025-04-12,11:50:23,Jaipur,Rajasthan,India,Fire Accident,Road Conditions,Moderate,2,3,5,Rainy,Potholes,No,31.1,Fortis Healthcare
+ACC00446,2025-02-13,13:10:57,Jaipur,Rajasthan,India,Truck,Drunk Driving,Minor,3,3,3,Clear,Dry,No,21.9,AIIMS
+ACC00447,2025-04-28,13:25:54,Hyderabad,Telangana,India,Train,Weather Conditions,Minor,3,1,3,Stormy,Under Construction,Yes,22.6,Fortis Healthcare
+ACC00448,2025-02-15,01:42:44,Hyderabad,Telangana,India,Train,Drunk Driving,Minor,1,0,2,Rainy,Gravel,Yes,18.7,Apollo Hospitals
+ACC00449,2025-02-20,06:08:36,Ahmedabad,Gujarat,India,Slip & Fall,Brake Failure,Minor,3,1,6,Rainy,Wet,No,27.0,Max Healthcare
+ACC00450,2025-03-24,00:07:54,Bengaluru,Karnataka,India,Vehicle Collision,Brake Failure,Minor,3,1,1,Foggy,Wet,No,7.1,Apollo Hospitals
+ACC00451,2025-02-07,03:18:01,Delhi,Delhi,India,Fire Accident,Poor Lighting,Severe,3,0,1,Foggy,Potholes,Yes,44.2,Max Healthcare
+ACC00452,2025-04-07,18:44:30,Delhi,Delhi,India,Train,Brake Failure,Minor,2,1,5,Stormy,Under Construction,Yes,6.6,Max Healthcare
+ACC00453,2025-04-14,12:29:53,Ahmedabad,Gujarat,India,Train,Brake Failure,Fatal,2,0,3,Foggy,Gravel,No,14.4,Max Healthcare
+ACC00454,2025-01-17,01:38:53,Ahmedabad,Gujarat,India,Vehicle Collision,Poor Lighting,Severe,4,0,5,Foggy,Wet,Yes,18.7,Manipal Hospital
+ACC00455,2025-03-01,13:49:41,Bengaluru,Karnataka,India,Pedestrian Involved,Poor Lighting,Fatal,5,1,4,Rainy,Under Construction,Yes,22.1,AIIMS
+ACC00456,2025-03-05,05:17:07,Lucknow,Uttar Pradesh,India,Train,Brake Failure,Moderate,2,1,5,Rainy,Wet,No,32.5,Max Healthcare
+ACC00457,2025-02-24,19:40:24,Bengaluru,Karnataka,India,Fire Accident,Road Conditions,Moderate,5,1,3,Clear,Under Construction,Yes,12.4,Fortis Healthcare
+ACC00458,2025-03-02,15:21:43,Mumbai,Maharashtra,India,Train,Brake Failure,Fatal,3,3,6,Foggy,Wet,Yes,9.3,Fortis Healthcare
+ACC00459,2025-01-19,21:55:30,Mumbai,Maharashtra,India,Bus,Human Error,Moderate,5,1,2,Clear,Gravel,Yes,32.5,Manipal Hospital
+ACC00460,2025-04-12,02:35:24,Bengaluru,Karnataka,India,Slip & Fall,Poor Lighting,Severe,2,3,4,Stormy,Wet,Yes,12.7,Apollo Hospitals
+ACC00461,2025-05-06,18:22:18,Kolkata,West Bengal,India,Vehicle Collision,Weather Conditions,Fatal,2,1,2,Clear,Wet,No,39.7,Manipal Hospital
+ACC00462,2025-04-12,12:31:05,Chennai,Tamil Nadu,India,Slip & Fall,Drunk Driving,Fatal,4,0,5,Stormy,Gravel,No,29.5,Max Healthcare
+ACC00463,2025-02-01,20:48:50,Lucknow,Uttar Pradesh,India,Vehicle Collision,Human Error,Minor,4,3,1,Rainy,Under Construction,No,44.4,Apollo Hospitals
+ACC00464,2025-02-26,19:03:11,Jaipur,Rajasthan,India,Fire Accident,Human Error,Minor,2,2,4,Stormy,Gravel,No,23.5,Manipal Hospital
+ACC00465,2025-02-18,02:08:23,Ahmedabad,Gujarat,India,Vehicle Collision,Poor Lighting,Moderate,4,3,1,Clear,Wet,Yes,20.7,AIIMS
+ACC00466,2025-01-29,02:04:15,Pune,Maharashtra,India,Vehicle Collision,Drunk Driving,Fatal,5,1,4,Clear,Gravel,No,32.7,Fortis Healthcare
+ACC00467,2025-02-23,15:46:58,Delhi,Delhi,India,Pedestrian Involved,Over Speeding,Fatal,3,0,5,Stormy,Under Construction,Yes,20.1,Manipal Hospital
+ACC00468,2025-02-09,14:19:47,Mumbai,Maharashtra,India,Two-Wheeler,Weather Conditions,Moderate,2,1,2,Clear,Potholes,No,17.4,Manipal Hospital
+ACC00469,2025-02-12,04:20:26,Ahmedabad,Gujarat,India,Two-Wheeler,Over Speeding,Moderate,2,0,5,Foggy,Dry,No,24.9,Manipal Hospital
+ACC00470,2025-01-17,23:33:25,Jaipur,Rajasthan,India,Vehicle Collision,Human Error,Fatal,2,1,5,Stormy,Potholes,No,22.7,Max Healthcare
+ACC00471,2025-04-05,20:31:23,Lucknow,Uttar Pradesh,India,Vehicle Collision,Drunk Driving,Severe,5,1,1,Rainy,Wet,Yes,31.1,Apollo Hospitals
+ACC00472,2025-02-20,11:20:45,Bengaluru,Karnataka,India,Vehicle Collision,Poor Lighting,Severe,3,0,1,Clear,Potholes,Yes,11.5,AIIMS
+ACC00473,2025-02-09,03:41:06,Lucknow,Uttar Pradesh,India,Two-Wheeler,Brake Failure,Severe,1,0,3,Foggy,Gravel,No,37.8,Manipal Hospital
+ACC00474,2025-04-04,08:34:13,Jaipur,Rajasthan,India,Pedestrian Involved,Weather Conditions,Fatal,2,0,6,Foggy,Gravel,No,26.0,Fortis Healthcare
+ACC00475,2025-02-19,19:30:12,Lucknow,Uttar Pradesh,India,Vehicle Collision,Over Speeding,Minor,4,2,4,Foggy,Gravel,No,42.1,Max Healthcare
+ACC00476,2025-02-27,23:57:09,Lucknow,Uttar Pradesh,India,Slip & Fall,Human Error,Fatal,4,1,5,Rainy,Gravel,Yes,5.1,Apollo Hospitals
+ACC00477,2025-02-18,03:54:27,Pune,Maharashtra,India,Pedestrian Involved,Poor Lighting,Moderate,5,3,4,Clear,Gravel,No,27.4,Fortis Healthcare
+ACC00478,2025-03-25,20:25:54,Mumbai,Maharashtra,India,Truck,Poor Lighting,Severe,3,0,3,Foggy,Under Construction,No,35.7,Apollo Hospitals
+ACC00479,2025-03-06,00:29:47,Chennai,Tamil Nadu,India,Train,Brake Failure,Minor,2,1,3,Foggy,Potholes,No,36.9,Fortis Healthcare
+ACC00480,2025-04-13,01:10:06,Pune,Maharashtra,India,Two-Wheeler,Poor Lighting,Fatal,5,2,4,Stormy,Dry,No,27.6,AIIMS
+ACC00481,2025-04-03,20:49:24,Jaipur,Rajasthan,India,Vehicle Collision,Drunk Driving,Severe,3,0,2,Foggy,Dry,No,44.3,Max Healthcare
+ACC00482,2025-02-28,13:48:34,Bengaluru,Karnataka,India,Fire Accident,Drunk Driving,Minor,3,2,6,Clear,Gravel,No,8.5,Fortis Healthcare
+ACC00483,2025-03-30,10:44:02,Chennai,Tamil Nadu,India,Slip & Fall,Road Conditions,Severe,2,2,2,Clear,Gravel,Yes,36.1,Apollo Hospitals
+ACC00484,2025-03-23,12:41:04,Pune,Maharashtra,India,Vehicle Collision,Road Conditions,Fatal,5,1,2,Foggy,Potholes,No,36.0,Fortis Healthcare
+ACC00485,2025-04-13,13:57:50,Delhi,Delhi,India,Two-Wheeler,Drunk Driving,Minor,4,3,6,Clear,Dry,No,42.3,Max Healthcare
+ACC00486,2025-02-23,23:03:50,Delhi,Delhi,India,Train,Brake Failure,Minor,1,2,1,Foggy,Wet,No,13.0,AIIMS
+ACC00487,2025-02-08,04:45:31,Ahmedabad,Gujarat,India,Train,Road Conditions,Fatal,1,2,2,Rainy,Gravel,Yes,5.6,Max Healthcare
+ACC00488,2025-01-14,14:33:53,Jaipur,Rajasthan,India,Pedestrian Involved,Drunk Driving,Severe,5,2,3,Rainy,Gravel,Yes,11.9,AIIMS
+ACC00489,2025-04-27,09:05:40,Lucknow,Uttar Pradesh,India,Train,Human Error,Fatal,1,1,1,Stormy,Dry,Yes,20.3,Apollo Hospitals
+ACC00490,2025-01-11,23:17:23,Kolkata,West Bengal,India,Fire Accident,Drunk Driving,Fatal,5,2,3,Foggy,Wet,Yes,43.9,Manipal Hospital
+ACC00491,2025-04-20,16:15:23,Lucknow,Uttar Pradesh,India,Two-Wheeler,Over Speeding,Fatal,1,3,3,Stormy,Potholes,Yes,42.9,Fortis Healthcare
+ACC00492,2025-02-11,19:53:44,Lucknow,Uttar Pradesh,India,Bus,Weather Conditions,Fatal,2,2,3,Stormy,Potholes,Yes,7.6,Apollo Hospitals
+ACC00493,2025-04-19,15:19:07,Chennai,Tamil Nadu,India,Slip & Fall,Brake Failure,Moderate,3,2,5,Rainy,Under Construction,Yes,21.2,Apollo Hospitals
+ACC00494,2025-03-04,07:54:53,Chennai,Tamil Nadu,India,Pedestrian Involved,Road Conditions,Severe,5,3,4,Stormy,Wet,Yes,26.9,Manipal Hospital
+ACC00495,2025-03-16,02:38:26,Kolkata,West Bengal,India,Pedestrian Involved,Weather Conditions,Moderate,5,3,4,Foggy,Under Construction,Yes,11.9,Apollo Hospitals
+ACC00496,2025-01-09,19:45:20,Lucknow,Uttar Pradesh,India,Slip & Fall,Over Speeding,Fatal,3,0,4,Rainy,Gravel,No,7.8,Apollo Hospitals
+ACC00497,2025-03-03,05:15:44,Lucknow,Uttar Pradesh,India,Fire Accident,Weather Conditions,Fatal,1,0,2,Rainy,Under Construction,Yes,35.3,Fortis Healthcare
+ACC00498,2025-04-01,02:50:28,Pune,Maharashtra,India,Bus,Brake Failure,Fatal,2,1,6,Foggy,Gravel,No,41.7,Manipal Hospital
+ACC00499,2025-01-03,08:52:25,Chennai,Tamil Nadu,India,Pedestrian Involved,Human Error,Minor,5,3,2,Foggy,Dry,No,41.0,Apollo Hospitals
+ACC00500,2025-05-04,12:53:30,Mumbai,Maharashtra,India,Train,Over Speeding,Severe,1,1,4,Stormy,Gravel,No,21.2,Manipal Hospital
+ACC00501,2025-04-11,08:25:25,Jaipur,Rajasthan,India,Truck,Poor Lighting,Moderate,4,1,2,Stormy,Gravel,No,11.2,Fortis Healthcare
+ACC00502,2025-03-05,21:03:20,Bengaluru,Karnataka,India,Vehicle Collision,Over Speeding,Minor,2,3,6,Stormy,Wet,Yes,10.5,Manipal Hospital
+ACC00503,2025-02-17,03:23:49,Pune,Maharashtra,India,Fire Accident,Human Error,Moderate,4,3,5,Stormy,Potholes,No,14.0,Manipal Hospital
+ACC00504,2025-01-14,17:02:58,Lucknow,Uttar Pradesh,India,Vehicle Collision,Human Error,Fatal,2,2,4,Foggy,Dry,Yes,27.7,AIIMS
+ACC00505,2025-03-24,06:19:39,Delhi,Delhi,India,Slip & Fall,Poor Lighting,Minor,2,2,4,Clear,Under Construction,Yes,14.8,Apollo Hospitals
+ACC00506,2025-02-12,08:45:27,Jaipur,Rajasthan,India,Bus,Human Error,Minor,3,0,4,Stormy,Under Construction,No,28.0,AIIMS
+ACC00507,2025-04-16,04:23:56,Kolkata,West Bengal,India,Train,Road Conditions,Severe,3,1,1,Foggy,Under Construction,No,7.5,Manipal Hospital
+ACC00508,2025-01-29,04:27:36,Lucknow,Uttar Pradesh,India,Two-Wheeler,Human Error,Minor,3,0,3,Stormy,Dry,Yes,25.2,AIIMS
+ACC00509,2025-03-24,15:01:46,Ahmedabad,Gujarat,India,Two-Wheeler,Human Error,Severe,3,2,1,Clear,Under Construction,Yes,41.4,Fortis Healthcare
+ACC00510,2025-04-23,07:06:10,Pune,Maharashtra,India,Train,Road Conditions,Moderate,3,1,4,Rainy,Under Construction,Yes,18.7,Apollo Hospitals
+ACC00511,2025-01-19,07:55:16,Bengaluru,Karnataka,India,Two-Wheeler,Road Conditions,Fatal,4,3,2,Stormy,Wet,Yes,28.1,AIIMS
+ACC00512,2025-04-07,14:49:12,Mumbai,Maharashtra,India,Bus,Road Conditions,Minor,1,1,4,Stormy,Potholes,No,24.1,Max Healthcare
+ACC00513,2025-04-30,05:01:59,Hyderabad,Telangana,India,Fire Accident,Poor Lighting,Fatal,4,2,2,Stormy,Dry,No,42.1,Manipal Hospital
+ACC00514,2025-03-14,06:51:35,Kolkata,West Bengal,India,Train,Human Error,Minor,1,2,4,Foggy,Gravel,No,15.7,Apollo Hospitals
+ACC00515,2025-03-30,09:34:04,Ahmedabad,Gujarat,India,Fire Accident,Brake Failure,Moderate,5,1,5,Foggy,Wet,No,26.9,Apollo Hospitals
+ACC00516,2025-01-01,05:41:30,Delhi,Delhi,India,Vehicle Collision,Brake Failure,Minor,5,0,6,Stormy,Gravel,Yes,34.0,AIIMS
+ACC00517,2025-04-18,20:55:36,Hyderabad,Telangana,India,Vehicle Collision,Over Speeding,Minor,1,1,5,Clear,Dry,Yes,39.3,Fortis Healthcare
+ACC00518,2025-04-01,05:23:09,Kolkata,West Bengal,India,Two-Wheeler,Over Speeding,Moderate,3,2,4,Clear,Potholes,No,35.8,AIIMS
+ACC00519,2025-02-25,11:49:50,Ahmedabad,Gujarat,India,Two-Wheeler,Road Conditions,Minor,3,0,4,Stormy,Gravel,Yes,15.3,AIIMS
+ACC00520,2025-02-16,13:22:44,Bengaluru,Karnataka,India,Slip & Fall,Over Speeding,Fatal,2,3,2,Stormy,Dry,Yes,26.6,Manipal Hospital
+ACC00521,2025-04-16,16:02:18,Hyderabad,Telangana,India,Pedestrian Involved,Brake Failure,Severe,1,0,1,Clear,Under Construction,No,36.1,Apollo Hospitals
+ACC00522,2025-04-26,09:08:45,Pune,Maharashtra,India,Two-Wheeler,Poor Lighting,Minor,1,3,3,Rainy,Gravel,No,28.0,Max Healthcare
+ACC00523,2025-01-19,01:50:23,Pune,Maharashtra,India,Slip & Fall,Brake Failure,Fatal,1,1,1,Stormy,Potholes,Yes,27.7,AIIMS
+ACC00524,2025-04-28,17:48:34,Chennai,Tamil Nadu,India,Bus,Brake Failure,Minor,1,2,5,Foggy,Dry,No,35.4,AIIMS
+ACC00525,2025-03-06,20:28:14,Hyderabad,Telangana,India,Two-Wheeler,Human Error,Minor,4,1,3,Stormy,Dry,No,24.5,Manipal Hospital
+ACC00526,2025-03-18,16:46:15,Hyderabad,Telangana,India,Two-Wheeler,Over Speeding,Moderate,1,1,4,Stormy,Dry,No,25.0,Manipal Hospital
+ACC00527,2025-05-02,05:30:53,Mumbai,Maharashtra,India,Vehicle Collision,Weather Conditions,Minor,3,0,4,Clear,Wet,No,42.6,Max Healthcare
+ACC00528,2025-03-29,00:26:44,Bengaluru,Karnataka,India,Truck,Over Speeding,Minor,2,3,6,Clear,Potholes,Yes,14.7,Fortis Healthcare
+ACC00529,2025-02-13,02:22:25,Mumbai,Maharashtra,India,Two-Wheeler,Poor Lighting,Minor,3,0,4,Rainy,Under Construction,Yes,37.7,Apollo Hospitals
+ACC00530,2025-03-17,12:27:51,Delhi,Delhi,India,Slip & Fall,Human Error,Moderate,1,1,4,Foggy,Potholes,No,9.8,Max Healthcare
+ACC00531,2025-02-10,20:38:04,Jaipur,Rajasthan,India,Two-Wheeler,Weather Conditions,Moderate,1,1,3,Clear,Dry,No,10.6,Manipal Hospital
+ACC00532,2025-04-16,16:01:57,Bengaluru,Karnataka,India,Train,Human Error,Moderate,4,1,5,Clear,Wet,Yes,36.6,Max Healthcare
+ACC00533,2025-03-13,11:56:53,Kolkata,West Bengal,India,Two-Wheeler,Over Speeding,Fatal,1,0,1,Rainy,Dry,No,21.6,Manipal Hospital
+ACC00534,2025-04-30,12:35:57,Bengaluru,Karnataka,India,Truck,Drunk Driving,Severe,5,3,4,Rainy,Wet,Yes,28.9,Manipal Hospital
+ACC00535,2025-02-02,05:29:58,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Poor Lighting,Severe,3,3,1,Rainy,Wet,Yes,44.5,Apollo Hospitals
+ACC00536,2025-04-10,00:27:26,Lucknow,Uttar Pradesh,India,Train,Road Conditions,Moderate,4,1,3,Clear,Wet,Yes,36.9,Manipal Hospital
+ACC00537,2025-04-21,19:48:08,Pune,Maharashtra,India,Two-Wheeler,Drunk Driving,Minor,1,2,3,Rainy,Potholes,No,18.4,Manipal Hospital
+ACC00538,2025-03-17,12:29:22,Mumbai,Maharashtra,India,Pedestrian Involved,Poor Lighting,Minor,5,1,2,Clear,Potholes,Yes,7.8,Fortis Healthcare
+ACC00539,2025-04-07,22:03:13,Pune,Maharashtra,India,Train,Brake Failure,Moderate,3,1,1,Foggy,Wet,Yes,14.5,Manipal Hospital
+ACC00540,2025-04-07,05:33:05,Hyderabad,Telangana,India,Fire Accident,Drunk Driving,Minor,4,3,1,Stormy,Wet,Yes,42.1,Manipal Hospital
+ACC00541,2025-02-04,04:17:58,Bengaluru,Karnataka,India,Fire Accident,Weather Conditions,Moderate,4,1,6,Foggy,Gravel,Yes,18.4,Apollo Hospitals
+ACC00542,2025-02-09,02:53:15,Lucknow,Uttar Pradesh,India,Vehicle Collision,Weather Conditions,Moderate,1,3,4,Stormy,Wet,No,13.8,AIIMS
+ACC00543,2025-01-31,19:10:36,Lucknow,Uttar Pradesh,India,Two-Wheeler,Road Conditions,Moderate,5,1,1,Stormy,Under Construction,No,39.5,Fortis Healthcare
+ACC00544,2025-04-20,06:42:26,Lucknow,Uttar Pradesh,India,Slip & Fall,Road Conditions,Fatal,3,0,6,Stormy,Wet,Yes,18.1,Max Healthcare
+ACC00545,2025-02-24,21:36:26,Hyderabad,Telangana,India,Two-Wheeler,Human Error,Minor,4,0,1,Stormy,Under Construction,Yes,22.0,Manipal Hospital
+ACC00546,2025-03-18,21:50:08,Pune,Maharashtra,India,Pedestrian Involved,Brake Failure,Fatal,2,0,5,Clear,Potholes,Yes,10.3,AIIMS
+ACC00547,2025-01-28,22:40:37,Hyderabad,Telangana,India,Pedestrian Involved,Over Speeding,Fatal,3,1,6,Stormy,Under Construction,Yes,44.1,Manipal Hospital
+ACC00548,2025-04-16,12:02:32,Bengaluru,Karnataka,India,Fire Accident,Drunk Driving,Severe,4,0,6,Clear,Potholes,No,26.2,AIIMS
+ACC00549,2025-04-07,23:02:10,Kolkata,West Bengal,India,Bus,Poor Lighting,Moderate,1,2,6,Clear,Under Construction,No,40.5,Apollo Hospitals
+ACC00550,2025-02-19,13:47:23,Kolkata,West Bengal,India,Train,Brake Failure,Minor,3,2,2,Clear,Under Construction,Yes,10.5,AIIMS
+ACC00551,2025-04-23,15:42:40,Hyderabad,Telangana,India,Pedestrian Involved,Poor Lighting,Fatal,5,1,6,Rainy,Gravel,No,40.9,Max Healthcare
+ACC00552,2025-03-02,13:42:07,Kolkata,West Bengal,India,Bus,Over Speeding,Minor,3,2,4,Stormy,Under Construction,Yes,23.8,Max Healthcare
+ACC00553,2025-03-13,09:46:13,Jaipur,Rajasthan,India,Bus,Brake Failure,Severe,1,1,4,Clear,Dry,No,40.9,AIIMS
+ACC00554,2025-01-19,18:39:07,Delhi,Delhi,India,Pedestrian Involved,Drunk Driving,Severe,1,1,4,Rainy,Wet,Yes,16.7,Max Healthcare
+ACC00555,2025-03-11,11:03:53,Bengaluru,Karnataka,India,Slip & Fall,Weather Conditions,Fatal,4,0,3,Rainy,Dry,Yes,39.9,Fortis Healthcare
+ACC00556,2025-02-08,03:48:22,Jaipur,Rajasthan,India,Train,Brake Failure,Severe,3,3,5,Stormy,Potholes,No,27.7,AIIMS
+ACC00557,2025-01-26,23:54:25,Bengaluru,Karnataka,India,Bus,Drunk Driving,Fatal,3,2,1,Rainy,Gravel,No,23.2,Fortis Healthcare
+ACC00558,2025-02-14,22:19:15,Lucknow,Uttar Pradesh,India,Two-Wheeler,Poor Lighting,Severe,2,1,6,Rainy,Wet,Yes,9.7,AIIMS
+ACC00559,2025-03-03,13:13:44,Lucknow,Uttar Pradesh,India,Two-Wheeler,Brake Failure,Severe,3,1,2,Clear,Gravel,No,10.9,Manipal Hospital
+ACC00560,2025-02-06,20:12:49,Jaipur,Rajasthan,India,Two-Wheeler,Human Error,Severe,1,0,4,Stormy,Wet,No,42.1,Fortis Healthcare
+ACC00561,2025-02-19,13:32:41,Mumbai,Maharashtra,India,Train,Poor Lighting,Severe,4,2,5,Rainy,Under Construction,No,18.5,Apollo Hospitals
+ACC00562,2025-04-12,23:06:13,Pune,Maharashtra,India,Vehicle Collision,Drunk Driving,Minor,3,0,4,Rainy,Potholes,No,8.7,Apollo Hospitals
+ACC00563,2025-03-29,03:24:36,Lucknow,Uttar Pradesh,India,Truck,Human Error,Moderate,3,1,1,Clear,Under Construction,No,32.1,Apollo Hospitals
+ACC00564,2025-01-18,13:52:29,Jaipur,Rajasthan,India,Fire Accident,Drunk Driving,Fatal,3,0,6,Foggy,Potholes,Yes,33.6,Manipal Hospital
+ACC00565,2025-05-01,16:29:53,Chennai,Tamil Nadu,India,Fire Accident,Weather Conditions,Minor,3,2,3,Foggy,Potholes,Yes,13.6,Manipal Hospital
+ACC00566,2025-04-16,15:02:33,Kolkata,West Bengal,India,Slip & Fall,Weather Conditions,Moderate,4,3,2,Clear,Wet,Yes,17.1,Max Healthcare
+ACC00567,2025-01-28,17:16:52,Chennai,Tamil Nadu,India,Pedestrian Involved,Human Error,Fatal,1,0,4,Foggy,Potholes,Yes,27.2,Max Healthcare
+ACC00568,2025-04-01,16:53:16,Bengaluru,Karnataka,India,Truck,Drunk Driving,Fatal,3,3,1,Foggy,Under Construction,No,24.8,Manipal Hospital
+ACC00569,2025-03-07,05:59:08,Hyderabad,Telangana,India,Vehicle Collision,Road Conditions,Minor,2,2,3,Stormy,Dry,No,21.7,Manipal Hospital
+ACC00570,2025-04-22,19:23:11,Hyderabad,Telangana,India,Vehicle Collision,Over Speeding,Severe,4,0,5,Foggy,Under Construction,No,27.6,AIIMS
+ACC00571,2025-02-10,06:59:16,Pune,Maharashtra,India,Pedestrian Involved,Weather Conditions,Minor,3,1,5,Clear,Wet,No,23.4,Fortis Healthcare
+ACC00572,2025-05-01,22:31:30,Chennai,Tamil Nadu,India,Two-Wheeler,Over Speeding,Severe,3,3,6,Foggy,Dry,No,16.7,Apollo Hospitals
+ACC00573,2025-03-11,14:11:07,Jaipur,Rajasthan,India,Truck,Road Conditions,Moderate,1,1,5,Foggy,Gravel,No,15.9,AIIMS
+ACC00574,2025-04-23,12:07:14,Delhi,Delhi,India,Train,Road Conditions,Moderate,1,1,5,Foggy,Gravel,No,21.5,Fortis Healthcare
+ACC00575,2025-03-12,02:29:08,Delhi,Delhi,India,Truck,Drunk Driving,Moderate,2,0,4,Stormy,Dry,Yes,37.8,Apollo Hospitals
+ACC00576,2025-05-02,11:49:33,Pune,Maharashtra,India,Train,Weather Conditions,Severe,2,3,5,Foggy,Wet,No,6.2,Apollo Hospitals
+ACC00577,2025-01-08,21:55:11,Hyderabad,Telangana,India,Two-Wheeler,Road Conditions,Moderate,2,2,2,Rainy,Wet,Yes,22.0,Apollo Hospitals
+ACC00578,2025-01-09,14:06:53,Delhi,Delhi,India,Vehicle Collision,Road Conditions,Fatal,4,0,2,Clear,Dry,Yes,23.8,AIIMS
+ACC00579,2025-02-20,07:41:13,Mumbai,Maharashtra,India,Pedestrian Involved,Weather Conditions,Minor,1,0,5,Rainy,Under Construction,Yes,12.4,AIIMS
+ACC00580,2025-02-21,10:14:53,Mumbai,Maharashtra,India,Pedestrian Involved,Drunk Driving,Severe,5,2,3,Rainy,Under Construction,Yes,25.2,Apollo Hospitals
+ACC00581,2025-03-23,02:01:50,Delhi,Delhi,India,Vehicle Collision,Human Error,Moderate,2,2,2,Clear,Dry,Yes,41.8,Manipal Hospital
+ACC00582,2025-01-24,05:34:43,Chennai,Tamil Nadu,India,Two-Wheeler,Brake Failure,Minor,2,2,4,Stormy,Wet,Yes,21.3,AIIMS
+ACC00583,2025-02-23,22:56:15,Delhi,Delhi,India,Slip & Fall,Over Speeding,Moderate,4,2,6,Foggy,Under Construction,Yes,8.3,Manipal Hospital
+ACC00584,2025-03-07,21:19:28,Delhi,Delhi,India,Fire Accident,Weather Conditions,Fatal,5,2,6,Stormy,Wet,No,16.6,Manipal Hospital
+ACC00585,2025-03-11,07:49:42,Hyderabad,Telangana,India,Pedestrian Involved,Road Conditions,Fatal,3,1,1,Stormy,Dry,No,22.5,Apollo Hospitals
+ACC00586,2025-02-17,15:53:09,Delhi,Delhi,India,Two-Wheeler,Brake Failure,Fatal,5,0,6,Rainy,Dry,No,44.0,AIIMS
+ACC00587,2025-01-10,10:09:25,Hyderabad,Telangana,India,Fire Accident,Over Speeding,Moderate,4,3,3,Foggy,Potholes,No,24.0,Max Healthcare
+ACC00588,2025-03-17,10:19:47,Kolkata,West Bengal,India,Slip & Fall,Human Error,Severe,2,3,1,Clear,Gravel,No,24.9,Fortis Healthcare
+ACC00589,2025-03-12,11:23:26,Mumbai,Maharashtra,India,Pedestrian Involved,Poor Lighting,Minor,1,3,6,Clear,Wet,No,29.2,AIIMS
+ACC00590,2025-03-04,02:06:14,Bengaluru,Karnataka,India,Bus,Human Error,Minor,1,3,4,Rainy,Gravel,No,24.6,AIIMS
+ACC00591,2025-01-18,07:15:48,Jaipur,Rajasthan,India,Train,Road Conditions,Minor,1,3,1,Stormy,Potholes,No,39.1,Manipal Hospital
+ACC00592,2025-01-29,18:10:24,Pune,Maharashtra,India,Vehicle Collision,Over Speeding,Moderate,5,2,6,Rainy,Potholes,No,10.4,Manipal Hospital
+ACC00593,2025-03-14,12:27:50,Pune,Maharashtra,India,Pedestrian Involved,Human Error,Fatal,5,3,4,Rainy,Under Construction,Yes,20.7,Manipal Hospital
+ACC00594,2025-03-27,23:15:48,Lucknow,Uttar Pradesh,India,Fire Accident,Human Error,Severe,3,2,1,Clear,Under Construction,Yes,10.1,AIIMS
+ACC00595,2025-01-13,04:53:05,Chennai,Tamil Nadu,India,Vehicle Collision,Road Conditions,Severe,4,0,4,Foggy,Gravel,No,19.1,Fortis Healthcare
+ACC00596,2025-01-20,17:27:51,Hyderabad,Telangana,India,Truck,Poor Lighting,Severe,5,0,6,Clear,Gravel,Yes,18.5,Apollo Hospitals
+ACC00597,2025-01-25,02:13:55,Jaipur,Rajasthan,India,Train,Over Speeding,Fatal,4,3,3,Clear,Potholes,Yes,44.4,Manipal Hospital
+ACC00598,2025-04-06,13:04:08,Lucknow,Uttar Pradesh,India,Fire Accident,Weather Conditions,Minor,4,0,6,Rainy,Gravel,No,25.1,AIIMS
+ACC00599,2025-03-25,22:27:41,Bengaluru,Karnataka,India,Bus,Weather Conditions,Fatal,2,3,6,Clear,Under Construction,Yes,16.5,Apollo Hospitals
+ACC00600,2025-02-10,18:18:06,Ahmedabad,Gujarat,India,Fire Accident,Road Conditions,Moderate,5,0,6,Clear,Under Construction,No,15.9,Max Healthcare
+ACC00601,2025-03-10,20:35:12,Jaipur,Rajasthan,India,Slip & Fall,Brake Failure,Moderate,3,0,6,Foggy,Under Construction,No,22.3,Max Healthcare
+ACC00602,2025-02-07,00:40:23,Chennai,Tamil Nadu,India,Truck,Brake Failure,Fatal,3,3,6,Rainy,Dry,Yes,28.1,Fortis Healthcare
+ACC00603,2025-02-10,23:34:04,Pune,Maharashtra,India,Bus,Poor Lighting,Fatal,5,0,5,Rainy,Gravel,No,10.9,Fortis Healthcare
+ACC00604,2025-04-12,00:49:26,Ahmedabad,Gujarat,India,Fire Accident,Brake Failure,Severe,1,1,4,Foggy,Gravel,Yes,15.3,Max Healthcare
+ACC00605,2025-03-10,16:18:20,Hyderabad,Telangana,India,Fire Accident,Drunk Driving,Minor,2,1,1,Rainy,Gravel,No,24.4,Manipal Hospital
+ACC00606,2025-04-18,16:12:03,Kolkata,West Bengal,India,Vehicle Collision,Drunk Driving,Moderate,3,1,1,Foggy,Gravel,Yes,30.8,Apollo Hospitals
+ACC00607,2025-04-20,16:23:04,Pune,Maharashtra,India,Vehicle Collision,Over Speeding,Minor,3,2,1,Stormy,Gravel,Yes,20.9,Fortis Healthcare
+ACC00608,2025-03-13,11:00:50,Hyderabad,Telangana,India,Pedestrian Involved,Human Error,Minor,5,2,4,Clear,Wet,Yes,35.9,AIIMS
+ACC00609,2025-02-28,11:42:26,Chennai,Tamil Nadu,India,Fire Accident,Road Conditions,Moderate,4,1,2,Clear,Wet,Yes,43.8,Manipal Hospital
+ACC00610,2025-04-08,17:06:10,Kolkata,West Bengal,India,Bus,Road Conditions,Minor,4,2,6,Clear,Gravel,No,24.0,Fortis Healthcare
+ACC00611,2025-01-18,08:45:07,Ahmedabad,Gujarat,India,Two-Wheeler,Weather Conditions,Fatal,3,2,1,Clear,Dry,Yes,15.1,Manipal Hospital
+ACC00612,2025-02-09,07:52:06,Ahmedabad,Gujarat,India,Train,Road Conditions,Minor,5,1,4,Stormy,Dry,No,42.1,AIIMS
+ACC00613,2025-04-21,21:28:35,Ahmedabad,Gujarat,India,Pedestrian Involved,Road Conditions,Moderate,3,1,2,Stormy,Gravel,No,36.6,AIIMS
+ACC00614,2025-02-14,10:01:30,Delhi,Delhi,India,Slip & Fall,Brake Failure,Fatal,3,3,1,Rainy,Gravel,Yes,19.1,Max Healthcare
+ACC00615,2025-03-07,05:22:20,Jaipur,Rajasthan,India,Train,Brake Failure,Minor,1,1,6,Stormy,Wet,Yes,21.0,AIIMS
+ACC00616,2025-03-30,16:45:18,Chennai,Tamil Nadu,India,Pedestrian Involved,Over Speeding,Moderate,2,1,5,Stormy,Gravel,No,24.1,Fortis Healthcare
+ACC00617,2025-03-28,01:07:45,Ahmedabad,Gujarat,India,Two-Wheeler,Poor Lighting,Severe,3,1,1,Stormy,Gravel,Yes,20.7,Manipal Hospital
+ACC00618,2025-03-02,04:17:42,Lucknow,Uttar Pradesh,India,Truck,Over Speeding,Minor,5,1,1,Stormy,Wet,No,33.1,Fortis Healthcare
+ACC00619,2025-05-01,00:03:26,Mumbai,Maharashtra,India,Fire Accident,Human Error,Fatal,5,2,2,Clear,Gravel,Yes,42.9,Apollo Hospitals
+ACC00620,2025-04-12,20:35:24,Mumbai,Maharashtra,India,Fire Accident,Road Conditions,Fatal,4,0,2,Rainy,Wet,No,16.5,Manipal Hospital
+ACC00621,2025-04-10,22:12:26,Kolkata,West Bengal,India,Two-Wheeler,Brake Failure,Moderate,5,1,3,Rainy,Potholes,Yes,21.3,Fortis Healthcare
+ACC00622,2025-04-11,22:02:52,Mumbai,Maharashtra,India,Bus,Weather Conditions,Moderate,5,3,2,Foggy,Under Construction,No,8.4,Manipal Hospital
+ACC00623,2025-04-20,03:56:16,Bengaluru,Karnataka,India,Train,Poor Lighting,Fatal,2,3,6,Stormy,Under Construction,No,7.9,Max Healthcare
+ACC00624,2025-04-16,22:07:36,Mumbai,Maharashtra,India,Vehicle Collision,Weather Conditions,Moderate,4,2,5,Clear,Dry,No,25.2,Manipal Hospital
+ACC00625,2025-02-02,16:29:37,Ahmedabad,Gujarat,India,Fire Accident,Poor Lighting,Severe,2,0,5,Rainy,Gravel,Yes,25.1,AIIMS
+ACC00626,2025-04-30,07:38:05,Pune,Maharashtra,India,Two-Wheeler,Over Speeding,Severe,5,3,2,Foggy,Dry,No,6.8,Fortis Healthcare
+ACC00627,2025-04-30,02:30:01,Pune,Maharashtra,India,Bus,Poor Lighting,Severe,4,2,3,Foggy,Under Construction,No,22.4,Fortis Healthcare
+ACC00628,2025-02-08,13:04:44,Chennai,Tamil Nadu,India,Slip & Fall,Road Conditions,Moderate,5,3,1,Rainy,Wet,Yes,14.2,Apollo Hospitals
+ACC00629,2025-05-01,20:23:59,Pune,Maharashtra,India,Bus,Drunk Driving,Fatal,4,0,4,Clear,Potholes,No,44.6,Max Healthcare
+ACC00630,2025-03-28,02:42:51,Pune,Maharashtra,India,Slip & Fall,Brake Failure,Minor,2,0,3,Clear,Wet,No,12.2,Fortis Healthcare
+ACC00631,2025-02-12,08:41:36,Jaipur,Rajasthan,India,Bus,Human Error,Moderate,5,0,5,Rainy,Potholes,Yes,14.8,Manipal Hospital
+ACC00632,2025-03-10,23:29:22,Delhi,Delhi,India,Train,Over Speeding,Severe,1,3,3,Clear,Gravel,Yes,6.2,Manipal Hospital
+ACC00633,2025-03-02,22:26:03,Pune,Maharashtra,India,Slip & Fall,Poor Lighting,Severe,5,0,3,Clear,Under Construction,No,18.0,Max Healthcare
+ACC00634,2025-03-22,15:36:35,Bengaluru,Karnataka,India,Truck,Road Conditions,Minor,3,2,1,Clear,Under Construction,No,8.7,AIIMS
+ACC00635,2025-02-27,17:27:29,Bengaluru,Karnataka,India,Truck,Road Conditions,Fatal,1,0,2,Rainy,Potholes,No,16.4,Fortis Healthcare
+ACC00636,2025-04-21,02:41:58,Delhi,Delhi,India,Bus,Brake Failure,Fatal,3,1,3,Clear,Gravel,Yes,24.6,Manipal Hospital
+ACC00637,2025-05-03,13:37:55,Pune,Maharashtra,India,Bus,Human Error,Fatal,1,3,3,Rainy,Potholes,No,8.7,Max Healthcare
+ACC00638,2025-04-30,06:43:39,Chennai,Tamil Nadu,India,Slip & Fall,Poor Lighting,Moderate,2,3,5,Clear,Gravel,No,22.5,Manipal Hospital
+ACC00639,2025-01-21,10:03:08,Ahmedabad,Gujarat,India,Two-Wheeler,Drunk Driving,Severe,2,3,3,Clear,Under Construction,Yes,41.7,Max Healthcare
+ACC00640,2025-01-14,12:33:43,Delhi,Delhi,India,Fire Accident,Brake Failure,Minor,4,2,3,Foggy,Under Construction,Yes,35.7,Apollo Hospitals
+ACC00641,2025-03-13,00:18:24,Delhi,Delhi,India,Slip & Fall,Drunk Driving,Moderate,4,0,1,Stormy,Gravel,No,28.5,Manipal Hospital
+ACC00642,2025-04-11,05:25:38,Pune,Maharashtra,India,Bus,Weather Conditions,Moderate,2,1,1,Foggy,Dry,No,26.4,Apollo Hospitals
+ACC00643,2025-01-05,00:21:04,Kolkata,West Bengal,India,Pedestrian Involved,Over Speeding,Moderate,4,3,6,Stormy,Under Construction,No,17.1,Max Healthcare
+ACC00644,2025-01-19,15:36:52,Chennai,Tamil Nadu,India,Fire Accident,Road Conditions,Severe,1,1,2,Clear,Wet,Yes,37.6,Fortis Healthcare
+ACC00645,2025-04-23,23:30:10,Mumbai,Maharashtra,India,Truck,Brake Failure,Moderate,2,3,6,Rainy,Dry,No,35.8,Fortis Healthcare
+ACC00646,2025-02-03,05:39:23,Pune,Maharashtra,India,Fire Accident,Over Speeding,Minor,2,1,6,Stormy,Potholes,No,5.8,Manipal Hospital
+ACC00647,2025-01-24,22:08:09,Lucknow,Uttar Pradesh,India,Truck,Drunk Driving,Severe,5,3,1,Foggy,Dry,Yes,30.2,Manipal Hospital
+ACC00648,2025-04-30,13:44:32,Kolkata,West Bengal,India,Slip & Fall,Poor Lighting,Severe,1,3,4,Stormy,Under Construction,No,14.3,Apollo Hospitals
+ACC00649,2025-03-26,13:53:33,Jaipur,Rajasthan,India,Vehicle Collision,Brake Failure,Severe,5,0,3,Stormy,Potholes,Yes,24.8,AIIMS
+ACC00650,2025-01-17,18:00:39,Pune,Maharashtra,India,Fire Accident,Over Speeding,Moderate,3,1,4,Foggy,Potholes,Yes,25.3,Max Healthcare
+ACC00651,2025-02-14,15:47:52,Chennai,Tamil Nadu,India,Slip & Fall,Drunk Driving,Severe,4,3,6,Foggy,Potholes,Yes,29.9,AIIMS
+ACC00652,2025-05-07,10:19:14,Delhi,Delhi,India,Slip & Fall,Drunk Driving,Moderate,2,1,5,Stormy,Dry,No,42.7,Manipal Hospital
+ACC00653,2025-02-01,20:19:29,Ahmedabad,Gujarat,India,Truck,Drunk Driving,Minor,1,2,3,Foggy,Wet,Yes,38.1,Max Healthcare
+ACC00654,2025-01-28,08:37:44,Mumbai,Maharashtra,India,Pedestrian Involved,Weather Conditions,Fatal,1,1,1,Rainy,Potholes,No,44.7,AIIMS
+ACC00655,2025-02-15,07:09:32,Mumbai,Maharashtra,India,Bus,Drunk Driving,Minor,1,3,4,Clear,Dry,Yes,37.9,Apollo Hospitals
+ACC00656,2025-01-14,22:57:31,Jaipur,Rajasthan,India,Pedestrian Involved,Drunk Driving,Minor,2,2,2,Foggy,Potholes,No,34.3,Apollo Hospitals
+ACC00657,2025-04-23,15:07:33,Bengaluru,Karnataka,India,Train,Weather Conditions,Moderate,1,1,4,Stormy,Dry,Yes,38.4,Manipal Hospital
+ACC00658,2025-02-28,22:09:03,Chennai,Tamil Nadu,India,Bus,Human Error,Moderate,1,2,3,Stormy,Gravel,Yes,11.1,Max Healthcare
+ACC00659,2025-04-09,04:36:23,Kolkata,West Bengal,India,Truck,Drunk Driving,Fatal,4,3,4,Foggy,Dry,No,10.8,Apollo Hospitals
+ACC00660,2025-02-04,15:02:48,Jaipur,Rajasthan,India,Pedestrian Involved,Over Speeding,Severe,3,3,2,Stormy,Dry,No,35.4,Fortis Healthcare
+ACC00661,2025-04-11,14:05:59,Lucknow,Uttar Pradesh,India,Vehicle Collision,Poor Lighting,Severe,4,3,6,Foggy,Gravel,No,5.3,AIIMS
+ACC00662,2025-01-08,11:20:43,Jaipur,Rajasthan,India,Two-Wheeler,Poor Lighting,Fatal,4,1,5,Stormy,Gravel,No,36.0,AIIMS
+ACC00663,2025-02-11,18:45:06,Delhi,Delhi,India,Vehicle Collision,Human Error,Severe,4,1,5,Foggy,Wet,Yes,25.5,AIIMS
+ACC00664,2025-04-28,19:38:40,Jaipur,Rajasthan,India,Train,Road Conditions,Moderate,1,0,5,Foggy,Wet,No,34.1,Max Healthcare
+ACC00665,2025-03-03,07:35:48,Delhi,Delhi,India,Vehicle Collision,Road Conditions,Severe,3,2,1,Clear,Dry,No,16.9,Apollo Hospitals
+ACC00666,2025-01-08,14:00:33,Pune,Maharashtra,India,Train,Drunk Driving,Moderate,3,2,3,Rainy,Potholes,Yes,9.2,Max Healthcare
+ACC00667,2025-04-22,20:13:51,Lucknow,Uttar Pradesh,India,Truck,Road Conditions,Severe,4,0,2,Stormy,Potholes,Yes,8.7,Manipal Hospital
+ACC00668,2025-05-05,14:20:17,Bengaluru,Karnataka,India,Slip & Fall,Drunk Driving,Fatal,1,2,6,Stormy,Under Construction,No,39.9,Max Healthcare
+ACC00669,2025-01-13,04:47:56,Pune,Maharashtra,India,Fire Accident,Brake Failure,Fatal,4,1,2,Rainy,Potholes,No,10.2,Max Healthcare
+ACC00670,2025-04-26,08:24:22,Jaipur,Rajasthan,India,Pedestrian Involved,Poor Lighting,Moderate,4,3,1,Rainy,Under Construction,No,41.9,Apollo Hospitals
+ACC00671,2025-03-14,13:37:48,Lucknow,Uttar Pradesh,India,Fire Accident,Over Speeding,Minor,3,2,1,Rainy,Dry,No,17.2,AIIMS
+ACC00672,2025-03-23,13:53:44,Ahmedabad,Gujarat,India,Bus,Brake Failure,Minor,2,1,5,Stormy,Dry,No,40.6,Fortis Healthcare
+ACC00673,2025-02-27,22:25:07,Bengaluru,Karnataka,India,Slip & Fall,Over Speeding,Minor,5,2,1,Clear,Potholes,No,27.9,Max Healthcare
+ACC00674,2025-02-21,03:23:11,Pune,Maharashtra,India,Train,Road Conditions,Fatal,4,1,2,Stormy,Potholes,No,11.0,AIIMS
+ACC00675,2025-04-29,22:22:00,Delhi,Delhi,India,Fire Accident,Brake Failure,Moderate,4,2,5,Clear,Potholes,No,30.8,Fortis Healthcare
+ACC00676,2025-03-17,10:26:34,Mumbai,Maharashtra,India,Bus,Human Error,Minor,5,0,2,Clear,Under Construction,Yes,35.0,Max Healthcare
+ACC00677,2025-04-21,04:46:46,Mumbai,Maharashtra,India,Pedestrian Involved,Poor Lighting,Moderate,1,2,2,Rainy,Under Construction,No,8.4,Max Healthcare
+ACC00678,2025-04-06,10:14:52,Lucknow,Uttar Pradesh,India,Train,Brake Failure,Minor,4,0,3,Stormy,Wet,No,6.0,Max Healthcare
+ACC00679,2025-03-16,16:00:25,Chennai,Tamil Nadu,India,Fire Accident,Weather Conditions,Minor,1,0,5,Rainy,Gravel,Yes,12.3,Apollo Hospitals
+ACC00680,2025-02-01,03:59:14,Bengaluru,Karnataka,India,Bus,Brake Failure,Moderate,1,2,2,Clear,Dry,No,20.6,AIIMS
+ACC00681,2025-02-10,09:59:57,Bengaluru,Karnataka,India,Fire Accident,Weather Conditions,Severe,4,0,1,Rainy,Wet,Yes,24.7,Max Healthcare
+ACC00682,2025-04-29,11:37:41,Kolkata,West Bengal,India,Pedestrian Involved,Weather Conditions,Minor,3,3,5,Stormy,Dry,No,6.2,Fortis Healthcare
+ACC00683,2025-01-13,19:49:46,Mumbai,Maharashtra,India,Bus,Human Error,Minor,2,1,3,Stormy,Potholes,Yes,38.9,Max Healthcare
+ACC00684,2025-03-30,19:15:03,Hyderabad,Telangana,India,Two-Wheeler,Weather Conditions,Moderate,2,3,5,Stormy,Dry,Yes,37.5,Max Healthcare
+ACC00685,2025-04-25,04:03:36,Ahmedabad,Gujarat,India,Two-Wheeler,Over Speeding,Minor,4,2,5,Foggy,Potholes,No,38.7,Fortis Healthcare
+ACC00686,2025-04-18,16:12:50,Lucknow,Uttar Pradesh,India,Bus,Over Speeding,Moderate,5,0,3,Clear,Potholes,Yes,38.2,Max Healthcare
+ACC00687,2025-01-12,06:16:04,Ahmedabad,Gujarat,India,Fire Accident,Drunk Driving,Severe,3,2,6,Stormy,Gravel,Yes,31.5,AIIMS
+ACC00688,2025-01-24,18:06:35,Chennai,Tamil Nadu,India,Truck,Brake Failure,Severe,1,1,6,Clear,Under Construction,No,5.2,Apollo Hospitals
+ACC00689,2025-01-12,23:20:15,Bengaluru,Karnataka,India,Fire Accident,Human Error,Fatal,4,0,6,Clear,Under Construction,Yes,40.7,Manipal Hospital
+ACC00690,2025-03-04,02:19:05,Delhi,Delhi,India,Train,Road Conditions,Fatal,5,2,4,Rainy,Dry,Yes,23.5,Fortis Healthcare
+ACC00691,2025-04-14,06:48:35,Pune,Maharashtra,India,Vehicle Collision,Drunk Driving,Minor,3,2,2,Clear,Under Construction,No,37.3,Fortis Healthcare
+ACC00692,2025-01-19,09:10:10,Hyderabad,Telangana,India,Slip & Fall,Weather Conditions,Minor,3,3,6,Rainy,Dry,Yes,44.4,Manipal Hospital
+ACC00693,2025-05-06,04:42:05,Delhi,Delhi,India,Bus,Human Error,Fatal,2,1,6,Rainy,Dry,Yes,34.8,Fortis Healthcare
+ACC00694,2025-04-29,03:29:34,Ahmedabad,Gujarat,India,Truck,Human Error,Severe,2,0,6,Foggy,Under Construction,No,5.1,Manipal Hospital
+ACC00695,2025-04-26,00:24:40,Mumbai,Maharashtra,India,Train,Brake Failure,Fatal,3,0,6,Stormy,Potholes,No,25.7,Apollo Hospitals
+ACC00696,2025-01-30,05:06:21,Hyderabad,Telangana,India,Vehicle Collision,Weather Conditions,Fatal,5,3,3,Clear,Potholes,Yes,18.4,Max Healthcare
+ACC00697,2025-04-14,21:10:20,Mumbai,Maharashtra,India,Truck,Poor Lighting,Fatal,1,1,2,Rainy,Gravel,No,7.5,Apollo Hospitals
+ACC00698,2025-02-13,10:10:16,Mumbai,Maharashtra,India,Slip & Fall,Brake Failure,Minor,5,2,3,Rainy,Dry,No,14.5,AIIMS
+ACC00699,2025-03-31,12:53:19,Mumbai,Maharashtra,India,Train,Human Error,Moderate,1,3,1,Stormy,Under Construction,Yes,8.4,Apollo Hospitals
+ACC00700,2025-04-06,16:41:24,Mumbai,Maharashtra,India,Fire Accident,Weather Conditions,Minor,2,0,4,Clear,Gravel,No,7.6,Apollo Hospitals
+ACC00701,2025-02-25,06:47:39,Jaipur,Rajasthan,India,Vehicle Collision,Weather Conditions,Fatal,4,0,5,Stormy,Wet,Yes,23.1,Manipal Hospital
+ACC00702,2025-04-18,08:36:00,Kolkata,West Bengal,India,Pedestrian Involved,Weather Conditions,Minor,4,2,5,Rainy,Dry,Yes,5.5,Apollo Hospitals
+ACC00703,2025-04-22,19:20:13,Lucknow,Uttar Pradesh,India,Truck,Human Error,Moderate,5,2,3,Stormy,Potholes,No,12.4,Fortis Healthcare
+ACC00704,2025-04-03,08:20:19,Mumbai,Maharashtra,India,Vehicle Collision,Drunk Driving,Severe,5,3,5,Foggy,Gravel,Yes,10.9,AIIMS
+ACC00705,2025-01-01,06:34:24,Lucknow,Uttar Pradesh,India,Train,Weather Conditions,Severe,1,1,1,Rainy,Under Construction,Yes,21.9,Fortis Healthcare
+ACC00706,2025-04-04,11:28:30,Hyderabad,Telangana,India,Truck,Road Conditions,Minor,3,1,6,Stormy,Potholes,No,39.1,Max Healthcare
+ACC00707,2025-02-12,20:31:04,Chennai,Tamil Nadu,India,Bus,Brake Failure,Severe,2,0,4,Clear,Potholes,Yes,41.8,Fortis Healthcare
+ACC00708,2025-02-11,06:22:28,Hyderabad,Telangana,India,Slip & Fall,Human Error,Moderate,2,3,6,Foggy,Potholes,Yes,21.0,Apollo Hospitals
+ACC00709,2025-03-17,06:50:27,Chennai,Tamil Nadu,India,Vehicle Collision,Over Speeding,Severe,1,0,2,Foggy,Potholes,Yes,30.3,AIIMS
+ACC00710,2025-01-17,12:50:30,Mumbai,Maharashtra,India,Vehicle Collision,Drunk Driving,Moderate,3,1,2,Foggy,Wet,No,38.9,Fortis Healthcare
+ACC00711,2025-01-19,08:10:51,Bengaluru,Karnataka,India,Truck,Over Speeding,Moderate,3,0,1,Rainy,Potholes,Yes,18.5,Fortis Healthcare
+ACC00712,2025-01-02,19:57:42,Ahmedabad,Gujarat,India,Slip & Fall,Drunk Driving,Severe,3,1,5,Stormy,Dry,Yes,10.8,Fortis Healthcare
+ACC00713,2025-05-06,11:58:34,Hyderabad,Telangana,India,Truck,Human Error,Fatal,3,2,5,Stormy,Wet,Yes,35.5,Max Healthcare
+ACC00714,2025-01-13,06:49:45,Hyderabad,Telangana,India,Bus,Road Conditions,Moderate,3,1,1,Foggy,Wet,No,13.4,Apollo Hospitals
+ACC00715,2025-04-08,22:20:16,Pune,Maharashtra,India,Pedestrian Involved,Drunk Driving,Fatal,5,2,4,Stormy,Wet,No,33.5,Max Healthcare
+ACC00716,2025-01-17,14:08:26,Pune,Maharashtra,India,Slip & Fall,Brake Failure,Severe,5,3,6,Clear,Wet,Yes,40.8,Manipal Hospital
+ACC00717,2025-03-02,21:20:40,Hyderabad,Telangana,India,Fire Accident,Drunk Driving,Severe,4,3,5,Rainy,Gravel,No,27.0,Fortis Healthcare
+ACC00718,2025-01-24,15:28:55,Delhi,Delhi,India,Bus,Brake Failure,Severe,2,0,4,Foggy,Potholes,No,23.7,Manipal Hospital
+ACC00719,2025-02-28,04:45:17,Chennai,Tamil Nadu,India,Slip & Fall,Weather Conditions,Severe,4,0,2,Stormy,Wet,No,30.8,AIIMS
+ACC00720,2025-04-11,10:15:22,Delhi,Delhi,India,Bus,Road Conditions,Minor,3,1,1,Clear,Dry,No,6.5,Fortis Healthcare
+ACC00721,2025-03-05,01:14:26,Chennai,Tamil Nadu,India,Truck,Poor Lighting,Severe,3,2,6,Foggy,Wet,Yes,44.9,Max Healthcare
+ACC00722,2025-03-01,08:48:18,Ahmedabad,Gujarat,India,Vehicle Collision,Road Conditions,Severe,3,2,4,Stormy,Under Construction,Yes,23.9,Max Healthcare
+ACC00723,2025-02-19,14:16:32,Bengaluru,Karnataka,India,Fire Accident,Drunk Driving,Moderate,2,3,2,Stormy,Potholes,No,36.7,AIIMS
+ACC00724,2025-04-17,04:00:45,Hyderabad,Telangana,India,Fire Accident,Road Conditions,Fatal,2,3,4,Clear,Gravel,Yes,28.1,Fortis Healthcare
+ACC00725,2025-04-22,18:22:24,Ahmedabad,Gujarat,India,Vehicle Collision,Brake Failure,Severe,3,1,4,Stormy,Potholes,No,18.0,Apollo Hospitals
+ACC00726,2025-05-08,08:43:48,Lucknow,Uttar Pradesh,India,Vehicle Collision,Drunk Driving,Moderate,3,3,4,Rainy,Potholes,Yes,26.4,Fortis Healthcare
+ACC00727,2025-04-29,13:03:37,Pune,Maharashtra,India,Pedestrian Involved,Weather Conditions,Fatal,3,0,2,Clear,Under Construction,Yes,6.3,Max Healthcare
+ACC00728,2025-01-08,08:04:31,Pune,Maharashtra,India,Vehicle Collision,Drunk Driving,Moderate,1,3,3,Rainy,Wet,No,31.4,Apollo Hospitals
+ACC00729,2025-04-15,14:14:55,Pune,Maharashtra,India,Vehicle Collision,Weather Conditions,Minor,2,2,4,Stormy,Wet,Yes,10.2,Manipal Hospital
+ACC00730,2025-01-30,09:58:48,Pune,Maharashtra,India,Pedestrian Involved,Brake Failure,Moderate,2,1,3,Stormy,Potholes,Yes,29.1,AIIMS
+ACC00731,2025-02-19,16:00:43,Lucknow,Uttar Pradesh,India,Truck,Human Error,Fatal,3,1,1,Rainy,Potholes,Yes,38.0,Max Healthcare
+ACC00732,2025-02-07,22:37:56,Hyderabad,Telangana,India,Train,Human Error,Fatal,4,3,5,Clear,Dry,No,30.9,Manipal Hospital
+ACC00733,2025-02-18,14:14:27,Chennai,Tamil Nadu,India,Bus,Brake Failure,Moderate,4,1,2,Stormy,Potholes,No,41.4,Fortis Healthcare
+ACC00734,2025-04-23,01:44:36,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Brake Failure,Minor,2,1,3,Foggy,Dry,Yes,41.3,Manipal Hospital
+ACC00735,2025-04-26,17:51:58,Jaipur,Rajasthan,India,Pedestrian Involved,Weather Conditions,Minor,1,2,4,Stormy,Wet,No,13.3,Apollo Hospitals
+ACC00736,2025-05-03,11:35:08,Pune,Maharashtra,India,Vehicle Collision,Over Speeding,Fatal,4,2,6,Stormy,Wet,No,6.5,AIIMS
+ACC00737,2025-04-14,03:11:04,Delhi,Delhi,India,Two-Wheeler,Weather Conditions,Fatal,4,3,1,Clear,Under Construction,Yes,33.5,Manipal Hospital
+ACC00738,2025-01-01,19:18:07,Bengaluru,Karnataka,India,Slip & Fall,Road Conditions,Severe,2,1,1,Clear,Wet,No,10.0,Manipal Hospital
+ACC00739,2025-01-31,06:26:26,Bengaluru,Karnataka,India,Pedestrian Involved,Poor Lighting,Minor,3,1,4,Foggy,Wet,Yes,33.6,Max Healthcare
+ACC00740,2025-04-21,05:34:02,Hyderabad,Telangana,India,Slip & Fall,Poor Lighting,Minor,5,0,4,Foggy,Potholes,Yes,28.9,Apollo Hospitals
+ACC00741,2025-02-15,22:22:12,Kolkata,West Bengal,India,Truck,Drunk Driving,Severe,2,1,1,Clear,Potholes,Yes,44.6,AIIMS
+ACC00742,2025-03-08,18:24:29,Hyderabad,Telangana,India,Pedestrian Involved,Drunk Driving,Minor,2,1,1,Stormy,Under Construction,Yes,37.6,AIIMS
+ACC00743,2025-04-04,04:34:24,Jaipur,Rajasthan,India,Truck,Human Error,Moderate,5,3,4,Clear,Wet,Yes,9.2,AIIMS
+ACC00744,2025-05-05,18:50:00,Bengaluru,Karnataka,India,Vehicle Collision,Brake Failure,Severe,1,3,2,Stormy,Wet,Yes,31.3,AIIMS
+ACC00745,2025-01-14,03:30:35,Lucknow,Uttar Pradesh,India,Train,Over Speeding,Minor,2,3,3,Stormy,Dry,Yes,15.1,Apollo Hospitals
+ACC00746,2025-03-07,06:35:12,Lucknow,Uttar Pradesh,India,Train,Poor Lighting,Fatal,2,2,2,Foggy,Potholes,Yes,18.4,Max Healthcare
+ACC00747,2025-04-17,00:53:15,Lucknow,Uttar Pradesh,India,Slip & Fall,Brake Failure,Moderate,5,0,2,Clear,Under Construction,Yes,17.4,Manipal Hospital
+ACC00748,2025-01-17,15:23:44,Hyderabad,Telangana,India,Pedestrian Involved,Over Speeding,Moderate,3,3,3,Rainy,Wet,No,13.2,Apollo Hospitals
+ACC00749,2025-05-07,22:10:27,Hyderabad,Telangana,India,Slip & Fall,Poor Lighting,Severe,2,2,3,Clear,Under Construction,No,30.9,AIIMS
+ACC00750,2025-03-09,07:13:30,Mumbai,Maharashtra,India,Truck,Road Conditions,Severe,3,1,2,Clear,Wet,Yes,29.3,Manipal Hospital
+ACC00751,2025-02-17,13:49:58,Jaipur,Rajasthan,India,Train,Drunk Driving,Fatal,1,0,4,Clear,Wet,Yes,30.4,Fortis Healthcare
+ACC00752,2025-03-09,13:13:43,Hyderabad,Telangana,India,Two-Wheeler,Over Speeding,Moderate,5,1,2,Clear,Potholes,No,17.5,Fortis Healthcare
+ACC00753,2025-02-18,08:19:10,Hyderabad,Telangana,India,Fire Accident,Drunk Driving,Moderate,3,2,5,Stormy,Wet,No,39.5,Manipal Hospital
+ACC00754,2025-03-24,01:17:55,Delhi,Delhi,India,Train,Brake Failure,Fatal,2,3,4,Stormy,Under Construction,No,35.4,Manipal Hospital
+ACC00755,2025-03-13,16:46:46,Mumbai,Maharashtra,India,Fire Accident,Brake Failure,Minor,3,1,5,Rainy,Gravel,No,23.5,Manipal Hospital
+ACC00756,2025-05-05,07:05:28,Ahmedabad,Gujarat,India,Fire Accident,Human Error,Fatal,1,2,2,Stormy,Wet,Yes,41.6,Apollo Hospitals
+ACC00757,2025-02-25,18:28:45,Mumbai,Maharashtra,India,Train,Brake Failure,Fatal,4,3,6,Foggy,Potholes,No,17.3,Max Healthcare
+ACC00758,2025-02-17,09:17:30,Delhi,Delhi,India,Fire Accident,Over Speeding,Minor,4,1,2,Stormy,Gravel,No,25.4,Manipal Hospital
+ACC00759,2025-02-08,02:39:23,Chennai,Tamil Nadu,India,Vehicle Collision,Poor Lighting,Fatal,4,1,2,Stormy,Dry,No,30.2,Apollo Hospitals
+ACC00760,2025-02-20,07:31:15,Bengaluru,Karnataka,India,Bus,Human Error,Fatal,2,2,2,Rainy,Dry,Yes,35.8,Manipal Hospital
+ACC00761,2025-02-09,06:41:52,Kolkata,West Bengal,India,Pedestrian Involved,Human Error,Moderate,4,1,4,Foggy,Gravel,No,28.4,Manipal Hospital
+ACC00762,2025-02-27,18:29:30,Delhi,Delhi,India,Pedestrian Involved,Poor Lighting,Severe,2,2,6,Rainy,Potholes,No,5.3,Fortis Healthcare
+ACC00763,2025-01-20,00:55:29,Pune,Maharashtra,India,Vehicle Collision,Over Speeding,Minor,4,3,6,Foggy,Potholes,Yes,12.1,Fortis Healthcare
+ACC00764,2025-04-10,21:49:31,Bengaluru,Karnataka,India,Truck,Brake Failure,Moderate,5,0,4,Rainy,Wet,Yes,7.4,Fortis Healthcare
+ACC00765,2025-02-08,14:45:55,Hyderabad,Telangana,India,Bus,Road Conditions,Fatal,4,0,6,Rainy,Dry,No,8.4,Apollo Hospitals
+ACC00766,2025-05-06,04:48:20,Ahmedabad,Gujarat,India,Pedestrian Involved,Weather Conditions,Minor,5,1,4,Stormy,Dry,Yes,7.4,Apollo Hospitals
+ACC00767,2025-01-29,01:58:35,Lucknow,Uttar Pradesh,India,Vehicle Collision,Over Speeding,Moderate,5,0,4,Foggy,Potholes,No,35.3,Max Healthcare
+ACC00768,2025-02-06,19:48:45,Kolkata,West Bengal,India,Train,Weather Conditions,Severe,3,1,3,Stormy,Potholes,Yes,44.0,AIIMS
+ACC00769,2025-03-06,15:51:11,Delhi,Delhi,India,Vehicle Collision,Brake Failure,Fatal,2,0,5,Clear,Under Construction,No,43.0,Fortis Healthcare
+ACC00770,2025-02-09,16:39:55,Chennai,Tamil Nadu,India,Slip & Fall,Human Error,Fatal,5,3,6,Rainy,Dry,No,5.7,AIIMS
+ACC00771,2025-04-30,02:40:49,Mumbai,Maharashtra,India,Train,Poor Lighting,Fatal,2,3,4,Clear,Gravel,No,42.6,Manipal Hospital
+ACC00772,2025-04-24,00:32:40,Delhi,Delhi,India,Fire Accident,Weather Conditions,Moderate,2,0,2,Stormy,Dry,No,38.3,Max Healthcare
+ACC00773,2025-04-14,03:21:51,Pune,Maharashtra,India,Two-Wheeler,Brake Failure,Minor,4,1,2,Rainy,Wet,Yes,9.2,Apollo Hospitals
+ACC00774,2025-05-08,03:34:22,Bengaluru,Karnataka,India,Train,Brake Failure,Severe,2,2,6,Stormy,Dry,Yes,41.9,Manipal Hospital
+ACC00775,2025-02-11,03:10:30,Delhi,Delhi,India,Train,Road Conditions,Moderate,5,0,6,Foggy,Potholes,No,31.2,Max Healthcare
+ACC00776,2025-03-09,16:09:10,Kolkata,West Bengal,India,Truck,Drunk Driving,Severe,1,2,1,Clear,Dry,No,34.6,Fortis Healthcare
+ACC00777,2025-04-29,00:14:23,Delhi,Delhi,India,Train,Drunk Driving,Severe,4,0,3,Clear,Under Construction,Yes,38.9,Manipal Hospital
+ACC00778,2025-02-22,04:08:36,Chennai,Tamil Nadu,India,Train,Road Conditions,Moderate,5,1,1,Stormy,Dry,No,17.6,AIIMS
+ACC00779,2025-02-22,18:30:13,Hyderabad,Telangana,India,Slip & Fall,Poor Lighting,Fatal,2,2,2,Clear,Under Construction,No,17.4,Apollo Hospitals
+ACC00780,2025-03-29,16:45:46,Ahmedabad,Gujarat,India,Slip & Fall,Poor Lighting,Moderate,4,2,6,Stormy,Dry,No,11.1,Fortis Healthcare
+ACC00781,2025-03-14,09:48:12,Hyderabad,Telangana,India,Vehicle Collision,Road Conditions,Moderate,4,3,3,Rainy,Dry,No,18.5,Manipal Hospital
+ACC00782,2025-03-11,03:48:15,Chennai,Tamil Nadu,India,Fire Accident,Brake Failure,Minor,5,2,3,Rainy,Under Construction,No,8.9,AIIMS
+ACC00783,2025-03-06,13:56:22,Lucknow,Uttar Pradesh,India,Vehicle Collision,Road Conditions,Severe,4,1,5,Rainy,Potholes,No,16.6,Fortis Healthcare
+ACC00784,2025-05-04,02:50:57,Hyderabad,Telangana,India,Truck,Road Conditions,Moderate,1,2,6,Clear,Wet,No,43.0,Manipal Hospital
+ACC00785,2025-02-26,16:34:39,Bengaluru,Karnataka,India,Vehicle Collision,Over Speeding,Severe,4,1,1,Clear,Under Construction,No,28.7,Fortis Healthcare
+ACC00786,2025-02-16,05:21:39,Kolkata,West Bengal,India,Truck,Over Speeding,Minor,2,3,4,Foggy,Under Construction,Yes,31.1,Manipal Hospital
+ACC00787,2025-05-03,11:41:17,Delhi,Delhi,India,Slip & Fall,Road Conditions,Fatal,3,3,3,Clear,Dry,Yes,8.3,Manipal Hospital
+ACC00788,2025-04-10,20:25:25,Jaipur,Rajasthan,India,Truck,Over Speeding,Fatal,3,0,5,Rainy,Potholes,No,45.0,Manipal Hospital
+ACC00789,2025-05-02,09:35:49,Ahmedabad,Gujarat,India,Two-Wheeler,Over Speeding,Severe,1,1,4,Clear,Potholes,No,7.6,Max Healthcare
+ACC00790,2025-01-07,02:18:40,Jaipur,Rajasthan,India,Pedestrian Involved,Road Conditions,Moderate,1,1,5,Rainy,Dry,No,37.0,Apollo Hospitals
+ACC00791,2025-04-06,08:52:11,Mumbai,Maharashtra,India,Two-Wheeler,Human Error,Moderate,2,0,5,Foggy,Dry,Yes,44.2,Max Healthcare
+ACC00792,2025-04-03,04:30:36,Ahmedabad,Gujarat,India,Train,Human Error,Moderate,4,0,2,Foggy,Dry,No,31.4,Manipal Hospital
+ACC00793,2025-03-14,14:53:16,Bengaluru,Karnataka,India,Slip & Fall,Poor Lighting,Severe,5,2,5,Rainy,Dry,Yes,14.5,Fortis Healthcare
+ACC00794,2025-02-08,19:28:53,Bengaluru,Karnataka,India,Bus,Road Conditions,Moderate,2,1,5,Foggy,Gravel,Yes,34.2,Manipal Hospital
+ACC00795,2025-03-21,04:02:32,Delhi,Delhi,India,Bus,Weather Conditions,Fatal,2,3,4,Clear,Gravel,No,42.6,Fortis Healthcare
+ACC00796,2025-03-24,07:55:55,Jaipur,Rajasthan,India,Truck,Over Speeding,Severe,2,2,5,Rainy,Potholes,Yes,17.7,Manipal Hospital
+ACC00797,2025-02-13,13:13:05,Kolkata,West Bengal,India,Vehicle Collision,Human Error,Moderate,1,2,1,Clear,Under Construction,No,7.6,Apollo Hospitals
+ACC00798,2025-03-18,12:52:51,Chennai,Tamil Nadu,India,Train,Road Conditions,Severe,2,1,3,Clear,Dry,No,44.2,Fortis Healthcare
+ACC00799,2025-01-21,06:36:34,Kolkata,West Bengal,India,Pedestrian Involved,Road Conditions,Minor,2,2,5,Stormy,Dry,No,33.0,AIIMS
+ACC00800,2025-04-30,14:51:21,Jaipur,Rajasthan,India,Bus,Human Error,Minor,1,1,3,Stormy,Wet,No,37.2,Max Healthcare
+ACC00801,2025-04-10,05:01:58,Jaipur,Rajasthan,India,Fire Accident,Brake Failure,Moderate,3,0,6,Rainy,Wet,Yes,20.2,AIIMS
+ACC00802,2025-01-19,05:10:00,Mumbai,Maharashtra,India,Train,Poor Lighting,Moderate,5,3,6,Stormy,Wet,No,44.4,Manipal Hospital
+ACC00803,2025-01-16,04:09:27,Jaipur,Rajasthan,India,Bus,Weather Conditions,Fatal,5,1,3,Clear,Gravel,No,35.8,Apollo Hospitals
+ACC00804,2025-03-20,11:22:38,Delhi,Delhi,India,Pedestrian Involved,Poor Lighting,Moderate,1,1,5,Clear,Dry,No,27.2,Manipal Hospital
+ACC00805,2025-02-11,17:14:13,Mumbai,Maharashtra,India,Fire Accident,Poor Lighting,Moderate,4,3,5,Clear,Potholes,Yes,29.7,Apollo Hospitals
+ACC00806,2025-01-24,09:12:13,Kolkata,West Bengal,India,Train,Drunk Driving,Minor,5,3,2,Rainy,Wet,Yes,19.7,Fortis Healthcare
+ACC00807,2025-02-09,18:53:24,Jaipur,Rajasthan,India,Train,Over Speeding,Fatal,4,3,2,Foggy,Dry,No,41.6,Fortis Healthcare
+ACC00808,2025-01-04,12:38:15,Jaipur,Rajasthan,India,Pedestrian Involved,Weather Conditions,Severe,4,2,3,Rainy,Dry,No,13.7,AIIMS
+ACC00809,2025-03-18,07:54:18,Jaipur,Rajasthan,India,Vehicle Collision,Brake Failure,Fatal,1,2,1,Stormy,Gravel,No,19.2,Apollo Hospitals
+ACC00810,2025-02-24,05:27:04,Chennai,Tamil Nadu,India,Two-Wheeler,Brake Failure,Severe,1,0,4,Stormy,Wet,Yes,26.2,Fortis Healthcare
+ACC00811,2025-01-26,01:10:25,Kolkata,West Bengal,India,Pedestrian Involved,Brake Failure,Minor,2,2,2,Stormy,Potholes,No,17.0,Manipal Hospital
+ACC00812,2025-02-01,00:09:17,Bengaluru,Karnataka,India,Bus,Over Speeding,Fatal,4,1,2,Foggy,Potholes,Yes,19.4,Fortis Healthcare
+ACC00813,2025-03-17,19:26:09,Delhi,Delhi,India,Truck,Weather Conditions,Minor,2,3,4,Foggy,Dry,Yes,31.6,Manipal Hospital
+ACC00814,2025-05-01,05:28:24,Ahmedabad,Gujarat,India,Pedestrian Involved,Brake Failure,Fatal,5,3,6,Rainy,Gravel,No,25.1,Manipal Hospital
+ACC00815,2025-01-13,08:27:10,Bengaluru,Karnataka,India,Pedestrian Involved,Over Speeding,Minor,2,1,3,Clear,Wet,Yes,32.1,AIIMS
+ACC00816,2025-01-23,13:44:12,Kolkata,West Bengal,India,Vehicle Collision,Brake Failure,Fatal,3,2,4,Clear,Potholes,Yes,29.7,Max Healthcare
+ACC00817,2025-01-23,09:58:37,Bengaluru,Karnataka,India,Truck,Weather Conditions,Minor,3,1,6,Stormy,Wet,No,33.3,Apollo Hospitals
+ACC00818,2025-03-20,08:06:23,Jaipur,Rajasthan,India,Two-Wheeler,Drunk Driving,Moderate,2,0,2,Stormy,Dry,No,44.6,Fortis Healthcare
+ACC00819,2025-03-09,12:50:17,Kolkata,West Bengal,India,Vehicle Collision,Human Error,Moderate,1,0,4,Stormy,Under Construction,No,33.0,Fortis Healthcare
+ACC00820,2025-05-02,17:07:29,Hyderabad,Telangana,India,Train,Brake Failure,Fatal,1,3,6,Clear,Gravel,Yes,15.8,AIIMS
+ACC00821,2025-02-25,04:33:26,Chennai,Tamil Nadu,India,Fire Accident,Drunk Driving,Severe,1,1,1,Clear,Dry,No,13.5,Manipal Hospital
+ACC00822,2025-04-11,12:40:48,Ahmedabad,Gujarat,India,Pedestrian Involved,Brake Failure,Moderate,3,3,3,Foggy,Gravel,Yes,8.9,Apollo Hospitals
+ACC00823,2025-03-24,09:53:20,Jaipur,Rajasthan,India,Two-Wheeler,Weather Conditions,Severe,3,2,2,Foggy,Wet,No,8.5,Apollo Hospitals
+ACC00824,2025-04-07,04:07:32,Bengaluru,Karnataka,India,Pedestrian Involved,Over Speeding,Moderate,2,3,1,Clear,Under Construction,No,17.1,Manipal Hospital
+ACC00825,2025-02-27,18:24:44,Hyderabad,Telangana,India,Two-Wheeler,Over Speeding,Moderate,2,3,5,Foggy,Under Construction,No,40.8,Manipal Hospital
+ACC00826,2025-01-02,20:28:17,Delhi,Delhi,India,Fire Accident,Over Speeding,Fatal,4,0,2,Foggy,Wet,No,6.8,Max Healthcare
+ACC00827,2025-05-06,09:19:57,Mumbai,Maharashtra,India,Truck,Poor Lighting,Fatal,4,0,2,Stormy,Under Construction,No,27.5,Manipal Hospital
+ACC00828,2025-04-19,19:31:56,Kolkata,West Bengal,India,Bus,Drunk Driving,Moderate,1,1,5,Rainy,Under Construction,Yes,40.2,Max Healthcare
+ACC00829,2025-04-21,07:02:21,Pune,Maharashtra,India,Bus,Weather Conditions,Moderate,3,2,5,Clear,Wet,Yes,6.8,Fortis Healthcare
+ACC00830,2025-01-29,16:21:12,Ahmedabad,Gujarat,India,Vehicle Collision,Poor Lighting,Moderate,3,1,3,Clear,Wet,Yes,26.4,Apollo Hospitals
+ACC00831,2025-03-25,04:20:50,Chennai,Tamil Nadu,India,Train,Weather Conditions,Minor,5,2,6,Rainy,Potholes,No,18.0,Apollo Hospitals
+ACC00832,2025-03-21,15:09:24,Mumbai,Maharashtra,India,Train,Drunk Driving,Severe,2,2,1,Clear,Potholes,No,39.8,Max Healthcare
+ACC00833,2025-01-24,18:33:22,Jaipur,Rajasthan,India,Truck,Road Conditions,Fatal,2,2,3,Rainy,Under Construction,No,11.2,Fortis Healthcare
+ACC00834,2025-03-28,00:43:58,Kolkata,West Bengal,India,Train,Drunk Driving,Fatal,1,3,2,Stormy,Wet,Yes,12.6,Manipal Hospital
+ACC00835,2025-04-26,16:24:55,Bengaluru,Karnataka,India,Bus,Over Speeding,Severe,2,1,4,Rainy,Dry,Yes,7.9,Fortis Healthcare
+ACC00836,2025-02-06,09:40:36,Pune,Maharashtra,India,Fire Accident,Over Speeding,Moderate,1,0,4,Stormy,Dry,Yes,38.1,Apollo Hospitals
+ACC00837,2025-02-01,13:11:24,Bengaluru,Karnataka,India,Truck,Road Conditions,Minor,3,1,6,Clear,Dry,Yes,26.7,AIIMS
+ACC00838,2025-02-18,23:53:00,Delhi,Delhi,India,Truck,Drunk Driving,Fatal,5,3,2,Foggy,Gravel,No,11.2,Apollo Hospitals
+ACC00839,2025-02-01,16:43:33,Jaipur,Rajasthan,India,Bus,Poor Lighting,Minor,1,0,1,Foggy,Dry,No,10.7,Fortis Healthcare
+ACC00840,2025-03-29,16:36:12,Mumbai,Maharashtra,India,Truck,Brake Failure,Fatal,2,2,6,Foggy,Wet,No,32.5,Apollo Hospitals
+ACC00841,2025-02-19,07:20:33,Pune,Maharashtra,India,Two-Wheeler,Over Speeding,Moderate,1,2,3,Clear,Under Construction,No,9.7,Apollo Hospitals
+ACC00842,2025-03-25,14:37:23,Mumbai,Maharashtra,India,Two-Wheeler,Drunk Driving,Fatal,5,2,5,Rainy,Potholes,Yes,40.7,AIIMS
+ACC00843,2025-01-29,16:49:10,Lucknow,Uttar Pradesh,India,Bus,Weather Conditions,Minor,3,3,6,Foggy,Gravel,Yes,36.6,Fortis Healthcare
+ACC00844,2025-05-06,18:11:42,Bengaluru,Karnataka,India,Train,Drunk Driving,Fatal,4,3,1,Clear,Under Construction,No,43.4,AIIMS
+ACC00845,2025-02-08,19:23:43,Bengaluru,Karnataka,India,Pedestrian Involved,Weather Conditions,Moderate,2,3,3,Foggy,Potholes,No,24.3,Manipal Hospital
+ACC00846,2025-04-03,21:48:46,Lucknow,Uttar Pradesh,India,Train,Drunk Driving,Moderate,4,3,5,Stormy,Under Construction,No,26.3,Fortis Healthcare
+ACC00847,2025-03-19,19:54:09,Kolkata,West Bengal,India,Pedestrian Involved,Human Error,Fatal,5,1,6,Clear,Wet,No,5.1,Apollo Hospitals
+ACC00848,2025-02-18,22:30:14,Chennai,Tamil Nadu,India,Slip & Fall,Drunk Driving,Minor,1,2,3,Rainy,Gravel,No,10.8,Max Healthcare
+ACC00849,2025-02-26,19:09:44,Kolkata,West Bengal,India,Truck,Drunk Driving,Moderate,1,1,1,Rainy,Potholes,Yes,32.8,Manipal Hospital
+ACC00850,2025-04-29,14:18:22,Chennai,Tamil Nadu,India,Vehicle Collision,Poor Lighting,Minor,5,0,4,Rainy,Dry,Yes,19.6,Apollo Hospitals
+ACC00851,2025-02-07,12:27:00,Hyderabad,Telangana,India,Pedestrian Involved,Over Speeding,Fatal,2,1,4,Rainy,Under Construction,No,23.8,AIIMS
+ACC00852,2025-03-18,14:36:16,Pune,Maharashtra,India,Vehicle Collision,Weather Conditions,Minor,2,0,6,Clear,Under Construction,Yes,25.1,Apollo Hospitals
+ACC00853,2025-04-01,19:38:01,Kolkata,West Bengal,India,Fire Accident,Poor Lighting,Fatal,5,2,5,Foggy,Wet,No,42.3,AIIMS
+ACC00854,2025-02-22,11:04:23,Delhi,Delhi,India,Fire Accident,Drunk Driving,Moderate,4,0,2,Stormy,Wet,Yes,37.7,Manipal Hospital
+ACC00855,2025-01-11,19:32:47,Pune,Maharashtra,India,Train,Poor Lighting,Fatal,4,1,1,Foggy,Potholes,Yes,15.8,Apollo Hospitals
+ACC00856,2025-02-15,13:09:09,Delhi,Delhi,India,Train,Human Error,Severe,1,1,3,Rainy,Under Construction,Yes,7.6,Max Healthcare
+ACC00857,2025-01-13,10:23:51,Mumbai,Maharashtra,India,Bus,Drunk Driving,Moderate,1,1,3,Clear,Under Construction,Yes,27.5,Manipal Hospital
+ACC00858,2025-03-09,19:24:29,Mumbai,Maharashtra,India,Vehicle Collision,Weather Conditions,Minor,3,0,3,Foggy,Potholes,Yes,17.6,Manipal Hospital
+ACC00859,2025-03-17,03:37:42,Chennai,Tamil Nadu,India,Two-Wheeler,Poor Lighting,Minor,3,3,6,Clear,Under Construction,Yes,5.9,Manipal Hospital
+ACC00860,2025-02-17,06:28:29,Pune,Maharashtra,India,Vehicle Collision,Weather Conditions,Moderate,2,3,1,Clear,Wet,Yes,37.3,Fortis Healthcare
+ACC00861,2025-01-29,11:59:32,Bengaluru,Karnataka,India,Train,Brake Failure,Moderate,3,2,3,Stormy,Dry,No,14.6,Max Healthcare
+ACC00862,2025-03-10,08:47:29,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Drunk Driving,Fatal,1,0,2,Foggy,Under Construction,Yes,25.0,Manipal Hospital
+ACC00863,2025-01-25,15:50:45,Chennai,Tamil Nadu,India,Two-Wheeler,Weather Conditions,Moderate,1,2,5,Foggy,Gravel,Yes,7.8,Manipal Hospital
+ACC00864,2025-04-22,08:47:14,Ahmedabad,Gujarat,India,Slip & Fall,Weather Conditions,Fatal,2,0,5,Stormy,Dry,No,39.4,Manipal Hospital
+ACC00865,2025-03-06,16:27:26,Kolkata,West Bengal,India,Two-Wheeler,Brake Failure,Severe,5,2,3,Clear,Potholes,No,15.5,Apollo Hospitals
+ACC00866,2025-01-03,02:35:57,Lucknow,Uttar Pradesh,India,Vehicle Collision,Poor Lighting,Moderate,5,0,2,Clear,Gravel,No,11.3,Manipal Hospital
+ACC00867,2025-03-13,00:24:51,Delhi,Delhi,India,Truck,Brake Failure,Fatal,1,2,4,Stormy,Under Construction,No,9.4,Fortis Healthcare
+ACC00868,2025-03-20,18:58:39,Delhi,Delhi,India,Fire Accident,Road Conditions,Fatal,2,3,3,Clear,Gravel,No,44.9,Manipal Hospital
+ACC00869,2025-04-13,02:40:03,Hyderabad,Telangana,India,Slip & Fall,Over Speeding,Severe,4,0,5,Rainy,Potholes,Yes,30.6,AIIMS
+ACC00870,2025-04-18,04:53:57,Lucknow,Uttar Pradesh,India,Vehicle Collision,Human Error,Fatal,1,2,4,Stormy,Wet,Yes,13.5,Apollo Hospitals
+ACC00871,2025-02-18,19:42:34,Kolkata,West Bengal,India,Bus,Weather Conditions,Moderate,1,1,1,Foggy,Potholes,Yes,16.9,Manipal Hospital
+ACC00872,2025-04-26,06:51:29,Kolkata,West Bengal,India,Truck,Poor Lighting,Severe,2,0,1,Stormy,Gravel,No,11.6,AIIMS
+ACC00873,2025-03-03,14:41:57,Kolkata,West Bengal,India,Slip & Fall,Brake Failure,Moderate,4,2,6,Stormy,Dry,Yes,8.1,Max Healthcare
+ACC00874,2025-03-09,12:40:21,Lucknow,Uttar Pradesh,India,Two-Wheeler,Weather Conditions,Severe,1,1,4,Rainy,Potholes,No,9.5,Manipal Hospital
+ACC00875,2025-04-13,15:37:22,Ahmedabad,Gujarat,India,Vehicle Collision,Brake Failure,Moderate,4,0,1,Rainy,Wet,No,32.9,Fortis Healthcare
+ACC00876,2025-02-02,04:36:45,Lucknow,Uttar Pradesh,India,Fire Accident,Drunk Driving,Severe,2,1,6,Clear,Gravel,No,5.6,AIIMS
+ACC00877,2025-03-15,10:34:17,Jaipur,Rajasthan,India,Pedestrian Involved,Poor Lighting,Fatal,4,3,4,Foggy,Gravel,No,25.9,AIIMS
+ACC00878,2025-05-05,12:03:35,Delhi,Delhi,India,Two-Wheeler,Brake Failure,Fatal,3,1,5,Rainy,Under Construction,No,20.3,Manipal Hospital
+ACC00879,2025-01-06,22:43:31,Ahmedabad,Gujarat,India,Pedestrian Involved,Over Speeding,Minor,1,0,5,Stormy,Dry,No,35.0,Max Healthcare
+ACC00880,2025-04-12,13:29:16,Jaipur,Rajasthan,India,Pedestrian Involved,Poor Lighting,Fatal,5,0,6,Foggy,Potholes,Yes,13.9,Manipal Hospital
+ACC00881,2025-04-19,03:11:53,Jaipur,Rajasthan,India,Fire Accident,Over Speeding,Moderate,4,0,3,Stormy,Potholes,No,5.3,AIIMS
+ACC00882,2025-01-29,17:43:45,Hyderabad,Telangana,India,Bus,Weather Conditions,Severe,3,3,6,Rainy,Dry,No,6.3,Apollo Hospitals
+ACC00883,2025-02-02,15:00:59,Bengaluru,Karnataka,India,Train,Road Conditions,Severe,3,1,5,Stormy,Wet,No,12.7,Manipal Hospital
+ACC00884,2025-03-29,14:39:59,Mumbai,Maharashtra,India,Fire Accident,Drunk Driving,Fatal,2,3,3,Rainy,Potholes,Yes,9.0,Fortis Healthcare
+ACC00885,2025-02-10,17:48:18,Jaipur,Rajasthan,India,Pedestrian Involved,Poor Lighting,Fatal,3,1,3,Rainy,Dry,Yes,6.0,Apollo Hospitals
+ACC00886,2025-01-04,22:05:13,Lucknow,Uttar Pradesh,India,Two-Wheeler,Over Speeding,Minor,5,3,1,Rainy,Potholes,No,12.5,Fortis Healthcare
+ACC00887,2025-02-11,18:53:14,Ahmedabad,Gujarat,India,Truck,Human Error,Moderate,4,2,6,Clear,Gravel,Yes,42.4,Apollo Hospitals
+ACC00888,2025-01-01,16:06:59,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Over Speeding,Fatal,5,0,1,Rainy,Gravel,No,40.8,Apollo Hospitals
+ACC00889,2025-04-18,06:16:57,Delhi,Delhi,India,Slip & Fall,Road Conditions,Severe,2,3,1,Stormy,Dry,No,7.9,Apollo Hospitals
+ACC00890,2025-01-11,05:10:59,Hyderabad,Telangana,India,Fire Accident,Brake Failure,Severe,4,1,2,Foggy,Dry,Yes,31.4,Max Healthcare
+ACC00891,2025-01-30,00:35:29,Mumbai,Maharashtra,India,Pedestrian Involved,Weather Conditions,Severe,4,0,2,Foggy,Dry,Yes,29.2,Max Healthcare
+ACC00892,2025-03-03,14:12:36,Mumbai,Maharashtra,India,Two-Wheeler,Drunk Driving,Severe,1,1,1,Foggy,Wet,Yes,8.3,Fortis Healthcare
+ACC00893,2025-05-01,17:45:03,Ahmedabad,Gujarat,India,Bus,Brake Failure,Moderate,1,2,6,Foggy,Potholes,No,22.4,Manipal Hospital
+ACC00894,2025-04-15,01:43:13,Hyderabad,Telangana,India,Bus,Drunk Driving,Moderate,3,3,1,Foggy,Wet,Yes,43.2,Manipal Hospital
+ACC00895,2025-04-15,02:18:48,Kolkata,West Bengal,India,Slip & Fall,Brake Failure,Severe,3,0,5,Stormy,Potholes,Yes,27.7,AIIMS
+ACC00896,2025-02-13,02:51:56,Delhi,Delhi,India,Slip & Fall,Drunk Driving,Minor,5,2,5,Stormy,Gravel,No,20.9,Apollo Hospitals
+ACC00897,2025-04-27,12:48:01,Bengaluru,Karnataka,India,Train,Brake Failure,Moderate,3,1,1,Rainy,Gravel,No,10.8,AIIMS
+ACC00898,2025-03-05,18:58:41,Delhi,Delhi,India,Vehicle Collision,Weather Conditions,Minor,3,1,4,Foggy,Wet,Yes,20.4,Max Healthcare
+ACC00899,2025-01-11,12:56:12,Hyderabad,Telangana,India,Truck,Over Speeding,Severe,5,0,5,Stormy,Potholes,No,37.5,Fortis Healthcare
+ACC00900,2025-04-16,10:57:36,Hyderabad,Telangana,India,Vehicle Collision,Road Conditions,Fatal,4,0,3,Stormy,Dry,Yes,23.1,Max Healthcare
+ACC00901,2025-01-13,00:58:42,Chennai,Tamil Nadu,India,Fire Accident,Drunk Driving,Minor,3,0,6,Clear,Potholes,No,10.2,Manipal Hospital
+ACC00902,2025-04-10,20:59:37,Mumbai,Maharashtra,India,Vehicle Collision,Weather Conditions,Minor,1,3,1,Stormy,Gravel,No,17.7,AIIMS
+ACC00903,2025-02-23,06:04:05,Kolkata,West Bengal,India,Pedestrian Involved,Human Error,Severe,4,0,4,Foggy,Potholes,No,38.9,Apollo Hospitals
+ACC00904,2025-04-12,18:46:21,Chennai,Tamil Nadu,India,Pedestrian Involved,Over Speeding,Moderate,1,0,2,Clear,Gravel,No,14.1,Apollo Hospitals
+ACC00905,2025-03-10,03:14:27,Hyderabad,Telangana,India,Train,Road Conditions,Minor,1,2,1,Clear,Dry,No,8.0,AIIMS
+ACC00906,2025-01-28,19:27:37,Lucknow,Uttar Pradesh,India,Fire Accident,Weather Conditions,Moderate,2,3,1,Rainy,Gravel,Yes,35.1,Manipal Hospital
+ACC00907,2025-05-04,00:28:19,Pune,Maharashtra,India,Pedestrian Involved,Human Error,Moderate,5,3,6,Stormy,Gravel,No,35.9,Manipal Hospital
+ACC00908,2025-01-14,05:21:49,Hyderabad,Telangana,India,Pedestrian Involved,Weather Conditions,Severe,1,2,5,Rainy,Wet,Yes,8.0,Manipal Hospital
+ACC00909,2025-04-14,05:10:37,Mumbai,Maharashtra,India,Truck,Over Speeding,Moderate,4,3,2,Stormy,Dry,No,13.3,Max Healthcare
+ACC00910,2025-01-07,06:50:12,Jaipur,Rajasthan,India,Train,Road Conditions,Severe,4,1,5,Clear,Wet,Yes,41.7,Manipal Hospital
+ACC00911,2025-03-03,17:19:07,Pune,Maharashtra,India,Truck,Road Conditions,Fatal,2,0,3,Stormy,Wet,No,43.1,Max Healthcare
+ACC00912,2025-01-09,13:16:00,Delhi,Delhi,India,Two-Wheeler,Brake Failure,Minor,1,1,1,Stormy,Wet,No,6.1,Max Healthcare
+ACC00913,2025-03-27,15:11:00,Pune,Maharashtra,India,Train,Weather Conditions,Minor,5,0,3,Stormy,Wet,Yes,20.9,Manipal Hospital
+ACC00914,2025-01-25,08:03:03,Jaipur,Rajasthan,India,Train,Over Speeding,Fatal,3,2,1,Clear,Potholes,No,12.8,Fortis Healthcare
+ACC00915,2025-02-13,11:41:02,Kolkata,West Bengal,India,Two-Wheeler,Human Error,Severe,5,3,5,Stormy,Dry,Yes,30.9,Apollo Hospitals
+ACC00916,2025-02-14,04:45:38,Hyderabad,Telangana,India,Pedestrian Involved,Over Speeding,Minor,5,2,2,Clear,Under Construction,Yes,16.0,Max Healthcare
+ACC00917,2025-04-17,14:57:07,Kolkata,West Bengal,India,Fire Accident,Brake Failure,Minor,2,2,4,Rainy,Wet,Yes,18.9,AIIMS
+ACC00918,2025-03-20,03:06:32,Lucknow,Uttar Pradesh,India,Bus,Poor Lighting,Minor,1,1,5,Stormy,Gravel,Yes,11.8,Apollo Hospitals
+ACC00919,2025-05-02,10:14:39,Bengaluru,Karnataka,India,Two-Wheeler,Weather Conditions,Fatal,2,0,6,Stormy,Potholes,No,5.8,AIIMS
+ACC00920,2025-03-09,03:51:42,Delhi,Delhi,India,Two-Wheeler,Poor Lighting,Minor,5,2,4,Clear,Potholes,Yes,23.9,Apollo Hospitals
+ACC00921,2025-03-12,12:08:32,Mumbai,Maharashtra,India,Bus,Road Conditions,Moderate,5,1,2,Clear,Dry,No,37.2,AIIMS
+ACC00922,2025-02-24,22:30:53,Pune,Maharashtra,India,Slip & Fall,Poor Lighting,Severe,5,2,6,Stormy,Gravel,No,23.4,AIIMS
+ACC00923,2025-02-18,20:41:54,Ahmedabad,Gujarat,India,Train,Human Error,Fatal,1,2,6,Clear,Wet,No,39.3,Fortis Healthcare
+ACC00924,2025-04-17,17:36:33,Chennai,Tamil Nadu,India,Slip & Fall,Over Speeding,Moderate,5,3,3,Rainy,Dry,Yes,41.8,Manipal Hospital
+ACC00925,2025-04-17,00:43:13,Delhi,Delhi,India,Bus,Poor Lighting,Fatal,5,1,3,Foggy,Gravel,No,28.6,AIIMS
+ACC00926,2025-03-12,05:25:56,Ahmedabad,Gujarat,India,Truck,Over Speeding,Severe,5,0,4,Stormy,Under Construction,No,16.5,Apollo Hospitals
+ACC00927,2025-03-24,00:51:42,Pune,Maharashtra,India,Two-Wheeler,Brake Failure,Moderate,5,2,5,Rainy,Gravel,No,16.5,AIIMS
+ACC00928,2025-01-12,15:02:33,Mumbai,Maharashtra,India,Slip & Fall,Over Speeding,Moderate,3,0,1,Stormy,Gravel,Yes,22.2,Apollo Hospitals
+ACC00929,2025-04-01,10:29:34,Mumbai,Maharashtra,India,Bus,Drunk Driving,Severe,3,1,1,Foggy,Wet,Yes,22.3,Apollo Hospitals
+ACC00930,2025-03-31,22:33:40,Ahmedabad,Gujarat,India,Truck,Over Speeding,Fatal,3,1,6,Stormy,Potholes,No,43.7,Apollo Hospitals
+ACC00931,2025-02-03,18:49:10,Ahmedabad,Gujarat,India,Bus,Human Error,Severe,2,3,6,Foggy,Under Construction,Yes,32.3,Fortis Healthcare
+ACC00932,2025-01-18,09:49:26,Ahmedabad,Gujarat,India,Two-Wheeler,Brake Failure,Moderate,3,2,1,Foggy,Under Construction,No,26.8,Manipal Hospital
+ACC00933,2025-01-28,19:25:15,Kolkata,West Bengal,India,Pedestrian Involved,Drunk Driving,Fatal,3,2,4,Foggy,Potholes,No,21.8,Manipal Hospital
+ACC00934,2025-03-09,06:56:48,Pune,Maharashtra,India,Vehicle Collision,Human Error,Minor,4,0,2,Foggy,Wet,No,10.1,Max Healthcare
+ACC00935,2025-03-16,12:20:02,Lucknow,Uttar Pradesh,India,Bus,Over Speeding,Fatal,2,3,6,Clear,Potholes,No,38.6,Apollo Hospitals
+ACC00936,2025-02-03,14:57:06,Mumbai,Maharashtra,India,Bus,Road Conditions,Minor,3,0,3,Stormy,Gravel,Yes,9.9,Max Healthcare
+ACC00937,2025-02-15,04:42:06,Jaipur,Rajasthan,India,Vehicle Collision,Poor Lighting,Moderate,5,1,5,Stormy,Wet,Yes,40.8,Fortis Healthcare
+ACC00938,2025-01-18,13:18:52,Ahmedabad,Gujarat,India,Bus,Poor Lighting,Minor,4,1,1,Clear,Dry,Yes,29.2,Apollo Hospitals
+ACC00939,2025-03-22,16:45:38,Jaipur,Rajasthan,India,Pedestrian Involved,Drunk Driving,Moderate,1,3,1,Stormy,Potholes,Yes,42.0,AIIMS
+ACC00940,2025-04-23,13:36:42,Kolkata,West Bengal,India,Slip & Fall,Drunk Driving,Moderate,5,2,5,Stormy,Under Construction,Yes,22.3,Apollo Hospitals
+ACC00941,2025-04-21,21:32:18,Bengaluru,Karnataka,India,Two-Wheeler,Road Conditions,Moderate,2,1,4,Stormy,Gravel,No,31.7,Max Healthcare
+ACC00942,2025-02-13,19:31:13,Pune,Maharashtra,India,Train,Poor Lighting,Severe,4,3,6,Clear,Potholes,No,37.5,Fortis Healthcare
+ACC00943,2025-01-03,18:03:38,Mumbai,Maharashtra,India,Bus,Brake Failure,Minor,5,3,1,Foggy,Dry,No,6.7,AIIMS
+ACC00944,2025-04-20,12:42:41,Bengaluru,Karnataka,India,Slip & Fall,Poor Lighting,Fatal,3,0,2,Foggy,Under Construction,Yes,19.0,Max Healthcare
+ACC00945,2025-04-14,12:06:19,Kolkata,West Bengal,India,Pedestrian Involved,Drunk Driving,Moderate,3,2,4,Rainy,Gravel,No,41.9,Apollo Hospitals
+ACC00946,2025-02-28,15:40:30,Pune,Maharashtra,India,Fire Accident,Brake Failure,Moderate,5,2,2,Foggy,Under Construction,No,28.4,Manipal Hospital
+ACC00947,2025-03-16,00:46:57,Delhi,Delhi,India,Vehicle Collision,Over Speeding,Moderate,2,0,6,Clear,Potholes,No,17.9,Fortis Healthcare
+ACC00948,2025-03-13,14:03:00,Hyderabad,Telangana,India,Pedestrian Involved,Drunk Driving,Fatal,4,0,1,Foggy,Dry,Yes,38.9,Apollo Hospitals
+ACC00949,2025-04-28,03:59:27,Pune,Maharashtra,India,Train,Human Error,Minor,2,2,1,Stormy,Potholes,Yes,44.6,Max Healthcare
+ACC00950,2025-04-13,09:55:22,Jaipur,Rajasthan,India,Truck,Drunk Driving,Severe,4,3,6,Foggy,Wet,Yes,34.7,Manipal Hospital
+ACC00951,2025-04-21,12:48:17,Jaipur,Rajasthan,India,Truck,Over Speeding,Minor,1,1,1,Rainy,Dry,No,36.0,Max Healthcare
+ACC00952,2025-02-11,13:19:04,Jaipur,Rajasthan,India,Pedestrian Involved,Weather Conditions,Moderate,5,3,2,Rainy,Under Construction,No,25.0,AIIMS
+ACC00953,2025-01-25,02:30:20,Lucknow,Uttar Pradesh,India,Two-Wheeler,Road Conditions,Minor,4,3,6,Stormy,Dry,Yes,10.1,Max Healthcare
+ACC00954,2025-03-14,12:51:36,Ahmedabad,Gujarat,India,Pedestrian Involved,Over Speeding,Fatal,2,0,5,Foggy,Dry,Yes,37.9,AIIMS
+ACC00955,2025-02-23,10:30:24,Ahmedabad,Gujarat,India,Fire Accident,Poor Lighting,Severe,1,1,3,Clear,Under Construction,Yes,39.1,Max Healthcare
+ACC00956,2025-05-03,05:32:05,Jaipur,Rajasthan,India,Bus,Brake Failure,Minor,5,0,5,Stormy,Gravel,Yes,6.3,Manipal Hospital
+ACC00957,2025-04-12,05:34:57,Ahmedabad,Gujarat,India,Truck,Weather Conditions,Minor,2,1,5,Foggy,Dry,Yes,24.7,Max Healthcare
+ACC00958,2025-03-06,21:08:46,Lucknow,Uttar Pradesh,India,Vehicle Collision,Weather Conditions,Minor,4,0,5,Stormy,Wet,No,33.9,Apollo Hospitals
+ACC00959,2025-03-08,15:30:05,Mumbai,Maharashtra,India,Slip & Fall,Human Error,Moderate,3,3,4,Foggy,Wet,Yes,42.2,Apollo Hospitals
+ACC00960,2025-04-23,14:56:23,Hyderabad,Telangana,India,Fire Accident,Poor Lighting,Minor,5,3,1,Stormy,Potholes,Yes,22.2,Manipal Hospital
+ACC00961,2025-04-17,21:47:34,Jaipur,Rajasthan,India,Two-Wheeler,Over Speeding,Fatal,1,2,3,Rainy,Gravel,No,41.7,Fortis Healthcare
+ACC00962,2025-03-14,19:36:11,Hyderabad,Telangana,India,Pedestrian Involved,Human Error,Minor,2,3,6,Clear,Dry,Yes,37.5,Apollo Hospitals
+ACC00963,2025-04-19,06:54:45,Mumbai,Maharashtra,India,Two-Wheeler,Brake Failure,Moderate,3,0,3,Foggy,Under Construction,Yes,44.9,Fortis Healthcare
+ACC00964,2025-05-03,12:40:44,Lucknow,Uttar Pradesh,India,Fire Accident,Brake Failure,Minor,1,0,3,Rainy,Potholes,No,40.9,Fortis Healthcare
+ACC00965,2025-04-05,08:45:13,Pune,Maharashtra,India,Bus,Weather Conditions,Severe,2,2,3,Clear,Dry,No,41.0,Max Healthcare
+ACC00966,2025-01-27,13:00:29,Pune,Maharashtra,India,Bus,Over Speeding,Moderate,2,1,3,Rainy,Dry,No,34.0,Fortis Healthcare
+ACC00967,2025-02-20,19:07:35,Mumbai,Maharashtra,India,Truck,Poor Lighting,Fatal,4,0,1,Stormy,Dry,No,16.1,Manipal Hospital
+ACC00968,2025-02-05,02:38:43,Ahmedabad,Gujarat,India,Pedestrian Involved,Over Speeding,Severe,5,3,4,Clear,Potholes,No,22.8,Fortis Healthcare
+ACC00969,2025-04-22,01:07:26,Hyderabad,Telangana,India,Fire Accident,Drunk Driving,Fatal,5,0,6,Foggy,Dry,No,42.5,Max Healthcare
+ACC00970,2025-02-07,15:54:27,Chennai,Tamil Nadu,India,Bus,Road Conditions,Moderate,1,2,6,Stormy,Potholes,Yes,37.3,Max Healthcare
+ACC00971,2025-04-10,19:03:28,Kolkata,West Bengal,India,Bus,Road Conditions,Fatal,4,2,2,Stormy,Potholes,Yes,10.3,Apollo Hospitals
+ACC00972,2025-03-24,04:28:45,Ahmedabad,Gujarat,India,Bus,Over Speeding,Moderate,5,2,3,Stormy,Dry,No,19.5,AIIMS
+ACC00973,2025-04-11,21:53:56,Lucknow,Uttar Pradesh,India,Vehicle Collision,Over Speeding,Severe,5,2,3,Rainy,Potholes,No,5.7,Apollo Hospitals
+ACC00974,2025-01-13,21:28:50,Pune,Maharashtra,India,Vehicle Collision,Weather Conditions,Fatal,5,1,4,Clear,Under Construction,Yes,16.1,Max Healthcare
+ACC00975,2025-01-27,17:40:56,Jaipur,Rajasthan,India,Train,Over Speeding,Fatal,2,2,3,Foggy,Potholes,Yes,14.1,Fortis Healthcare
+ACC00976,2025-02-27,10:56:09,Bengaluru,Karnataka,India,Vehicle Collision,Drunk Driving,Minor,1,1,6,Stormy,Under Construction,No,6.7,Fortis Healthcare
+ACC00977,2025-01-31,17:48:47,Mumbai,Maharashtra,India,Bus,Weather Conditions,Minor,3,0,5,Rainy,Gravel,Yes,8.1,Manipal Hospital
+ACC00978,2025-02-07,14:45:30,Delhi,Delhi,India,Pedestrian Involved,Drunk Driving,Moderate,3,2,6,Stormy,Dry,No,40.0,Fortis Healthcare
+ACC00979,2025-01-25,20:47:10,Mumbai,Maharashtra,India,Train,Human Error,Severe,3,3,6,Foggy,Potholes,No,29.9,Fortis Healthcare
+ACC00980,2025-02-19,23:12:09,Chennai,Tamil Nadu,India,Vehicle Collision,Weather Conditions,Moderate,5,0,1,Rainy,Gravel,No,42.6,Manipal Hospital
+ACC00981,2025-01-19,04:30:47,Lucknow,Uttar Pradesh,India,Vehicle Collision,Poor Lighting,Moderate,4,0,1,Rainy,Under Construction,No,26.6,Apollo Hospitals
+ACC00982,2025-04-28,23:20:39,Jaipur,Rajasthan,India,Vehicle Collision,Human Error,Fatal,5,3,3,Foggy,Wet,No,41.4,AIIMS
+ACC00983,2025-05-03,12:48:38,Hyderabad,Telangana,India,Train,Drunk Driving,Fatal,3,0,6,Rainy,Potholes,No,19.5,AIIMS
+ACC00984,2025-01-08,18:31:12,Jaipur,Rajasthan,India,Pedestrian Involved,Weather Conditions,Fatal,5,1,4,Stormy,Wet,Yes,42.0,Fortis Healthcare
+ACC00985,2025-04-01,08:01:26,Kolkata,West Bengal,India,Two-Wheeler,Human Error,Severe,3,2,3,Clear,Dry,No,21.8,Fortis Healthcare
+ACC00986,2025-03-08,14:48:20,Lucknow,Uttar Pradesh,India,Slip & Fall,Poor Lighting,Moderate,2,3,1,Rainy,Dry,No,15.5,Max Healthcare
+ACC00987,2025-01-11,05:19:10,Pune,Maharashtra,India,Pedestrian Involved,Drunk Driving,Minor,4,0,6,Rainy,Dry,Yes,25.6,Max Healthcare
+ACC00988,2025-04-01,13:31:08,Kolkata,West Bengal,India,Fire Accident,Weather Conditions,Moderate,4,1,6,Foggy,Dry,No,40.9,AIIMS
+ACC00989,2025-02-24,11:35:15,Lucknow,Uttar Pradesh,India,Pedestrian Involved,Poor Lighting,Minor,1,2,4,Stormy,Potholes,No,16.6,Manipal Hospital
+ACC00990,2025-03-06,08:27:31,Bengaluru,Karnataka,India,Two-Wheeler,Poor Lighting,Minor,2,0,5,Foggy,Potholes,No,17.8,Fortis Healthcare
+ACC00991,2025-01-12,17:54:52,Jaipur,Rajasthan,India,Bus,Road Conditions,Minor,2,2,4,Foggy,Dry,No,16.4,Manipal Hospital
+ACC00992,2025-02-19,03:03:59,Chennai,Tamil Nadu,India,Two-Wheeler,Drunk Driving,Minor,2,3,5,Foggy,Under Construction,No,9.0,AIIMS
+ACC00993,2025-02-27,13:47:31,Bengaluru,Karnataka,India,Pedestrian Involved,Weather Conditions,Severe,4,3,2,Rainy,Gravel,No,44.6,Apollo Hospitals
+ACC00994,2025-01-05,09:51:50,Hyderabad,Telangana,India,Bus,Drunk Driving,Minor,2,1,1,Clear,Under Construction,Yes,5.3,Apollo Hospitals
+ACC00995,2025-01-12,04:05:45,Chennai,Tamil Nadu,India,Truck,Weather Conditions,Fatal,4,1,4,Foggy,Dry,Yes,22.8,Manipal Hospital
+ACC00996,2025-03-25,15:57:50,Pune,Maharashtra,India,Bus,Over Speeding,Moderate,3,0,3,Clear,Wet,Yes,18.1,Max Healthcare
+ACC00997,2025-01-05,23:41:46,Chennai,Tamil Nadu,India,Bus,Brake Failure,Minor,3,0,4,Clear,Under Construction,No,12.6,Max Healthcare
+ACC00998,2025-04-26,20:22:32,Mumbai,Maharashtra,India,Vehicle Collision,Drunk Driving,Moderate,5,3,2,Rainy,Gravel,No,11.1,Fortis Healthcare
+ACC00999,2025-02-22,12:58:25,Pune,Maharashtra,India,Bus,Drunk Driving,Moderate,1,1,1,Stormy,Dry,No,27.3,Fortis Healthcare
