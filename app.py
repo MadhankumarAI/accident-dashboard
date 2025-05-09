@@ -241,7 +241,7 @@ def get_groq_summary(prompt):
     try:
         response = requests.post(
             "https://api.groq.com/openai/v1/chat/completions",
-            headers={"Authorization": "Bearer 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"},
+            headers={"Authorization": "Bearer api key bro in here"},
             json={
                 "model": "llama3-8b-8192",
                 "messages": [{"role": "user", "content": prompt}]
